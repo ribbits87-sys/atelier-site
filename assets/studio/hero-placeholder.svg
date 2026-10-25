@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="">
+  <!-- 仮の画像（placeholder）。トップの画像が決まったら content/studio/studio.mjs の hero.image を差し替える。 -->
+  <rect width="1200" height="900" fill="#EFE9DD"/>
+  <circle cx="790" cy="360" r="190" fill="#E2E9E6"/>
+  <g fill="none" stroke="#D6CDBD" stroke-width="2">
+    <path d="M0 610 C 260 570 470 640 720 600 S 1060 560 1200 590"/>
+    <path d="M0 680 C 300 650 520 710 760 675 S 1080 640 1200 665"/>
+    <path d="M0 750 C 280 725 540 780 800 748 S 1090 720 1200 740"/>
+  </g>
+  <text x="600" y="842" text-anchor="middle" font-family="Noto Sans, sans-serif" font-size="22" letter-spacing="6" fill="#A79F90">IMAGE · PLACEHOLDER</text>
+</svg>
