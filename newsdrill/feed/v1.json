@@ -1,0 +1,2841 @@
+{
+  "format": 1,
+  "generatedAt": "2026-10-27T01:33:49+09:00",
+  "issues": [
+    {
+      "id": "2026-10-23-fri",
+      "number": 1,
+      "kind": "regular",
+      "publishAt": "2026-10-23T06:30:00+09:00",
+      "covers": {
+        "from": "2026-10-19",
+        "to": "2026-10-22"
+      },
+      "pages": [
+        {
+          "number": 1,
+          "section": "sougou",
+          "stories": [
+            {
+              "id": "2026-10-23-sougou-01",
+              "headline": "上半期の貿易は赤字",
+              "eventOn": "2026-10-21",
+              "field": "keizai",
+              "body": "財務省は2026年10月21日、令和8年度上半期（4〜9月）の貿易統計（速報）を公表した。輸出額・輸入額とも、昭和54年以降の半期として最も大きく、差し引きは2兆8,184億円の赤字となった。増えた品目は、輸出が半導体等電子部品や自動車、輸入が半導体等電子部品や原油及び粗油《そゆ》などだった。",
+              "sources": [
+                {
+                  "title": "令和８年度上半期分貿易統計（速報）の概要",
+                  "publisher": "財務省",
+                  "url": "https://www.customs.go.jp/toukei/shinbun/trade-st/gaiyo2026_4-9.pdf",
+                  "publishedOn": "2026-10-21",
+                  "retrievedOn": "2026-10-22"
+                },
+                {
+                  "title": "令和８年度上半期分貿易統計（速報）",
+                  "publisher": "財務省",
+                  "url": "https://www.customs.go.jp/toukei/shinbun/trade-st/2026/2026_414.pdf",
+                  "publishedOn": "2026-10-21",
+                  "retrievedOn": "2026-10-22"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "2026-10-23-sougou-01-q1",
+                  "kind": "truefalse",
+                  "level": 1,
+                  "prompt": "令和8年度上半期（4〜9月）の貿易統計（速報）で、輸出額から輸入額を差し引いた額は黒字だった。",
+                  "choices": [
+                    "○",
+                    "×"
+                  ],
+                  "answer": 1,
+                  "explanation": "2026年10月21日に財務省が公表した速報で、輸出額から輸入額を差し引いた額は2兆8,184億円の赤字だった。半期ごとに見ると、赤字は11期続いている。",
+                  "terms": [
+                    "boeki-sokuhou"
+                  ]
+                },
+                {
+                  "id": "2026-10-23-sougou-01-q2",
+                  "kind": "choice",
+                  "level": 2,
+                  "prompt": "財務省の説明で、貿易統計は、何をもとに作られるとされているか。",
+                  "choices": [
+                    "企業へのアンケート調査",
+                    "税関への輸出入の申告",
+                    "日本銀行への取引の報告",
+                    "港での貨物の抜き取り検査"
+                  ],
+                  "answer": 1,
+                  "explanation": "財務省の説明では、貿易統計は、税関への輸出入の申告などをもとに作られる。令和8年度上半期（4〜9月）の速報は、2026年10月21日に財務省が公表した。",
+                  "sources": [
+                    {
+                      "title": "よくある質問（2026年10月23日に確認）",
+                      "publisher": "財務省",
+                      "url": "https://www.customs.go.jp/toukei/sankou/howto/faq.htm",
+                      "retrievedOn": "2026-10-23"
+                    },
+                    {
+                      "title": "令和８年度上半期分貿易統計（速報）の概要",
+                      "publisher": "財務省",
+                      "url": "https://www.customs.go.jp/toukei/shinbun/trade-st/gaiyo2026_4-9.pdf",
+                      "publishedOn": "2026-10-21",
+                      "retrievedOn": "2026-10-22"
+                    }
+                  ],
+                  "terms": [
+                    "boeki-toukei"
+                  ]
+                },
+                {
+                  "id": "2026-10-23-sougou-01-q3",
+                  "kind": "choice",
+                  "level": 3,
+                  "prompt": "2026年10月21日に公表された令和8年度上半期（4〜9月）の貿易統計（速報）に関する記述として、最も妥当なのはどれか。",
+                  "choices": [
+                    "輸出額は昭和54年以降の半期の額で最も大きかったが、輸入額は前年同期を下回った。",
+                    "輸入額は昭和54年以降の半期の額で最も大きかったが、輸出額は前年同期を下回った。",
+                    "輸出額と輸入額は、いずれも昭和54年以降の半期の額で最も大きかった。",
+                    "輸出額と輸入額は、いずれも前年同期を下回った。"
+                  ],
+                  "answer": 2,
+                  "explanation": "輸出額・輸入額とも前年同期より増え、どちらも順位を比べられる昭和54年以降の半期の中で1位だった。輸出では半導体等電子部品や自動車、輸入では半導体等電子部品や原油及び粗油《そゆ》などの金額が増えた。"
+                }
+              ],
+              "terms": [
+                "boeki-toukei",
+                "boeki-sokuhou"
+              ]
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "section": "seiji",
+          "stories": [
+            {
+              "id": "2026-10-23-seiji-01",
+              "headline": "AI・デジタル会議初会合",
+              "eventOn": "2026-10-22",
+              "body": "政府は2026年10月20日の閣議で、「AI・デジタル改革推進会議」を開くことを決めた。AIのリスクを最小にすることを前提に、AIとデジタルの活用による社会の変革を政府全体で進める会議で、庶務はデジタル庁が担う。10月22日には、首相官邸で1回目の会議が開かれた。",
+              "sources": [
+                {
+                  "title": "ＡＩ・デジタル改革推進会議の開催について（令和８年10月20日閣議決定）",
+                  "publisher": "デジタル庁（AI・デジタル改革推進会議 第1回の資料）",
+                  "url": "https://www.digital.go.jp/assets/contents/node/basic_page/field_ref_resources/03da50b9-b871-4a47-bfd3-0ac2fc9b21a3/ed182d06/20261022_meeting_ai-digital_docs_01.pdf",
+                  "retrievedOn": "2026-10-22"
+                },
+                {
+                  "title": "令和8年10月20日（火）定例閣議案件",
+                  "publisher": "首相官邸",
+                  "url": "https://www.kantei.go.jp/jp/kakugi/2026/kakugi-2026102001.html",
+                  "publishedOn": "2026-10-20",
+                  "retrievedOn": "2026-10-22"
+                },
+                {
+                  "title": "ＡＩ・デジタル改革推進会議",
+                  "publisher": "首相官邸",
+                  "url": "https://www.kantei.go.jp/jp/pages/20261022choukan_aidigital.html",
+                  "publishedOn": "2026-10-22",
+                  "retrievedOn": "2026-10-22"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "2026-10-23-seiji-01-q1",
+                  "kind": "choice",
+                  "level": 2,
+                  "prompt": "首相官邸の説明で、閣議は誰による会議とされているか。",
+                  "choices": [
+                    "内閣総理大臣と国務大臣",
+                    "内閣総理大臣と事務次官",
+                    "衆参両院の議長と国務大臣",
+                    "衆参両院の議長と事務次官"
+                  ],
+                  "answer": 0,
+                  "explanation": "首相官邸は、閣議を「内閣総理大臣と国務大臣（閣僚）による会議」と説明している。閣議には、内閣官房副長官と内閣法制局長官が陪席《ばいせき》する。2026年10月20日には、この閣議で「AI・デジタル改革推進会議」を開くことが決まった。",
+                  "terms": [
+                    "kakugi-kettei",
+                    "ai"
+                  ],
+                  "sources": [
+                    {
+                      "title": "閣議（2026年10月23日に確認）",
+                      "publisher": "首相官邸",
+                      "url": "https://www.kantei.go.jp/jp/kakugi/index.html",
+                      "retrievedOn": "2026-10-23"
+                    },
+                    {
+                      "title": "内閣制度の概要（2.2 内閣の機能と運営。2026年10月23日に確認）",
+                      "publisher": "首相官邸",
+                      "url": "https://www.kantei.go.jp/jp/seido/seido_2_2.html",
+                      "retrievedOn": "2026-10-23"
+                    },
+                    {
+                      "title": "令和8年10月20日（火）定例閣議案件",
+                      "publisher": "首相官邸",
+                      "url": "https://www.kantei.go.jp/jp/kakugi/2026/kakugi-2026102001.html",
+                      "publishedOn": "2026-10-20",
+                      "retrievedOn": "2026-10-22"
+                    }
+                  ]
+                }
+              ],
+              "terms": [
+                "kakugi-kettei",
+                "ai"
+              ]
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "section": "keizai",
+          "stories": [
+            {
+              "id": "2026-10-23-keizai-01",
+              "headline": "電子商取引が拡大",
+              "eventOn": "2026-10-21",
+              "body": "経済産業省は2026年10月21日、電子商取引（EC）の市場調査の結果を公表した。2025年の国内の消費者向け電子商取引の市場規模は27.6兆円で、前年より増えた。",
+              "sources": [
+                {
+                  "title": "令和7年度電子商取引に関する市場調査の結果を取りまとめました",
+                  "publisher": "経済産業省",
+                  "url": "https://www.meti.go.jp/press/2026/10/20261021001.html",
+                  "publishedOn": "2026-10-21",
+                  "retrievedOn": "2026-10-22"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "2026-10-23-keizai-01-q1",
+                  "kind": "truefalse",
+                  "level": 1,
+                  "prompt": "経済産業省の調査で、2025年の国内の消費者向け電子商取引の市場規模は、前年より大きくなった。",
+                  "choices": [
+                    "○",
+                    "×"
+                  ],
+                  "answer": 0,
+                  "explanation": "2025年の消費者向け電子商取引の市場規模は27.6兆円で、前年より増えた。調査は2026年10月21日に公表された。",
+                  "terms": [
+                    "ec"
+                  ]
+                },
+                {
+                  "id": "2026-10-23-keizai-01-q2",
+                  "kind": "choice",
+                  "level": 2,
+                  "prompt": "電子商取引の種類を表す「BtoB」は、どのような取引を指すか。",
+                  "choices": [
+                    "企業と消費者の間の取引",
+                    "消費者どうしの取引",
+                    "行政と企業の間の取引",
+                    "企業と企業の間の取引"
+                  ],
+                  "answer": 3,
+                  "explanation": "BtoBは、企業どうしの取引を指す。英語では business to business と書く。経済産業省の調査では、企業間の電子商取引をBtoB-ECとしている。",
+                  "terms": [
+                    "btob",
+                    "ec"
+                  ]
+                }
+              ],
+              "terms": [
+                "ec"
+              ]
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "section": "kokusai",
+          "stories": [
+            {
+              "id": "2026-10-23-kokusai-01",
+              "headline": "G7デジタル技術相会合",
+              "eventOn": "2026-10-20",
+              "body": "G7のデジタル・技術大臣会合が2026年10月20日にオンラインで開かれ、日本からは総務大臣が出席した。議長国はフランスで、議題は「AIセキュリティ」と「デジタル空間における青少年保護」の2つだった。",
+              "sources": [
+                {
+                  "title": "G7デジタル・技術大臣会合の開催結果",
+                  "publisher": "総務省",
+                  "url": "https://www.soumu.go.jp/menu_news/s-news/01tsushin06_02000357.html",
+                  "publishedOn": "2026-10-21",
+                  "retrievedOn": "2026-10-22"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "2026-10-23-kokusai-01-q1",
+                  "kind": "truefalse",
+                  "level": 1,
+                  "prompt": "2026年10月20日にオンラインで開かれたG7デジタル・技術大臣会合では、日本が議長国を務めた。",
+                  "choices": [
+                    "○",
+                    "×"
+                  ],
+                  "answer": 1,
+                  "explanation": "議長国はフランス。議題は「AIセキュリティ」と「デジタル空間における青少年保護」の2つで、議論の結果、AIセキュリティについての議長声明が出された。",
+                  "terms": [
+                    "g7",
+                    "ai"
+                  ]
+                }
+              ],
+              "terms": [
+                "g7",
+                "ai"
+              ]
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "section": "shakai",
+          "stories": [
+            {
+              "id": "2026-10-23-shakai-01",
+              "headline": "不登校と学校健診",
+              "eventOn": "2026-10-22",
+              "tags": [
+                "教育"
+              ],
+              "body": "総務省は2026年10月22日、不登校のこどもの学校の健康診断についての調査結果をまとめ、文部科学省、こども家庭庁、厚生労働省に対策を求めた。抽出して調べた小中学校では、令和7年度の健康診断を1科目も受けていなかったのは、中学校の不登校のこどものうち19.9％だった。",
+              "sources": [
+                {
+                  "title": "不登校等のこどもの健康診断に関する調査　＜結果に基づく通知＞",
+                  "publisher": "総務省",
+                  "url": "https://www.soumu.go.jp/menu_news/s-news/hyouka_261022000193158.html",
+                  "publishedOn": "2026-10-22",
+                  "retrievedOn": "2026-10-22"
+                },
+                {
+                  "title": "不登校等のこどもの健康診断に関する調査（概要）",
+                  "publisher": "総務省",
+                  "url": "https://www.soumu.go.jp/main_content/001097343.pdf",
+                  "publishedOn": "2026-10-22",
+                  "retrievedOn": "2026-10-22"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "2026-10-23-shakai-01-q1",
+                  "kind": "truefalse",
+                  "level": 1,
+                  "prompt": "総務省の抽出調査で、令和7年度の学校の健康診断を1科目も受けていなかったのは、中学校の不登校のこどものうち約2割だった。",
+                  "choices": [
+                    "○",
+                    "×"
+                  ],
+                  "answer": 0,
+                  "explanation": "総務省の抽出調査では、令和7年度の学校の健康診断を1科目も受けていなかったのは、中学校の不登校のこどものうち19.9％だった。総務省は2026年10月22日、文部科学省、こども家庭庁、厚生労働省に対策を求めた。",
+                  "terms": [
+                    "gakkou-kenshin"
+                  ]
+                }
+              ],
+              "terms": [
+                "gakkou-kenshin"
+              ]
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "section": "sports",
+          "stories": [
+            {
+              "id": "2026-10-23-sports-01",
+              "headline": "日本シリーズ名簿公示",
+              "eventOn": "2026-10-22",
+              "body": "日本野球機構（NPB）は2026年10月22日、10月24日に開幕する予定の日本シリーズの出場資格者名簿を公示した。対戦するのは横浜DeNAと福岡ソフトバンク。",
+              "sources": [
+                {
+                  "title": "「SMBC日本シリーズ2026」出場資格者名簿公示",
+                  "publisher": "日本野球機構（NPB）",
+                  "url": "https://npb.jp/news/detail/20261022_01.html",
+                  "publishedOn": "2026-10-22",
+                  "retrievedOn": "2026-10-22"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "2026-10-23-sports-01-q1",
+                  "kind": "truefalse",
+                  "level": 1,
+                  "prompt": "2026年の日本シリーズは、横浜DeNAと福岡ソフトバンクの対戦になった。",
+                  "choices": [
+                    "○",
+                    "×"
+                  ],
+                  "answer": 0,
+                  "explanation": "日本野球機構は2026年10月22日、両球団の出場資格者名簿を公示した。出場資格者は1球団40人以内で、日本シリーズは10月24日に開幕する予定。",
+                  "terms": [
+                    "js-shikaku"
+                  ]
+                }
+              ],
+              "terms": [
+                "npb",
+                "js-shikaku"
+              ]
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "section": "bunka",
+          "stories": [
+            {
+              "id": "2026-10-23-bunka-01",
+              "headline": "伝統的工芸品に3品目",
+              "eventOn": "2026-10-22",
+              "body": "経済産業大臣は2026年10月22日、神奈川県の「箱根小田原からくり細工」と、京都府の「京竹工芸」「京七宝」を、伝統的工芸品に新たに指定した。これで伝統的工芸品は247品目になった。",
+              "sources": [
+                {
+                  "title": "「箱根小田原からくり細工」、「京竹工芸」及び「京七宝」を伝統的工芸品として新たに指定しました",
+                  "publisher": "経済産業省",
+                  "url": "https://www.meti.go.jp/press/2026/10/20261022001.html",
+                  "publishedOn": "2026-10-22",
+                  "retrievedOn": "2026-10-22"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "2026-10-23-bunka-01-q1",
+                  "kind": "choice",
+                  "level": 2,
+                  "prompt": "「伝統的工芸品産業の振興に関する法律」に基づいて、伝統的工芸品を指定するのは誰か。",
+                  "choices": [
+                    "経済産業大臣",
+                    "文化庁長官",
+                    "文部科学大臣",
+                    "中小企業庁長官"
+                  ],
+                  "answer": 0,
+                  "explanation": "伝統的工芸品は、この法律にもとづいて経済産業大臣が指定する。2026年10月22日の指定で、伝統的工芸品は247品目になった。",
+                  "terms": [
+                    "dentouteki-kougeihin"
+                  ],
+                  "sources": [
+                    {
+                      "title": "「箱根小田原からくり細工」、「京竹工芸」及び「京七宝」を伝統的工芸品として新たに指定しました",
+                      "publisher": "経済産業省",
+                      "url": "https://www.meti.go.jp/press/2026/10/20261022001.html",
+                      "publishedOn": "2026-10-22",
+                      "retrievedOn": "2026-10-22"
+                    },
+                    {
+                      "title": "伝統的工芸品産業の振興に関する法律（第2条。2026年10月23日に確認）",
+                      "publisher": "e-Gov 法令検索（デジタル庁）",
+                      "url": "https://laws.e-gov.go.jp/law/349AC0000000057",
+                      "retrievedOn": "2026-10-23"
+                    }
+                  ]
+                }
+              ],
+              "terms": [
+                "dentouteki-kougeihin"
+              ]
+            }
+          ]
+        }
+      ],
+      "common": [
+        {
+          "number": 1,
+          "section": "joushiki",
+          "stories": [
+            {
+              "id": "2026-10-23-joushiki-01",
+              "headline": "国民の祝日",
+              "sources": [
+                {
+                  "title": "「国民の祝日」について（2026年10月22日に確認）",
+                  "publisher": "内閣府",
+                  "url": "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html",
+                  "retrievedOn": "2026-10-22"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "common-shukujitsu-002",
+                  "kind": "truefalse",
+                  "level": 1,
+                  "prompt": "2026年10月時点の国民の祝日に関する法律で、春分の日は「祖先をうやまい、なくなった人々をしのぶ」日とされている。",
+                  "choices": [
+                    "○",
+                    "×"
+                  ],
+                  "answer": 1,
+                  "explanation": "春分の日は「自然をたたえ、生物をいつくしむ」日とされている。「祖先をうやまい、なくなった人々をしのぶ」は、秋分の日。"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-23-joushiki-02",
+              "headline": "国会と内閣",
+              "sources": [
+                {
+                  "title": "日本国憲法",
+                  "publisher": "衆議院",
+                  "url": "https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/shiryo/dl-constitution.htm",
+                  "retrievedOn": "2026-10-22"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "common-kokkai-001",
+                  "kind": "truefalse",
+                  "level": 1,
+                  "prompt": "日本国憲法で、内閣総理大臣を指名するのは天皇である。",
+                  "choices": [
+                    "○",
+                    "×"
+                  ],
+                  "answer": 1,
+                  "explanation": "日本国憲法第67条で、内閣総理大臣は、国会議員の中から国会の議決で指名する。天皇は、国会の指名にもとづいて内閣総理大臣を任命する（第6条）。"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-23-joushiki-03",
+              "headline": "世界遺産",
+              "sources": [
+                {
+                  "title": "世界遺産（2026年10月22日に確認）",
+                  "publisher": "文化庁",
+                  "url": "https://www.bunka.go.jp/seisaku/bunkazai/shokai/sekai_isan/",
+                  "retrievedOn": "2026-10-22"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "common-isan-002",
+                  "kind": "choice",
+                  "level": 2,
+                  "prompt": "文化庁の説明で、世界遺産に登録するかどうかを決めるとされているのはどこか。",
+                  "choices": [
+                    "推薦した国の政府",
+                    "世界遺産委員会",
+                    "世界遺産条約の締約国総会",
+                    "ユネスコの事務局長"
+                  ],
+                  "answer": 1,
+                  "explanation": "世界遺産に登録するかどうかを決めるのは、21か国で構成される世界遺産委員会。各国が推薦した遺産は、諮問《しもん》機関による学術的な審査を経て、委員会で価値や保存管理体制が認められれば登録が決まる。",
+                  "sources": [
+                    {
+                      "title": "世界遺産（2026年10月22日に確認）",
+                      "publisher": "文化庁",
+                      "url": "https://www.bunka.go.jp/seisaku/bunkazai/shokai/sekai_isan/",
+                      "retrievedOn": "2026-10-22"
+                    }
+                  ],
+                  "terms": [
+                    "unesco"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "2026-10-23-joushiki-04",
+              "headline": "湖の面積",
+              "sources": [
+                {
+                  "title": "令和8年全国都道府県市区町村別面積調（7月1日時点）",
+                  "publisher": "国土地理院",
+                  "url": "https://www.gsi.go.jp/KOKUJYOHO/MENCHO/backnumber/GSI-menseki20260701.pdf",
+                  "publishedOn": "2026-09-25",
+                  "retrievedOn": "2026-10-22"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "common-chiri-002",
+                  "kind": "choice",
+                  "level": 2,
+                  "prompt": "国土地理院の面積調（2026年7月1日時点）で、日本で面積が2番目に大きい湖はどれか。",
+                  "choices": [
+                    "猪苗代湖《いなわしろこ》",
+                    "サロマ湖",
+                    "浜名湖",
+                    "｜霞ヶ浦《かすみがうら》"
+                  ],
+                  "answer": 3,
+                  "explanation": "2位は霞ヶ浦（茨城県）で、168.20平方キロメートル。1位は琵琶湖《びわこ》（滋賀県、669.22平方キロメートル）、3位はサロマ湖（北海道）、4位は猪苗代湖（福島県）。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "quiz": [
+        "2026-10-23-sougou-01-q1",
+        "2026-10-23-sougou-01-q2",
+        "2026-10-23-sougou-01-q3",
+        "common-kokkai-001",
+        "2026-10-23-seiji-01-q1",
+        "2026-10-23-keizai-01-q1",
+        "2026-10-23-keizai-01-q2",
+        "common-chiri-002",
+        "2026-10-23-kokusai-01-q1",
+        "2026-10-23-shakai-01-q1",
+        "2026-10-23-sports-01-q1",
+        "common-isan-002",
+        "common-shukujitsu-002",
+        "2026-10-23-bunka-01-q1"
+      ]
+    },
+    {
+      "id": "2026-10-27-tue",
+      "number": 2,
+      "kind": "regular",
+      "publishAt": "2026-10-27T06:30:00+09:00",
+      "covers": {
+        "from": "2026-10-23",
+        "to": "2026-10-26"
+      },
+      "pages": [
+        {
+          "number": 1,
+          "section": "sougou",
+          "stories": [
+            {
+              "id": "2026-10-27-sougou-01",
+              "headline": "大雨に温暖化が影響",
+              "eventOn": "2026-10-23",
+              "field": "kagaku",
+              "body": "文部科学省は2026年10月23日、気象庁気象研究所と合同で行った解析で、8月から9月に各地で起きた記録的な大雨に地球温暖化が影響していたとする結果を公表した。千葉豪雨や台風第25号に伴う大雨など6つの事例で、温暖化の影響により降水量が20%前後増えていた可能性があるという。",
+              "sources": [
+                {
+                  "title": "令和8年8月から9月に各地で発生した記録的大雨に地球温暖化が影響 －イベント・アトリビューションによる結果－",
+                  "publisher": "文部科学省",
+                  "url": "https://www.mext.go.jp/b_menu/houdou/2026/mext_00003.html",
+                  "publishedOn": "2026-10-23",
+                  "retrievedOn": "2026-10-26"
+                },
+                {
+                  "title": "令和8年8月から9月に各地で発生した記録的大雨に地球温暖化が影響 －イベント・アトリビューションによる結果－（発表資料）",
+                  "publisher": "文部科学省",
+                  "url": "https://www.mext.go.jp/content/20261023-mxt_kankyou-000052548_01.pdf",
+                  "publishedOn": "2026-10-23",
+                  "retrievedOn": "2026-10-26"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "2026-10-27-sougou-01-q2",
+                  "kind": "choice",
+                  "level": 2,
+                  "prompt": "個々の大雨などの極端な気象に、長い期間の地球温暖化がどのくらい影響したかを、科学的に数値で示す手法を何というか。",
+                  "choices": [
+                    "アンサンブル予報",
+                    "ナウキャスト",
+                    "イベント・アトリビューション",
+                    "ハザードマップ"
+                  ],
+                  "answer": 2,
+                  "explanation": "文部科学省の発表資料は、この手法をイベント・アトリビューションと呼んでいる。この発表では、実際の大雨を再現した計算と、温暖化の分を除いた計算を比べて評価した。",
+                  "sources": [
+                    {
+                      "title": "令和8年8月から9月に各地で発生した記録的大雨に地球温暖化が影響 －イベント・アトリビューションによる結果－（発表資料）",
+                      "publisher": "文部科学省",
+                      "url": "https://www.mext.go.jp/content/20261023-mxt_kankyou-000052548_01.pdf",
+                      "publishedOn": "2026-10-23",
+                      "retrievedOn": "2026-10-26"
+                    }
+                  ],
+                  "terms": [
+                    "event-attribution"
+                  ]
+                },
+                {
+                  "id": "2026-10-27-sougou-01-q1",
+                  "kind": "truefalse",
+                  "level": 1,
+                  "prompt": "文部科学省が2026年10月23日に公表した解析の結果で、8月から9月の記録的な大雨は、地球温暖化の影響で降水量が20%前後増えていた可能性があるとされた。",
+                  "choices": [
+                    "○",
+                    "×"
+                  ],
+                  "answer": 0,
+                  "explanation": "文部科学省と気象庁気象研究所が合同で行った解析で、千葉豪雨や台風第25号に伴う大雨など6つの事例のいずれでも、地球温暖化の影響で降水量が増えていた可能性があり、増え方はおおむね20%前後と見積もられた。"
+                }
+              ],
+              "terms": [
+                "kion-suijoki"
+              ]
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "section": "seiji",
+          "stories": [
+            {
+              "id": "2026-10-27-seiji-01",
+              "headline": "副首都法の｜施行《しこう》日の政令",
+              "eventOn": "2026-10-23",
+              "body": "政府は2026年10月23日、副首都の整備などを進める法律の施行期日を定める政令を、閣議で決定した。この法律は、大規模な災害で東京圏の首都中枢機能を保つことが難しくなったときに、必要に応じて一定期間、その全部または大部分を代わりに担う道府県を「副首都」として指定する仕組みなどを定めている。指定は、道府県からの申し出に基づいて内閣総理大臣が行う。",
+              "sources": [
+                {
+                  "title": "令和8年10月23日（金）定例閣議案件",
+                  "publisher": "首相官邸",
+                  "url": "https://www.kantei.go.jp/jp/kakugi/2026/kakugi-2026102301.html",
+                  "publishedOn": "2026-10-23",
+                  "retrievedOn": "2026-10-26"
+                },
+                {
+                  "title": "法律第七十八号 国家社会機能継続性確保施策及び副首都の整備に係る施策の推進に関する法律",
+                  "publisher": "参議院",
+                  "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0902210272210.pdf",
+                  "retrievedOn": "2026-10-26"
+                },
+                {
+                  "title": "国家社会機能継続性確保施策及び副首都の整備に係る施策の推進に関する法律案（議案情報）",
+                  "publisher": "参議院",
+                  "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/meisai/m221090221027.htm",
+                  "retrievedOn": "2026-10-26"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "2026-10-27-seiji-01-q2",
+                  "kind": "choice",
+                  "level": 2,
+                  "prompt": "副首都の整備などを進める法律は、｜施行《しこう》する日を何で定めるとしているか。",
+                  "choices": [
+                    "政令",
+                    "省令",
+                    "条例",
+                    "告示"
+                  ],
+                  "answer": 0,
+                  "explanation": "法律の附則で、政令で定める日から施行するとされている。日本国憲法で、政令の制定は内閣の職務とされ、政府は2026年10月23日にこの政令を閣議で決定した。",
+                  "sources": [
+                    {
+                      "title": "法律第七十八号 国家社会機能継続性確保施策及び副首都の整備に係る施策の推進に関する法律",
+                      "publisher": "参議院",
+                      "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0902210272210.pdf",
+                      "retrievedOn": "2026-10-26"
+                    },
+                    {
+                      "title": "日本国憲法",
+                      "publisher": "衆議院",
+                      "url": "https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/shiryo/dl-constitution.htm",
+                      "retrievedOn": "2026-10-22"
+                    },
+                    {
+                      "title": "令和8年10月23日（金）定例閣議案件",
+                      "publisher": "首相官邸",
+                      "url": "https://www.kantei.go.jp/jp/kakugi/2026/kakugi-2026102301.html",
+                      "publishedOn": "2026-10-23",
+                      "retrievedOn": "2026-10-26"
+                    }
+                  ]
+                },
+                {
+                  "id": "2026-10-27-seiji-01-q3",
+                  "kind": "choice",
+                  "level": 3,
+                  "prompt": "副首都の整備などを進める法律（2026年7月公布）に関する記述として、最も妥当なのはどれか。",
+                  "choices": [
+                    "副首都は国会の議決によって指定され、指定にあたって道府県からの申し出は必要とされていない。",
+                    "副首都の指定は道府県からの申し出に基づいて行われ、申し出の前に道府県の議会の議決を経る。",
+                    "副首都に指定された道府県は、指定された日から、東京都に代わって日本の首都となる。",
+                    "副首都は、首都中枢機能を代わりに担う市町村として、市町村の単位で指定される。"
+                  ],
+                  "answer": 1,
+                  "explanation": "法律では、内閣総理大臣が、要件を満たす地域を含む道府県を副首都として指定し、指定は道府県からの申し出に基づいて行う。申し出の前には、道府県の議会の議決を経なければならない。副首都は、大規模な災害で東京圏の首都中枢機能の維持が難しくなったときに、必要に応じて一定期間、その全部または大部分を代わりに担う道府県とされている。",
+                  "sources": [
+                    {
+                      "title": "法律第七十八号 国家社会機能継続性確保施策及び副首都の整備に係る施策の推進に関する法律",
+                      "publisher": "参議院",
+                      "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/221/pdf/s0902210272210.pdf",
+                      "retrievedOn": "2026-10-26"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "section": "keizai",
+          "stories": [
+            {
+              "id": "2026-10-27-keizai-01",
+              "headline": "9月の物価2.1%上昇",
+              "eventOn": "2026-10-23",
+              "body": "総務省は2026年10月23日、9月の全国の消費者物価指数を公表した。2025年を100とした総合指数は102.2で、前の年の同じ月より2.1%上がった。生鮮食品を除く総合は2.1%、生鮮食品及びエネルギーを除く総合は2.4%の上昇だった。",
+              "sources": [
+                {
+                  "title": "2025年基準 消費者物価指数 全国 2026年（令和8年）9月分",
+                  "publisher": "総務省",
+                  "url": "https://www.soumu.go.jp/menu_news/s-news/01toukei08_01000354.html",
+                  "publishedOn": "2026-10-23",
+                  "retrievedOn": "2026-10-26"
+                },
+                {
+                  "title": "消費者物価指数（CPI）全国 最新の月次結果の概要（2026年9月分。2026年10月26日に確認）",
+                  "publisher": "総務省統計局",
+                  "url": "https://www.stat.go.jp/data/cpi/sokuhou/tsuki/index-z.html",
+                  "publishedOn": "2026-10-23",
+                  "retrievedOn": "2026-10-26"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "2026-10-27-keizai-01-q1",
+                  "kind": "choice",
+                  "level": 2,
+                  "prompt": "2026年10月23日に公表された9月の全国の消費者物価指数（総合）は、前の年の同じ月と比べて何%上がったか。",
+                  "choices": [
+                    "0.6%",
+                    "2.1%",
+                    "3.5%",
+                    "4.9%"
+                  ],
+                  "answer": 1,
+                  "explanation": "総務省統計局の公表で、2026年9月の総合指数（2025年＝100）は102.2で、前年同月比2.1%の上昇だった。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "section": "kokusai",
+          "stories": [
+            {
+              "id": "2026-10-27-kokusai-01",
+              "headline": "ベトナム国家主席が来日へ",
+              "eventOn": "2026-10-23",
+              "body": "政府は2026年10月23日、ベトナムのトー・ラム共産党書記長兼国家主席夫妻を、2026年11月8日から11日まで公式実務訪問｜賓客《ひんきゃく》として迎えることを閣議で了解した。滞在中は天皇皇后両陛下との会見や宮中｜午《ご》さんが予定され、高市総理大臣との会談も予定されている。日本とベトナムは包括的戦略的パートナーとして、安全保障や経済などの分野で関係を深めてきた。",
+              "sources": [
+                {
+                  "title": "令和8年10月23日（金）午前 内閣官房長官記者会見",
+                  "publisher": "首相官邸",
+                  "url": "https://www.kantei.go.jp/jp/tyoukanpress/202610/23_a.html",
+                  "publishedOn": "2026-10-23",
+                  "retrievedOn": "2026-10-26"
+                },
+                {
+                  "title": "令和8年10月23日（金）定例閣議案件",
+                  "publisher": "首相官邸",
+                  "url": "https://www.kantei.go.jp/jp/kakugi/2026/kakugi-2026102301.html",
+                  "publishedOn": "2026-10-23",
+                  "retrievedOn": "2026-10-26"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "2026-10-27-kokusai-01-q1",
+                  "kind": "choice",
+                  "level": 1,
+                  "prompt": "2026年10月23日に政府が、11月に公式実務訪問｜賓客《ひんきゃく》として迎えることを了解したトー・ラム氏は、どの国の共産党書記長兼国家主席か。",
+                  "choices": [
+                    "中国",
+                    "ラオス",
+                    "キューバ",
+                    "ベトナム"
+                  ],
+                  "answer": 3,
+                  "explanation": "官房長官の記者会見によると、政府はベトナムのトー・ラム共産党中央執行委員会書記長兼国家主席夫妻を、2026年11月8日から11日まで公式実務訪問賓客として迎えることを閣議で了解した。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "section": "shakai",
+          "stories": [
+            {
+              "id": "2026-10-27-shakai-01",
+              "headline": "燃料油支援の在り方検討",
+              "eventOn": "2026-10-23",
+              "body": "高市総理大臣は2026年10月23日、中東情勢を踏まえた燃料油の支援について会見した。支援の在り方を各党の提案も踏まえて検討するよう経済産業大臣に指示すると述べ、当面の支援に必要な基金の規模を確保するため、財務大臣と調整を進めるよう経済産業大臣に指示するとも述べた。対象はガソリン、軽油、重油、灯油などの燃料油。",
+              "sources": [
+                {
+                  "title": "中東情勢を踏まえた緊急的激変緩和措置等についての会見（速報版）",
+                  "publisher": "首相官邸",
+                  "url": "https://www.kantei.go.jp/jp/105/statement/2026/1023kaiken.html",
+                  "publishedOn": "2026-10-23",
+                  "retrievedOn": "2026-10-26"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "2026-10-27-shakai-01-q1",
+                  "kind": "choice",
+                  "level": 1,
+                  "prompt": "高市総理大臣が2026年10月23日の会見で、燃料油の支援の在り方を検討するよう指示すると述べた相手は誰か。",
+                  "choices": [
+                    "財務大臣",
+                    "環境大臣",
+                    "経済産業大臣",
+                    "国土交通大臣"
+                  ],
+                  "answer": 2,
+                  "explanation": "会見で高市総理大臣は、支援の在り方を各党の提案も踏まえて検討するよう、経済産業大臣に指示すると述べた。基金の規模の確保については、経済産業大臣に、財務大臣と調整を進めるよう指示すると述べた。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "common": [
+        {
+          "number": 1,
+          "section": "joushiki",
+          "stories": [
+            {
+              "id": "2026-10-27-joushiki-01",
+              "headline": "気象庁",
+              "sources": [
+                {
+                  "title": "国家行政組織法（別表第一）",
+                  "publisher": "e-Gov 法令検索（デジタル庁）",
+                  "url": "https://laws.e-gov.go.jp/law/323AC0000000120",
+                  "retrievedOn": "2026-10-26"
+                },
+                {
+                  "title": "組織、所掌業務、幹部一覧",
+                  "publisher": "気象庁",
+                  "url": "https://www.jma.go.jp/jma/kishou/intro/gyomu/index3.html",
+                  "retrievedOn": "2026-10-26"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "common-kishocho-001",
+                  "kind": "truefalse",
+                  "level": 1,
+                  "prompt": "2026年10月時点で、気象庁は環境省の外局である。",
+                  "choices": [
+                    "○",
+                    "×"
+                  ],
+                  "answer": 1,
+                  "explanation": "国家行政組織法の別表第一で、気象庁は国土交通省に置かれる庁とされている。庁は省の外局として置かれる。気象研究所は、気象庁の施設等機関の一つ。"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-27-joushiki-02",
+              "headline": "天皇の国事行為",
+              "sources": [
+                {
+                  "title": "日本国憲法",
+                  "publisher": "衆議院",
+                  "url": "https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/shiryo/dl-constitution.htm",
+                  "retrievedOn": "2026-10-22"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "common-kokuji-001",
+                  "kind": "truefalse",
+                  "level": 1,
+                  "prompt": "日本国憲法で、法律の公布は、天皇が内閣の助言と承認により行う国事に関する行為とされている。",
+                  "choices": [
+                    "○",
+                    "×"
+                  ],
+                  "answer": 0,
+                  "explanation": "日本国憲法第7条で、天皇は内閣の助言と承認により、国民のために国事に関する行為を行うとされ、その一つに「憲法改正、法律、政令及び条約を公布すること」がある。"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-27-joushiki-03",
+              "headline": "ベトナム",
+              "sources": [
+                {
+                  "title": "ベトナム基礎データ（2026年10月26日に確認）",
+                  "publisher": "外務省",
+                  "url": "https://www.mofa.go.jp/mofaj/area/vietnam/data.html",
+                  "retrievedOn": "2026-10-26"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "common-vietnam-001",
+                  "kind": "choice",
+                  "level": 1,
+                  "prompt": "ベトナムの首都はどこか。",
+                  "choices": [
+                    "ホーチミン",
+                    "ハノイ",
+                    "ダナン",
+                    "ハイフォン"
+                  ],
+                  "answer": 1,
+                  "explanation": "2026年10月26日に確認した外務省の基礎データでは、ベトナムの首都はハノイ。略史には「首都をタンロン（現在のハノイ）に定める」（1010年）とある。"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-27-joushiki-04",
+              "headline": "国の面積",
+              "sources": [
+                {
+                  "title": "ベトナム基礎データ（2026年10月26日に確認）",
+                  "publisher": "外務省",
+                  "url": "https://www.mofa.go.jp/mofaj/area/vietnam/data.html",
+                  "retrievedOn": "2026-10-26"
+                },
+                {
+                  "title": "令和8年全国都道府県市区町村別面積調（7月1日時点）",
+                  "publisher": "国土地理院",
+                  "url": "https://www.gsi.go.jp/KOKUJYOHO/MENCHO/backnumber/GSI-menseki20260701.pdf",
+                  "retrievedOn": "2026-10-26"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "common-vietnam-002",
+                  "kind": "compare",
+                  "level": 2,
+                  "prompt": "面積が大きいのはどちらか。",
+                  "choices": [
+                    "日本",
+                    "ベトナム"
+                  ],
+                  "answer": 0,
+                  "explanation": "2026年10月26日に確認した外務省の基礎データでは、ベトナムの面積は32万9,241平方キロメートル。国土地理院の面積調（2026年7月1日時点）では、日本の面積は37万7,973.68平方キロメートルで、日本のほうが大きい。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "quiz": [
+        "2026-10-27-sougou-01-q2",
+        "2026-10-27-sougou-01-q1",
+        "common-kishocho-001",
+        "2026-10-27-seiji-01-q2",
+        "common-kokuji-001",
+        "2026-10-27-seiji-01-q3",
+        "2026-10-27-keizai-01-q1",
+        "2026-10-27-kokusai-01-q1",
+        "common-vietnam-002",
+        "common-vietnam-001",
+        "2026-10-27-shakai-01-q1"
+      ]
+    }
+  ],
+  "common": [
+    {
+      "number": 1,
+      "section": "joushiki",
+      "stories": [
+        {
+          "id": "common-kenpou",
+          "headline": "議員の任期と選挙",
+          "sources": [
+            {
+              "title": "日本国憲法",
+              "publisher": "衆議院",
+              "url": "https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/shiryo/dl-constitution.htm",
+              "retrievedOn": "2026-10-22"
+            }
+          ],
+          "questions": [
+            {
+              "id": "common-kenpou-001",
+              "kind": "truefalse",
+              "level": 1,
+              "prompt": "日本国憲法では、衆議院議員の任期は4年と定められている。",
+              "choices": [
+                "○",
+                "×"
+              ],
+              "answer": 0,
+              "explanation": "日本国憲法第45条で、衆議院議員の任期は4年とされている。ただし、衆議院が解散されたときは、その期間が終わる前に任期が終わる。"
+            },
+            {
+              "id": "common-kenpou-002",
+              "kind": "choice",
+              "level": 2,
+              "prompt": "日本国憲法で、参議院議員は何年ごとに半数を改選すると定められているか。",
+              "choices": [
+                "2年",
+                "3年",
+                "4年",
+                "6年"
+              ],
+              "answer": 1,
+              "explanation": "日本国憲法第46条で、参議院議員の任期は6年とし、3年ごとに議員の半数を改選すると定めている。このため、参議院議員の選挙では、3年ごとに半数が選ばれる。"
+            },
+            {
+              "id": "common-kenpou-003",
+              "kind": "choice",
+              "level": 2,
+              "prompt": "日本国憲法で、衆議院が解散されたとき、総選挙は解散の日から何日以内に行うと定められているか。",
+              "choices": [
+                "20日",
+                "30日",
+                "40日",
+                "50日"
+              ],
+              "answer": 2,
+              "explanation": "日本国憲法第54条で、解散の日から40日以内に総選挙を行い、その選挙の日から30日以内に国会を召集しなければならないと定めている。"
+            }
+          ]
+        },
+        {
+          "id": "common-kokkai",
+          "headline": "国会",
+          "sources": [
+            {
+              "title": "日本国憲法",
+              "publisher": "衆議院",
+              "url": "https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/shiryo/dl-constitution.htm",
+              "retrievedOn": "2026-10-22"
+            }
+          ],
+          "questions": [
+            {
+              "id": "common-kokkai-002",
+              "kind": "truefalse",
+              "level": 1,
+              "prompt": "日本国憲法では、予算は先に参議院に提出しなければならないと定められている。",
+              "choices": [
+                "○",
+                "×"
+              ],
+              "answer": 1,
+              "explanation": "日本国憲法第60条で、予算は先に衆議院に提出しなければならないと定めている。"
+            },
+            {
+              "id": "common-kokkai-003",
+              "kind": "choice",
+              "level": 2,
+              "prompt": "日本国憲法で、国会が憲法改正を発議《ほつぎ》するために必要とされる賛成はどれか。",
+              "choices": [
+                "各議院の出席議員の過半数",
+                "各議院の総議員の過半数",
+                "各議院の出席議員の3分の2以上",
+                "各議院の総議員の3分の2以上"
+              ],
+              "answer": 3,
+              "explanation": "日本国憲法第96条で、憲法の改正は、各議院の総議員の3分の2以上の賛成で国会が発議し、国民投票などで過半数の賛成による承認を得なければならないと定めている。"
+            },
+            {
+              "id": "common-kokkai-004",
+              "kind": "truefalse",
+              "level": 1,
+              "prompt": "日本国憲法では、国会の常会は毎年1回召集すると定められている。",
+              "choices": [
+                "○",
+                "×"
+              ],
+              "answer": 0,
+              "explanation": "日本国憲法第52条で、国会の常会は毎年1回召集すると定めている。"
+            }
+          ]
+        },
+        {
+          "id": "common-senkyo",
+          "headline": "選挙と成年",
+          "sources": [
+            {
+              "title": "選挙権と被選挙権",
+              "publisher": "総務省",
+              "url": "https://www.soumu.go.jp/senkyo/senkyo_s/naruhodo/naruhodo02.html",
+              "retrievedOn": "2026-10-22"
+            },
+            {
+              "title": "公職選挙法（第10条。2026年10月22日に確認）",
+              "publisher": "e-Gov 法令検索（デジタル庁）",
+              "url": "https://laws.e-gov.go.jp/law/325AC1000000100",
+              "retrievedOn": "2026-10-22"
+            },
+            {
+              "title": "民法の一部を改正する法律（成年年齢関係）について",
+              "publisher": "法務省",
+              "url": "https://www.moj.go.jp/MINJI/minji07_00218.html",
+              "retrievedOn": "2026-10-22"
+            }
+          ],
+          "questions": [
+            {
+              "id": "common-senkyo-001",
+              "kind": "choice",
+              "level": 2,
+              "prompt": "2026年10月時点の公職選挙法で、参議院議員の被選挙権（議員になることができる資格）の年齢はどれか。",
+              "choices": [
+                "満18歳以上",
+                "満20歳以上",
+                "満25歳以上",
+                "満30歳以上"
+              ],
+              "answer": 3,
+              "explanation": "参議院議員の被選挙権は満30歳以上で、年齢は選挙の期日（投票日）で数える。選挙で投票できる権利（選挙権）は、満18歳以上の日本国民にある。",
+              "sources": [
+                {
+                  "title": "選挙権と被選挙権",
+                  "publisher": "総務省",
+                  "url": "https://www.soumu.go.jp/senkyo/senkyo_s/naruhodo/naruhodo02.html",
+                  "retrievedOn": "2026-10-22"
+                },
+                {
+                  "title": "公職選挙法（第10条。2026年10月22日に確認）",
+                  "publisher": "e-Gov 法令検索（デジタル庁）",
+                  "url": "https://laws.e-gov.go.jp/law/325AC1000000100",
+                  "retrievedOn": "2026-10-22"
+                }
+              ]
+            },
+            {
+              "id": "common-senkyo-003",
+              "kind": "truefalse",
+              "level": 1,
+              "prompt": "民法の成年年齢は、2022年4月1日に20歳から18歳に引き下げられた。",
+              "choices": [
+                "○",
+                "×"
+              ],
+              "answer": 0,
+              "explanation": "成年年齢を20歳から18歳に引き下げる改正民法は、2018年（平成30年）6月13日に成立し、2022年（令和4年）4月1日から施行された。民法の成年年齢には、1人で契約を結ぶことができる年齢という意味と、親権に服さなくなる年齢という意味がある。",
+              "sources": [
+                {
+                  "title": "民法の一部を改正する法律（成年年齢関係）について",
+                  "publisher": "法務省",
+                  "url": "https://www.moj.go.jp/MINJI/minji07_00218.html",
+                  "retrievedOn": "2026-10-22"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "common-zei",
+          "headline": "消費税",
+          "sources": [
+            {
+              "title": "軽減税率制度の概要（2026年10月22日に確認）",
+              "publisher": "国税庁",
+              "url": "https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/01.htm",
+              "retrievedOn": "2026-10-22"
+            }
+          ],
+          "questions": [
+            {
+              "id": "common-zei-001",
+              "kind": "truefalse",
+              "level": 1,
+              "prompt": "2026年10月時点の消費税の軽減税率制度で、軽減税率（8％）の対象となる飲食料品には、酒類も含まれる。",
+              "choices": [
+                "○",
+                "×"
+              ],
+              "answer": 1,
+              "explanation": "軽減税率の対象は、酒類と外食を除く飲食料品と、定期購読契約が結ばれた週2回以上発行される新聞。標準税率は10％。"
+            },
+            {
+              "id": "common-zei-002",
+              "kind": "choice",
+              "level": 2,
+              "prompt": "消費税と地方消費税を合わせた税率（標準税率）が、8％から10％に引き上げられたのはいつか。",
+              "choices": [
+                "2014年4月1日",
+                "2015年10月1日",
+                "2017年4月1日",
+                "2019年10月1日"
+              ],
+              "answer": 3,
+              "explanation": "令和元年（2019年）10月1日に、8％から10％に引き上げられた。同じ日に軽減税率制度が始まり、標準税率（10％）と軽減税率（8％）の複数税率になった。"
+            }
+          ]
+        },
+        {
+          "id": "common-shukujitsu",
+          "headline": "国民の祝日",
+          "sources": [
+            {
+              "title": "「国民の祝日」について（2026年10月22日に確認）",
+              "publisher": "内閣府",
+              "url": "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html",
+              "retrievedOn": "2026-10-22"
+            }
+          ],
+          "questions": [
+            {
+              "id": "common-shukujitsu-001",
+              "kind": "choice",
+              "level": 2,
+              "prompt": "2026年10月時点の国民の祝日に関する法律で、「海の日」はいつと定められているか。",
+              "choices": [
+                "6月の第3月曜日",
+                "7月の第3月曜日",
+                "8月の第3月曜日",
+                "9月の第3月曜日"
+              ],
+              "answer": 1,
+              "explanation": "「海の日」は7月の第3月曜日で、海の恩恵に感謝するとともに、海洋国日本の繁栄を願う日とされている。"
+            },
+            {
+              "id": "common-shukujitsu-003",
+              "kind": "truefalse",
+              "level": 1,
+              "prompt": "2026年10月時点の国民の祝日に関する法律で、「スポーツの日」は10月の第2月曜日と定められている。",
+              "choices": [
+                "○",
+                "×"
+              ],
+              "answer": 0,
+              "explanation": "スポーツの日は10月の第2月曜日で、「スポーツを楽しみ、他者を尊重する精神を培うとともに、健康で活力ある社会の実現を願う」日とされている。"
+            }
+          ]
+        },
+        {
+          "id": "common-chiri",
+          "headline": "島の面積",
+          "sources": [
+            {
+              "title": "令和8年全国都道府県市区町村別面積調（7月1日時点）",
+              "publisher": "国土地理院",
+              "url": "https://www.gsi.go.jp/KOKUJYOHO/MENCHO/backnumber/GSI-menseki20260701.pdf",
+              "publishedOn": "2026-09-25",
+              "retrievedOn": "2026-10-22"
+            }
+          ],
+          "questions": [
+            {
+              "id": "common-chiri-003",
+              "kind": "truefalse",
+              "level": 1,
+              "prompt": "国土地理院の面積調（2026年7月1日時点）で、本州・北海道・九州・四国の4つの島のうち、面積が2番目に大きいのは九州である。",
+              "choices": [
+                "○",
+                "×"
+              ],
+              "answer": 1,
+              "explanation": "島としての面積は、本州が227,942.96、北海道が77,982.32、九州が36,780.84、四国が18,295.69平方キロメートル。2番目に大きいのは北海道で、九州は3番目。"
+            }
+          ]
+        },
+        {
+          "id": "common-isan",
+          "headline": "世界遺産",
+          "sources": [
+            {
+              "title": "世界遺産",
+              "publisher": "文化庁",
+              "url": "https://www.bunka.go.jp/seisaku/bunkazai/shokai/sekai_isan/",
+              "retrievedOn": "2026-10-22"
+            },
+            {
+              "title": "日本の世界遺産一覧",
+              "publisher": "文化庁",
+              "url": "https://www.bunka.go.jp/seisaku/bunkazai/shokai/sekai_isan/ichiran/",
+              "retrievedOn": "2026-10-22"
+            }
+          ],
+          "questions": [
+            {
+              "id": "common-isan-001",
+              "kind": "choice",
+              "level": 2,
+              "prompt": "日本の世界遺産のうち、1993年（平成5年）に最初に世界遺産一覧表に記載されたものの一つはどれか。",
+              "choices": [
+                "厳島神社",
+                "姫路城",
+                "日光の社寺",
+                "富士山"
+              ],
+              "answer": 1,
+              "explanation": "1993年には、法隆寺地域の仏教建造物、姫路城、屋久島、白神山地が記載された。厳島神社は1996年、日光の社寺は1999年、富士山は2013年に記載された。",
+              "sources": [
+                {
+                  "title": "日本の世界遺産一覧",
+                  "publisher": "文化庁",
+                  "url": "https://www.bunka.go.jp/seisaku/bunkazai/shokai/sekai_isan/ichiran/",
+                  "retrievedOn": "2026-10-22"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "common-boj",
+          "headline": "日本銀行",
+          "sources": [
+            {
+              "title": "銀行券・貨幣の発行・管理の概要（2026年10月22日に確認）",
+              "publisher": "日本銀行",
+              "url": "https://www.boj.or.jp/note_tfjgs/note/outline/index.htm",
+              "retrievedOn": "2026-10-22"
+            }
+          ],
+          "questions": [
+            {
+              "id": "common-boj-001",
+              "kind": "truefalse",
+              "level": 1,
+              "prompt": "2026年10月時点で、日本銀行券（お札のこと）は、日本銀行が発行し、独立行政法人国立印刷局が製造している。",
+              "choices": [
+                "○",
+                "×"
+              ],
+              "answer": 0,
+              "explanation": "日本銀行は、日本で唯一、銀行券を発行する発券銀行。銀行券は国立印刷局が製造し、日本銀行が製造費用を支払って引き取る。"
+            },
+            {
+              "id": "common-boj-002",
+              "kind": "choice",
+              "level": 2,
+              "prompt": "2026年10月時点で、日本銀行が発行している銀行券（お札のこと）に含まれるのはどれか。",
+              "choices": [
+                "三千円券",
+                "二千円券",
+                "五百円券",
+                "二万円券"
+              ],
+              "answer": 1,
+              "explanation": "日本銀行が発行している銀行券は、一万円券、五千円券、二千円券、千円券の4種類。"
+            }
+          ]
+        },
+        {
+          "id": "common-abbr",
+          "headline": "略語",
+          "sources": [
+            {
+              "title": "消費者物価指数（CPI）（2026年10月22日に確認）",
+              "publisher": "総務省統計局",
+              "url": "https://www.stat.go.jp/data/cpi/index.html",
+              "retrievedOn": "2026-10-22"
+            },
+            {
+              "title": "Consumer Price Index（2026年10月22日に確認）",
+              "publisher": "Statistics Bureau, Ministry of Internal Affairs and Communications（総務省統計局）",
+              "url": "https://www.stat.go.jp/english/data/cpi/index.html",
+              "retrievedOn": "2026-10-22"
+            },
+            {
+              "title": "SDGsとは？",
+              "publisher": "外務省",
+              "url": "https://www.mofa.go.jp/mofaj/gaiko/oda/sdgs/about/index.html",
+              "retrievedOn": "2026-10-21"
+            },
+            {
+              "title": "NPOのイロハ",
+              "publisher": "内閣府NPOホームページ",
+              "url": "https://www.npo-homepage.go.jp/about/npo-kisochishiki/npoiroha",
+              "retrievedOn": "2026-10-22"
+            },
+            {
+              "title": "NISAを知る",
+              "publisher": "金融庁",
+              "url": "https://www.fsa.go.jp/policy/nisa2/about/index.html",
+              "retrievedOn": "2026-10-22"
+            }
+          ],
+          "questions": [
+            {
+              "id": "common-abbr-001",
+              "kind": "choice",
+              "level": 2,
+              "prompt": "SDGs（持続可能な開発目標）は、いくつのゴールで構成されているか。",
+              "choices": [
+                "8",
+                "12",
+                "15",
+                "17"
+              ],
+              "answer": 3,
+              "explanation": "SDGs は Sustainable Development Goals の略。2015年9月の国連サミットで採択された「持続可能な開発のための2030アジェンダ」に記載された、2030年までの国際目標で、17のゴールと169のターゲットで構成される。",
+              "sources": [
+                {
+                  "title": "SDGsとは？",
+                  "publisher": "外務省",
+                  "url": "https://www.mofa.go.jp/mofaj/gaiko/oda/sdgs/about/index.html",
+                  "retrievedOn": "2026-10-21"
+                }
+              ]
+            },
+            {
+              "id": "common-abbr-003",
+              "kind": "choice",
+              "level": 2,
+              "prompt": "「CPI」は、日本語で何と呼ばれる指標か。",
+              "choices": [
+                "企業物価指数",
+                "鉱工業生産指数",
+                "消費者物価指数",
+                "景気動向指数"
+              ],
+              "answer": 2,
+              "explanation": "CPI は Consumer Price Index の略。総務省統計局が毎月作成している、全国の世帯が買う財やサービスの価格の変動を測る指数。",
+              "sources": [
+                {
+                  "title": "消費者物価指数（CPI）（2026年10月22日に確認）",
+                  "publisher": "総務省統計局",
+                  "url": "https://www.stat.go.jp/data/cpi/index.html",
+                  "retrievedOn": "2026-10-22"
+                },
+                {
+                  "title": "Consumer Price Index（2026年10月22日に確認）",
+                  "publisher": "Statistics Bureau, Ministry of Internal Affairs and Communications（総務省統計局）",
+                  "url": "https://www.stat.go.jp/english/data/cpi/index.html",
+                  "retrievedOn": "2026-10-22"
+                }
+              ]
+            },
+            {
+              "id": "common-abbr-004",
+              "kind": "choice",
+              "level": 2,
+              "prompt": "「NPO」の「P」は、何という語の頭文字か。",
+              "choices": [
+                "Public",
+                "Private",
+                "Profit",
+                "Policy"
+              ],
+              "answer": 2,
+              "explanation": "NPOは Non-Profit Organization（または Not-for-Profit Organization）の略で、継続的・自発的に社会貢献活動を行う、営利を目的としない団体（非営利団体）の総称。団体の構成員に収益を分配することを目的としない。",
+              "sources": [
+                {
+                  "title": "NPOのイロハ",
+                  "publisher": "内閣府NPOホームページ",
+                  "url": "https://www.npo-homepage.go.jp/about/npo-kisochishiki/npoiroha",
+                  "retrievedOn": "2026-10-22"
+                },
+                {
+                  "title": "NPO法Ｑ＆Ａ（目的・定義等。2026年10月23日に確認）",
+                  "publisher": "内閣府NPOホームページ",
+                  "url": "https://www.npo-homepage.go.jp/qa/seido-gaiyou/mokuteki-teigi",
+                  "retrievedOn": "2026-10-23"
+                }
+              ]
+            },
+            {
+              "id": "common-abbr-005",
+              "kind": "choice",
+              "level": 2,
+              "prompt": "「NISA」は、どの制度のことか。",
+              "choices": [
+                "個人型確定拠出年金",
+                "国民年金基金",
+                "財形貯蓄制度",
+                "少額投資非課税制度"
+              ],
+              "answer": 3,
+              "explanation": "NISA（ニーサ）は Nippon Individual Savings Account の略で、少額からの投資を行う人のための「少額投資非課税制度」の愛称。2014年1月に始まり、NISA口座で投資できる上限額の範囲で、売却益や配当などの運用益が非課税になる。",
+              "sources": [
+                {
+                  "title": "NISAを知る",
+                  "publisher": "金融庁",
+                  "url": "https://www.fsa.go.jp/policy/nisa2/about/index.html",
+                  "retrievedOn": "2026-10-22"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "common-chiho",
+          "headline": "地方自治",
+          "sources": [
+            {
+              "title": "地方自治法（第1条の3・第74条・第140条。2026年10月23日に確認）",
+              "publisher": "e-Gov 法令検索（デジタル庁）",
+              "url": "https://laws.e-gov.go.jp/law/322AC0000000067",
+              "retrievedOn": "2026-10-23"
+            }
+          ],
+          "questions": [
+            {
+              "id": "common-chiho-001",
+              "kind": "truefalse",
+              "level": 1,
+              "prompt": "2026年10月時点の地方自治法で、都道府県知事の任期は、市町村長より長い6年と定められている。",
+              "choices": [
+                "○",
+                "×"
+              ],
+              "answer": 1,
+              "explanation": "地方自治法第140条で、普通地方公共団体（都道府県と市町村）の長の任期は4年とされている。知事も市町村長も4年。"
+            },
+            {
+              "id": "common-chiho-002",
+              "kind": "choice",
+              "level": 2,
+              "prompt": "2026年10月時点の地方自治法で、住民が条例の制定や改廃を請求するには、選挙権を持つ人の総数の何分の1以上の署名が必要とされているか。",
+              "choices": [
+                "100分の1",
+                "50分の1",
+                "10分の1",
+                "3分の1"
+              ],
+              "answer": 1,
+              "explanation": "地方自治法第74条で、選挙権を持つ人の総数の50分の1以上の署名（連署）で、代表者から知事や市町村長に条例の制定・改廃を請求できるとされている。地方税や使用料・手数料などの徴収に関する条例は、請求の対象から除かれる。"
+            }
+          ]
+        },
+        {
+          "id": "common-saiban",
+          "headline": "裁判",
+          "sources": [
+            {
+              "title": "裁判員の参加する刑事裁判に関する法律（第2条。2026年10月23日に確認）",
+              "publisher": "e-Gov 法令検索（デジタル庁）",
+              "url": "https://laws.e-gov.go.jp/law/416AC0000000063",
+              "retrievedOn": "2026-10-23"
+            },
+            {
+              "title": "日本国憲法",
+              "publisher": "衆議院",
+              "url": "https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/shiryo/dl-constitution.htm",
+              "retrievedOn": "2026-10-23"
+            }
+          ],
+          "questions": [
+            {
+              "id": "common-saiban-001",
+              "kind": "truefalse",
+              "level": 1,
+              "prompt": "2026年10月時点の裁判員法で、裁判員裁判は、原則として裁判官1人と裁判員6人で行うと定められている。",
+              "choices": [
+                "○",
+                "×"
+              ],
+              "answer": 1,
+              "explanation": "裁判員の参加する刑事裁判に関する法律（裁判員法）第2条で、原則は裁判官3人と裁判員6人とされている。公判前整理手続で公訴事実《こうそじじつ》に争いがないと認められ、裁判所が適当と認めて決定した事件では、裁判官1人と裁判員4人で行うこともできる。",
+              "sources": [
+                {
+                  "title": "裁判員の参加する刑事裁判に関する法律（第2条。2026年10月23日に確認）",
+                  "publisher": "e-Gov 法令検索（デジタル庁）",
+                  "url": "https://laws.e-gov.go.jp/law/416AC0000000063",
+                  "retrievedOn": "2026-10-23"
+                }
+              ]
+            },
+            {
+              "id": "common-saiban-002",
+              "kind": "choice",
+              "level": 2,
+              "prompt": "日本国憲法で、最高裁判所の裁判官の国民審査は、任命後初めて行われる何の際に行うと定められているか。",
+              "choices": [
+                "衆議院議員総選挙",
+                "参議院議員通常選挙",
+                "統一地方選挙",
+                "憲法改正の国民投票"
+              ],
+              "answer": 0,
+              "explanation": "日本国憲法第79条で、最高裁判所の裁判官は、任命後初めて行われる衆議院議員総選挙の際に国民の審査を受け、その後10年を過ぎてから初めて行われる衆議院議員総選挙の際に、再び審査を受けるとされている。投票者の多数が罷免《ひめん》を可とすると、その裁判官は罷免される。",
+              "sources": [
+                {
+                  "title": "日本国憲法",
+                  "publisher": "衆議院",
+                  "url": "https://www.shugiin.go.jp/internet/itdb_annai.nsf/html/statics/shiryo/dl-constitution.htm",
+                  "retrievedOn": "2026-10-23"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "common-kokuren",
+          "headline": "国際連合",
+          "sources": [
+            {
+              "title": "国連安全保障理事会（安保理）とは（2026年10月23日に確認）",
+              "publisher": "外務省",
+              "url": "https://www.mofa.go.jp/mofaj/gaiko/un_anpori/torikumi/anpori.html",
+              "publishedOn": "2025-03-05",
+              "retrievedOn": "2026-10-23"
+            }
+          ],
+          "questions": [
+            {
+              "id": "common-kokuren-001",
+              "kind": "choice",
+              "level": 2,
+              "prompt": "2026年10月時点で、国際連合の安全保障理事会の非常任理事国の数と任期の組み合わせとして正しいのはどれか。",
+              "choices": [
+                "6か国・任期2年",
+                "6か国・任期4年",
+                "10か国・任期2年",
+                "10か国・任期4年"
+              ],
+              "answer": 2,
+              "explanation": "安全保障理事会は、常任理事国5か国（中国・フランス・ロシア・英国・米国）と、選挙で選ばれる非常任理事国10か国で構成される。非常任理事国の任期は2年で、毎年半数が改選される。発足当初の非常任理事国は6か国で、1965年に発効した国連憲章の改正で10か国に増えた。"
+            }
+          ]
+        },
+        {
+          "id": "common-yama",
+          "headline": "山の高さ",
+          "sources": [
+            {
+              "title": "日本の主な山岳標高一覧（令和8年3月31日）",
+              "publisher": "国土地理院",
+              "url": "https://www.gsi.go.jp/KOKUJYOHO/MOUNTAIN/1003zan20260331.pdf",
+              "publishedOn": "2026-03-31",
+              "retrievedOn": "2026-10-23"
+            }
+          ],
+          "questions": [
+            {
+              "id": "common-yama-001",
+              "kind": "choice",
+              "level": 2,
+              "prompt": "国土地理院の「日本の主な山岳標高一覧」（2026年3月31日）で、富士山の次に標高が高い山はどれか。",
+              "choices": [
+                "北岳《きただけ》",
+                "奥穂高岳《おくほたかだけ》",
+                "槍ヶ岳《やりがたけ》",
+                "赤石岳《あかいしだけ》"
+              ],
+              "answer": 0,
+              "explanation": "一覧で最も高いのは富士山（剣ヶ峯《けんがみね》、3,776m）、次が山梨県の北岳（3,193m）。その次は｜間ノ岳《あいのたけ》と奥穂高岳（どちらも3,190m）、槍ヶ岳（3,180m）の順。"
+            }
+          ]
+        },
+        {
+          "id": "common-jikan",
+          "headline": "日本の標準時",
+          "sources": [
+            {
+              "title": "本初子午線経度計算方及標準時ノ件（明治19年勅令第51号。2026年10月23日に確認）",
+              "publisher": "e-Gov 法令検索（デジタル庁）",
+              "url": "https://laws.e-gov.go.jp/law/119IO0000000051",
+              "retrievedOn": "2026-10-23"
+            }
+          ],
+          "questions": [
+            {
+              "id": "common-jikan-001",
+              "kind": "truefalse",
+              "level": 1,
+              "prompt": "2026年10月時点で、日本の標準時は、東経135度の子午線《しごせん》の時刻と定められている。",
+              "choices": [
+                "○",
+                "×"
+              ],
+              "answer": 0,
+              "explanation": "明治19年（1886年）の勅令（本初子午線《ほんしょしごせん》経度計算方及標準時ノ件）で、明治21年（1888年）1月1日から、東経135度の子午線の時刻を日本の標準時と定めている。同じ勅令で、経度の起点（本初子午線）は英国のグリニッジ天文台を通る子午線とされている。"
+            }
+          ]
+        },
+        {
+          "id": "common-kankyo",
+          "headline": "地球温暖化の国際枠組み",
+          "sources": [
+            {
+              "title": "2020年以降の枠組み：パリ協定",
+              "publisher": "外務省",
+              "url": "https://www.mofa.go.jp/mofaj/ic/ch/page1w_000119.html",
+              "publishedOn": "2025-06-04",
+              "retrievedOn": "2026-10-23"
+            }
+          ],
+          "questions": [
+            {
+              "id": "common-kankyo-001",
+              "kind": "choice",
+              "level": 2,
+              "prompt": "パリ協定が採択された国連の会議はどれか。",
+              "choices": [
+                "COP3",
+                "COP15",
+                "COP21",
+                "COP26"
+              ],
+              "answer": 2,
+              "explanation": "2015年11月30日〜12月13日にフランスのパリで開かれた国連気候変動枠組条約第21回締約国会議（COP21）で採択され、2016年に発効した。2020年以降の温室効果ガス排出削減などの国際枠組みで、全ての国が取組に参加する。",
+              "terms": [
+                "cop"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "common-nenkin",
+          "headline": "公的年金",
+          "sources": [
+            {
+              "title": "公的年金制度の種類と加入する制度（2026年10月23日に確認）",
+              "publisher": "日本年金機構",
+              "url": "https://www.nenkin.go.jp/service/seidozenpan/20140710.html",
+              "retrievedOn": "2026-10-23"
+            },
+            {
+              "title": "国民年金法（第7条。2026年10月23日に確認）",
+              "publisher": "e-Gov 法令検索（デジタル庁）",
+              "url": "https://laws.e-gov.go.jp/law/334AC0000000141",
+              "retrievedOn": "2026-10-23"
+            }
+          ],
+          "questions": [
+            {
+              "id": "common-nenkin-001",
+              "kind": "truefalse",
+              "level": 1,
+              "prompt": "2026年10月時点の公的年金制度で、会社員や公務員は、厚生年金保険と国民年金の両方に加入している。",
+              "choices": [
+                "○",
+                "×"
+              ],
+              "answer": 0,
+              "explanation": "日本の公的年金制度は、日本国内に住む20歳以上60歳未満の人が加入する国民年金（基礎年金）と、会社員・公務員が加入する厚生年金保険の2階建て。会社員・公務員は、この2つの制度の両方に加入する。"
+            }
+          ]
+        },
+        {
+          "id": "common-gengo",
+          "headline": "元号",
+          "sources": [
+            {
+              "title": "元号について（2026年10月23日に確認）",
+              "publisher": "内閣府",
+              "url": "https://www.cao.go.jp/others/soumu/gengou/index.html",
+              "retrievedOn": "2026-10-23"
+            }
+          ],
+          "questions": [
+            {
+              "id": "common-gengo-001",
+              "kind": "choice",
+              "level": 2,
+              "prompt": "2026年10月時点の元号法で、元号を改めるのはどのような場合に限られるとされているか。",
+              "choices": [
+                "皇位の継承があった場合",
+                "国会が議決した場合",
+                "国民投票で過半数の賛成があった場合",
+                "内閣総理大臣が交代した場合"
+              ],
+              "answer": 0,
+              "explanation": "元号法（昭和54年法律第43号）で、元号は政令で定め、皇位の継承があった場合に限り改めるとされている。「令和」は元号を改める政令（平成31年政令第143号）で定められ、2019年5月1日から用いられている。改元に際しての内閣総理大臣談話で、令和は万葉集にある「初春の令月《れいげつ》にして」で始まる文言から引用したと説明された。"
+            }
+          ]
+        },
+        {
+          "id": "common-senkyoken",
+          "headline": "選挙権の広がり",
+          "sources": [
+            {
+              "title": "MIC 2025年12月号 特集「国民参政135周年・普通選挙100周年・婦人参政80周年 選挙のあゆみと今」",
+              "publisher": "総務省",
+              "url": "https://www.soumu.go.jp/main_content/001042908.pdf",
+              "retrievedOn": "2026-10-23"
+            }
+          ],
+          "questions": [
+            {
+              "id": "common-senkyoken-001",
+              "kind": "choice",
+              "level": 2,
+              "prompt": "納税の条件をなくし、満25歳以上の男子に衆議院議員の選挙権を認めた（男子普通選挙）衆議院議員選挙法の改正は、何年か。",
+              "choices": [
+                "1925年",
+                "1928年",
+                "1945年",
+                "2015年"
+              ],
+              "answer": 0,
+              "explanation": "1925年（大正14年）の改正で、満25歳以上の男子による普通選挙が実現し、1928年の総選挙で初めて行われた。1889年の選挙法では、直接国税15円以上を納める満25歳以上の男子に限られていた。1945年の改正で満20歳以上の男女に、2015年の改正で満18歳以上に広がった。"
+            }
+          ]
+        },
+        {
+          "id": "common-kenpou-kofu",
+          "headline": "日本国憲法の公布",
+          "sources": [
+            {
+              "title": "日本国憲法の誕生 年表",
+              "publisher": "国立国会図書館",
+              "url": "https://www.ndl.go.jp/constitution/etc/history.html",
+              "retrievedOn": "2026-10-23"
+            },
+            {
+              "title": "「国民の祝日」について（2026年10月22日に確認）",
+              "publisher": "内閣府",
+              "url": "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html",
+              "retrievedOn": "2026-10-22"
+            }
+          ],
+          "questions": [
+            {
+              "id": "common-kenpou-kofu-001",
+              "kind": "choice",
+              "level": 2,
+              "prompt": "日本国憲法が公布された日は、2026年10月時点の国民の祝日のうち、どの祝日の日付にあたるか。",
+              "choices": [
+                "憲法記念日",
+                "文化の日",
+                "建国記念の日",
+                "昭和の日"
+              ],
+              "answer": 1,
+              "explanation": "日本国憲法は1946年11月3日に公布され、1947年5月3日に施行された。11月3日は文化の日。5月3日の憲法記念日は、日本国憲法の施行を記念する日とされている。"
+            }
+          ]
+        },
+        {
+          "id": "common-naikaku-seido",
+          "headline": "内閣制度の始まり",
+          "sources": [
+            {
+              "title": "内閣制度の概要（2026年10月23日に確認）",
+              "publisher": "首相官邸",
+              "url": "https://www.kantei.go.jp/jp/seido/index.html",
+              "retrievedOn": "2026-10-23"
+            }
+          ],
+          "questions": [
+            {
+              "id": "common-naikaku-seido-001",
+              "kind": "compare",
+              "level": 2,
+              "prompt": "次の2つのうち、先に行われたのはどちらか。",
+              "choices": [
+                "内閣制度の創設",
+                "大日本帝国憲法の公布"
+              ],
+              "answer": 0,
+              "explanation": "内閣制度は1885年（明治18年）12月22日に創設され、初代の内閣総理大臣に伊藤博文が任命された。大日本帝国憲法（明治憲法）は、1889年（明治22年）2月11日に公布された。"
+            }
+          ]
+        },
+        {
+          "id": "common-tani",
+          "headline": "単位",
+          "sources": [
+            {
+              "title": "国際単位系（SI）とは（2026年10月23日に確認）",
+              "publisher": "産業技術総合研究所 計量標準総合センター",
+              "url": "https://unit.aist.go.jp/nmij/library/si-units/",
+              "retrievedOn": "2026-10-23"
+            }
+          ],
+          "questions": [
+            {
+              "id": "common-tani-001",
+              "kind": "multi",
+              "level": 2,
+              "prompt": "国際単位系（SI）の基本単位に含まれるものを、すべて選べ。",
+              "choices": [
+                "リットル",
+                "メートル",
+                "秒",
+                "分",
+                "キログラム"
+              ],
+              "answer": 1,
+              "answers": [
+                1,
+                2,
+                4
+              ],
+              "explanation": "国際単位系の基本単位は、秒・メートル・キログラム・アンペア・ケルビン・モル・カンデラの7つ。日常で使うリットルや時間の分は国際単位系には属さないが、国際単位系と併用できる単位とされている。",
+              "terms": [
+                "si"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "common-shindo",
+          "headline": "震度",
+          "sources": [
+            {
+              "title": "震度について（2026年10月23日に確認）",
+              "publisher": "気象庁",
+              "url": "https://www.jma.go.jp/jma/kishou/know/shindo/",
+              "retrievedOn": "2026-10-23"
+            }
+          ],
+          "questions": [
+            {
+              "id": "common-shindo-001",
+              "kind": "choice",
+              "level": 1,
+              "prompt": "2026年10月時点で、気象庁の震度階級はいくつの階級に分かれているか。",
+              "choices": [
+                "7階級",
+                "8階級",
+                "9階級",
+                "10階級"
+              ],
+              "answer": 3,
+              "explanation": "気象庁の震度階級は、震度0・1・2・3・4・5弱・5強・6弱・6強・7の10階級。震度5と震度6は、それぞれ弱と強の2つに分かれている。"
+            }
+          ]
+        },
+        {
+          "id": "common-wakusei",
+          "headline": "惑星の大きさ",
+          "sources": [
+            {
+              "title": "暦Wiki 惑星/半径（2026年10月23日に確認）",
+              "publisher": "国立天文台 暦計算室",
+              "url": "https://eco.mtk.nao.ac.jp/koyomi/wiki/CFC7C0B12FC8BEB7C2.html",
+              "retrievedOn": "2026-10-23"
+            }
+          ],
+          "questions": [
+            {
+              "id": "common-wakusei-001",
+              "kind": "order",
+              "level": 3,
+              "prompt": "国立天文台暦計算室の惑星の半径の表で、次の4つの惑星を、半径の大きい順に並べよ。",
+              "choices": [
+                "天王星",
+                "海王星",
+                "地球",
+                "金星"
+              ],
+              "answer": 0,
+              "explanation": "赤道半径は、天王星が25,559km、海王星が24,764km、地球が6,378.137km。金星は平均半径で6,051.8km。天王星と海王星、地球と金星は、どちらも大きさが近い。"
+            }
+          ]
+        },
+        {
+          "id": "common-sumo",
+          "headline": "大相撲",
+          "sources": [
+            {
+              "title": "協会の使命・組織（2026年10月23日に確認）",
+              "publisher": "日本相撲協会",
+              "url": "https://www.sumo.or.jp/IrohaKyokai/organization/",
+              "retrievedOn": "2026-10-23"
+            },
+            {
+              "title": "年間日程表（2026年10月23日に確認）",
+              "publisher": "日本相撲協会",
+              "url": "https://www.sumo.or.jp/Admission/schedule/",
+              "retrievedOn": "2026-10-23"
+            }
+          ],
+          "questions": [
+            {
+              "id": "common-sumo-001",
+              "kind": "choice",
+              "level": 1,
+              "prompt": "日本相撲協会の2026年の年間日程表で、大相撲の本場所は東京・大阪・名古屋と、もう1つの都市で開かれる。もう1つの都市はどこか。",
+              "choices": [
+                "札幌",
+                "仙台",
+                "広島",
+                "福岡"
+              ],
+              "answer": 3,
+              "explanation": "本場所は年6回で、2026年は一月・五月・九月場所が東京の国技館、三月場所が大阪、七月場所が名古屋、十一月場所が福岡（福岡国際センター）で開かれる。"
+            }
+          ]
+        },
+        {
+          "id": "common-kokusupo",
+          "headline": "国民スポーツ大会",
+          "sources": [
+            {
+              "title": "概要紹介 - 国民スポーツ大会（2026年10月23日に確認）",
+              "publisher": "日本スポーツ協会",
+              "url": "https://www.japan-sports.or.jp/kokutai/tabid181.html",
+              "retrievedOn": "2026-10-23"
+            }
+          ],
+          "questions": [
+            {
+              "id": "common-kokusupo-001",
+              "kind": "truefalse",
+              "level": 1,
+              "prompt": "国民体育大会は、2024年に開かれた第78回大会から、国民スポーツ大会に名前が変わった。",
+              "choices": [
+                "○",
+                "×"
+              ],
+              "answer": 0,
+              "explanation": "スポーツ基本法の改正（2023年1月1日施行）に合わせ、2024年の第78回大会から国民スポーツ大会になった。略称は「国スポ」、英語の表記は「JAPAN GAMES」。"
+            }
+          ]
+        },
+        {
+          "id": "common-olympic",
+          "headline": "日本のオリンピック",
+          "sources": [
+            {
+              "title": "国内で過去に行われた主な大規模国際競技大会（2026年10月23日に確認）",
+              "publisher": "スポーツ庁",
+              "url": "https://www.mext.go.jp/sports/b_menu/sports/mcatetop08/list/jsa_00065.html",
+              "retrievedOn": "2026-10-23"
+            }
+          ],
+          "questions": [
+            {
+              "id": "common-olympic-001",
+              "kind": "truefalse",
+              "level": 1,
+              "prompt": "日本で初めて開かれた冬季オリンピックは、1998年の長野大会である。",
+              "choices": [
+                "○",
+                "×"
+              ],
+              "answer": 1,
+              "explanation": "日本で初めての冬季オリンピックは、1972年の札幌大会で、アジアでも初めての冬季大会だった。1998年の長野大会は、日本で2度目の冬季オリンピック。"
+            }
+          ]
+        },
+        {
+          "id": "common-nobel-bungaku",
+          "headline": "ノーベル文学賞",
+          "sources": [
+            {
+              "title": "The Nobel Prize in Literature 1968",
+              "publisher": "The Swedish Academy（Nobel Prize）",
+              "url": "https://www.nobelprize.org/prizes/literature/1968/summary/",
+              "retrievedOn": "2026-10-23"
+            },
+            {
+              "title": "The Nobel Prize in Literature 1994",
+              "publisher": "The Swedish Academy（Nobel Prize）",
+              "url": "https://www.nobelprize.org/prizes/literature/1994/summary/",
+              "retrievedOn": "2026-10-23"
+            },
+            {
+              "title": "The Nobel Prize in Literature 1982",
+              "publisher": "The Swedish Academy（Nobel Prize）",
+              "url": "https://www.nobelprize.org/prizes/literature/1982/summary/",
+              "retrievedOn": "2026-10-23"
+            },
+            {
+              "title": "The Nobel Prize in Literature 2017",
+              "publisher": "The Swedish Academy（Nobel Prize）",
+              "url": "https://www.nobelprize.org/prizes/literature/2017/summary/",
+              "retrievedOn": "2026-10-23"
+            }
+          ],
+          "questions": [
+            {
+              "id": "common-nobel-bungaku-001",
+              "kind": "order",
+              "level": 2,
+              "prompt": "次の4人を、ノーベル文学賞を受賞した年の古い順に並べよ。",
+              "choices": [
+                "川端康成《かわばたやすなり》",
+                "ガブリエル・ガルシア＝マルケス",
+                "大江健三郎《おおえけんざぶろう》",
+                "カズオ・イシグロ"
+              ],
+              "answer": 0,
+              "explanation": "受賞した年は、川端康成が1968年、ガブリエル・ガルシア＝マルケスが1982年、大江健三郎が1994年、カズオ・イシグロが2017年。"
+            }
+          ]
+        },
+        {
+          "id": "common-bungakusho",
+          "headline": "芥川賞と直木賞",
+          "sources": [
+            {
+              "title": "各賞紹介（2026年10月23日に確認）",
+              "publisher": "日本文学振興会",
+              "url": "https://bungakushinko.or.jp/award/index.html",
+              "retrievedOn": "2026-10-23"
+            },
+            {
+              "title": "日本文学振興会について（2026年10月23日に確認）",
+              "publisher": "日本文学振興会",
+              "url": "https://bungakushinko.or.jp/about/index.html",
+              "retrievedOn": "2026-10-23"
+            }
+          ],
+          "questions": [
+            {
+              "id": "common-bungakusho-001",
+              "kind": "choice",
+              "level": 2,
+              "prompt": "芥川龍之介賞と｜直木三十五《なおきさんじゅうご》賞の選考と授賞を行っているのはどこか。",
+              "choices": [
+                "文化庁",
+                "日本芸術院",
+                "日本文学振興会",
+                "日本ペンクラブ"
+              ],
+              "answer": 2,
+              "explanation": "芥川龍之介賞と直木三十五賞は、公益財団法人日本文学振興会が選考と授賞を行っている。同会は、菊池寛賞・大宅壮一ノンフィクション賞・松本清張賞の選考と授賞も行っている。",
+              "sources": [
+                {
+                  "title": "各賞紹介（2026年10月23日に確認）",
+                  "publisher": "日本文学振興会",
+                  "url": "https://bungakushinko.or.jp/award/index.html",
+                  "retrievedOn": "2026-10-23"
+                },
+                {
+                  "title": "日本文学振興会について（2026年10月23日に確認）",
+                  "publisher": "日本文学振興会",
+                  "url": "https://bungakushinko.or.jp/about/index.html",
+                  "retrievedOn": "2026-10-23"
+                },
+                {
+                  "title": "直木, 三十五, 1891-1934（典拠データ）",
+                  "publisher": "国立国会図書館（Web NDL Authorities）",
+                  "url": "https://id.ndl.go.jp/auth/entity/00053888",
+                  "retrievedOn": "2026-10-23"
+                }
+              ]
+            },
+            {
+              "id": "common-bungakusho-002",
+              "kind": "truefalse",
+              "level": 1,
+              "prompt": "2026年10月時点で、芥川龍之介賞は、1年に1回選考される。",
+              "choices": [
+                "○",
+                "×"
+              ],
+              "answer": 1,
+              "explanation": "芥川龍之介賞の授賞は年2回。前年12月から5月までに発表された作品の選考会は7月中旬に、6月から11月までに発表された作品の選考会は翌年1月中旬に行われる。"
+            }
+          ]
+        },
+        {
+          "id": "common-shuto",
+          "headline": "世界の首都",
+          "sources": [
+            {
+              "title": "オーストラリア基礎データ",
+              "publisher": "外務省",
+              "url": "https://www.mofa.go.jp/mofaj/area/australia/data.html",
+              "publishedOn": "2026-08-19",
+              "retrievedOn": "2026-10-25"
+            },
+            {
+              "title": "オーストラリアの首都機能移転（諸外国における首都機能移転）",
+              "publisher": "国土交通省",
+              "url": "https://www.mlit.go.jp/kokudokeikaku/iten/service/panf/g_panf2007_3.html",
+              "retrievedOn": "2026-10-25"
+            }
+          ],
+          "questions": [
+            {
+              "id": "common-shuto-001",
+              "kind": "truefalse",
+              "level": 1,
+              "prompt": "2026年10月時点で、オーストラリアの首都はシドニーである。",
+              "choices": [
+                "○",
+                "×"
+              ],
+              "answer": 1,
+              "explanation": "外務省の基礎データ（2026年8月）では、オーストラリアの首都はキャンベラ。国土交通省の資料では、首都をシドニーとメルボルンのどちらにするかで論争があり、1908年に両都市のあいだに新しい都市としてキャンベラを建設することが決まった。1927年に議会がメルボルン（臨時の首都）から移った。"
+            }
+          ]
+        },
+        {
+          "id": "common-kuni-menseki",
+          "headline": "国の面積",
+          "sources": [
+            {
+              "title": "カナダ基礎データ",
+              "publisher": "外務省",
+              "url": "https://www.mofa.go.jp/mofaj/area/canada/data.html",
+              "publishedOn": "2026-06-12",
+              "retrievedOn": "2026-10-25"
+            },
+            {
+              "title": "アメリカ合衆国基礎データ",
+              "publisher": "外務省",
+              "url": "https://www.mofa.go.jp/mofaj/area/usa/data.html",
+              "publishedOn": "2026-08-05",
+              "retrievedOn": "2026-10-25"
+            }
+          ],
+          "questions": [
+            {
+              "id": "common-kuni-menseki-001",
+              "kind": "compare",
+              "level": 2,
+              "prompt": "2026年10月時点の外務省の基礎データで、面積が大きいのはどちらか。",
+              "choices": [
+                "カナダ",
+                "アメリカ合衆国"
+              ],
+              "answer": 0,
+              "explanation": "カナダは998.5万平方キロメートルで、ロシアに次ぐ世界第2位。アメリカ合衆国は983万3,517平方キロメートル。"
+            }
+          ]
+        },
+        {
+          "id": "common-g7",
+          "headline": "G7",
+          "sources": [
+            {
+              "title": "G7に関する基礎的なQ&A",
+              "publisher": "外務省",
+              "url": "https://www.mofa.go.jp/mofaj/gaiko/summit/ko_2000/faq/index.html",
+              "publishedOn": "2024-04-25",
+              "retrievedOn": "2026-10-23"
+            }
+          ],
+          "questions": [
+            {
+              "id": "common-g7-001",
+              "kind": "multi",
+              "level": 1,
+              "prompt": "外務省の説明（2024年4月）で、G7のメンバーの7か国に入っている国を、すべて選べ。",
+              "choices": [
+                "カナダ",
+                "オーストラリア",
+                "イタリア",
+                "韓国",
+                "ドイツ"
+              ],
+              "answer": 0,
+              "answers": [
+                0,
+                2,
+                4
+              ],
+              "explanation": "G7は、フランス・米国・英国・ドイツ・日本・イタリア・カナダの7か国と欧州連合が参加する枠組み。会議には、メンバー以外の招待国や国際機関が参加することもある。",
+              "terms": [
+                "g7"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "common-kaigyo",
+          "headline": "開業の年",
+          "sources": [
+            {
+              "title": "会社概要",
+              "publisher": "株式会社TOKYO TOWER（東京タワー）",
+              "url": "https://www.tokyotower.co.jp/company/",
+              "retrievedOn": "2026-10-25"
+            },
+            {
+              "title": "昭和40年度 運輸白書「東海道新幹線」",
+              "publisher": "運輸省（国土交通省のサイト）",
+              "url": "https://www.mlit.go.jp/hakusyo/transport/shouwa40/ind040103/002.html",
+              "retrievedOn": "2026-10-25"
+            },
+            {
+              "title": "昭和63年度 運輸白書「青函トンネルの概要」",
+              "publisher": "運輸省（国土交通省のサイト）",
+              "url": "https://www.mlit.go.jp/hakusyo/transport/shouwa63/ind000201/001.html",
+              "retrievedOn": "2026-10-25"
+            },
+            {
+              "title": "企業情報",
+              "publisher": "東武タワースカイツリー株式会社",
+              "url": "https://www.tokyo-skytree.jp/corporate/profile/",
+              "retrievedOn": "2026-10-25"
+            }
+          ],
+          "questions": [
+            {
+              "id": "common-kaigyo-001",
+              "kind": "order",
+              "level": 2,
+              "prompt": "次の4つを、開業・開通した年の古い順に並べよ。",
+              "choices": [
+                "東京タワー",
+                "東海道新幹線",
+                "青函トンネル",
+                "東京スカイツリー"
+              ],
+              "answer": 0,
+              "explanation": "東京タワーは1958年に営業を始め、東海道新幹線は1964年10月1日に開業した。青函トンネルは1988年3月13日に開通し、本州と北海道が線路で結ばれた。東京スカイツリーは2012年5月22日に開業した。"
+            }
+          ]
+        },
+        {
+          "id": "common-kanji",
+          "headline": "常用漢字",
+          "sources": [
+            {
+              "title": "常用漢字表（平成22年内閣告示第2号）",
+              "publisher": "文化庁",
+              "url": "https://www.bunka.go.jp/kokugo_nihongo/sisaku/joho/joho/kijun/naikaku/pdf/joyokanjihyo_20101130.pdf",
+              "publishedOn": "2010-11-30",
+              "retrievedOn": "2026-10-25"
+            }
+          ],
+          "questions": [
+            {
+              "id": "common-kanji-001",
+              "kind": "choice",
+              "level": 2,
+              "prompt": "2026年10月時点の常用漢字表（2010年の内閣告示）の本表に掲げられている漢字の数はどれか。",
+              "choices": [
+                "1945字",
+                "2000字",
+                "2136字",
+                "2500字"
+              ],
+              "answer": 2,
+              "explanation": "平成22年（2010年）11月30日の内閣告示第2号の常用漢字表は、本表に2136字を掲げている。法令・公用文書・新聞・雑誌・放送など、一般の社会生活で現代の国語を書き表すときの、漢字使用の目安とされている。"
+            }
+          ]
+        },
+        {
+          "id": "common-kotoba",
+          "headline": "言葉の本来の意味",
+          "sources": [
+            {
+              "title": "平成14年度「国語に関する世論調査」慣用句等の認知・使用と理解（参考5）",
+              "publisher": "文化庁",
+              "url": "https://www.bunka.go.jp/tokei_hakusho_shuppan/tokeichosa/kokugo_yoronchosa/h14/sanko5.html",
+              "retrievedOn": "2026-10-25"
+            }
+          ],
+          "questions": [
+            {
+              "id": "common-kotoba-001",
+              "kind": "truefalse",
+              "level": 2,
+              "prompt": "文化庁の平成14年度「国語に関する世論調査」で、「役不足」の本来の意味は、本人の力量に対して役目が重すぎることとされている。",
+              "choices": [
+                "○",
+                "×"
+              ],
+              "answer": 1,
+              "explanation": "文化庁の調査では、「役不足」の本来の意味は「本人の力量に対して役目が軽すぎること」とされている。"
+            }
+          ]
+        },
+        {
+          "id": "common-genso",
+          "headline": "日本で生まれた元素",
+          "sources": [
+            {
+              "title": "ニホニウム（2026年10月25日に確認）",
+              "publisher": "理化学研究所",
+              "url": "https://www.riken.jp/pr/fun/nh/",
+              "retrievedOn": "2026-10-25"
+            },
+            {
+              "title": "IUPAC announces the names of the elements 113, 115, 117, and 118",
+              "publisher": "国際純正・応用化学連合（IUPAC）",
+              "url": "https://iupac.org/iupac-announces-the-names-of-the-elements-113-115-117-and-118/",
+              "publishedOn": "2016-11-30",
+              "retrievedOn": "2026-10-25"
+            }
+          ],
+          "questions": [
+            {
+              "id": "common-genso-001",
+              "kind": "choice",
+              "level": 2,
+              "prompt": "日本の研究グループが発見した113番元素「ニホニウム」の元素記号はどれか。",
+              "choices": [
+                "Nh",
+                "Ni",
+                "Nb",
+                "No"
+              ],
+              "answer": 0,
+              "explanation": "理化学研究所の森田浩介グループディレクターを中心とするグループが発見し、2016年11月に元素名がニホニウム、元素記号がNhに決まった。欧米以外の研究グループに命名権が与えられたのは初めて。"
+            }
+          ]
+        },
+        {
+          "id": "common-kazan",
+          "headline": "活火山",
+          "sources": [
+            {
+              "title": "活火山とは（2026年10月25日に確認）",
+              "publisher": "気象庁",
+              "url": "https://www.jma.go.jp/jma/kishou/know/kazan/katsukazan_toha/katsukazan_toha.html",
+              "retrievedOn": "2026-10-25"
+            }
+          ],
+          "questions": [
+            {
+              "id": "common-kazan-001",
+              "kind": "choice",
+              "level": 2,
+              "prompt": "2026年10月時点で、気象庁は、活火山を「概ね過去○○以内に噴火した火山及び現在活発な噴気活動のある火山」としている。「○○」に入るのはどれか。",
+              "choices": [
+                "100年",
+                "1000年",
+                "1万年",
+                "10万年"
+              ],
+              "answer": 2,
+              "explanation": "気象庁は、活火山を「概ね過去1万年以内に噴火した火山及び現在活発な噴気活動のある火山」としている。2026年10月時点の気象庁のページでは、日本には111の活火山がある。"
+            }
+          ]
+        },
+        {
+          "id": "common-kawa",
+          "headline": "日本の川",
+          "sources": [
+            {
+              "title": "日本の川 利根川（2026年10月25日に確認）",
+              "publisher": "国土交通省 水管理・国土保全局",
+              "url": "https://www.mlit.go.jp/river/toukei_chousa/kasen/jiten/nihon_kawa/0316_tonegawa/0316_tonegawa_00.html",
+              "retrievedOn": "2026-10-25"
+            },
+            {
+              "title": "データで見る信濃川（2026年10月25日に確認）",
+              "publisher": "国土交通省 北陸地方整備局 信濃川下流河川事務所",
+              "url": "https://www.hrr.mlit.go.jp/shinage/shinanogawa/shinanogawa_data.html",
+              "retrievedOn": "2026-10-25"
+            }
+          ],
+          "questions": [
+            {
+              "id": "common-kawa-001",
+              "kind": "compare",
+              "level": 2,
+              "prompt": "国土交通省の資料で、流域面積が大きいのはどちらか。",
+              "choices": [
+                "信濃川",
+                "利根川"
+              ],
+              "answer": 1,
+              "explanation": "国土交通省の「日本の川」では、利根川の流域面積は16,840平方キロメートル。信濃川の流域面積は11,900平方キロメートル。川の長さでは、信濃川（367km）が全国1位、利根川（322km）が2位（信濃川下流河川事務所の資料）。"
+            }
+          ]
+        },
+        {
+          "id": "common-nobel-igaku",
+          "headline": "ノーベル生理学・医学賞",
+          "sources": [
+            {
+              "title": "The Nobel Prize in Physiology or Medicine 2012",
+              "publisher": "The Nobel Assembly at Karolinska Institutet（Nobel Prize）",
+              "url": "https://www.nobelprize.org/prizes/medicine/2012/summary/",
+              "retrievedOn": "2026-10-25"
+            }
+          ],
+          "questions": [
+            {
+              "id": "common-nobel-igaku-001",
+              "kind": "truefalse",
+              "level": 1,
+              "prompt": "2012年のノーベル生理学・医学賞は、山中伸弥《やまなかしんや》とジョン・ガードンが共同で受賞した。",
+              "choices": [
+                "○",
+                "×"
+              ],
+              "answer": 0,
+              "explanation": "成熟した細胞を、さまざまな細胞になれる状態（多能性）に戻せることを発見した業績で、2人が共同で受賞した。"
+            }
+          ]
+        },
+        {
+          "id": "common-ukiyoe",
+          "headline": "浮世絵",
+          "sources": [
+            {
+              "title": "冨嶽三十六景・神奈川沖浪裏",
+              "publisher": "文化遺産オンライン（文化庁）",
+              "url": "https://bunka.nii.ac.jp/heritages/detail/477360",
+              "retrievedOn": "2026-10-25"
+            }
+          ],
+          "questions": [
+            {
+              "id": "common-ukiyoe-001",
+              "kind": "choice",
+              "level": 1,
+              "prompt": "「冨嶽《ふがく》三十六景・｜神奈川沖浪裏《かながわおきなみうら》」を描いた画家は誰か。",
+              "choices": [
+                "葛飾北斎",
+                "歌川広重",
+                "喜多川歌麿",
+                "東洲斎写楽"
+              ],
+              "answer": 0,
+              "explanation": "文化遺産オンラインでは、東京国立博物館が所蔵する葛飾北斎の錦絵（江戸時代・19世紀）として紹介されている。せり上がる大波と小舟を描いた構図の中心に、富士山が置かれている。"
+            }
+          ]
+        },
+        {
+          "id": "common-washoku",
+          "headline": "和食",
+          "sources": [
+            {
+              "title": "「和食」がユネスコ無形文化遺産に登録されています（2026年10月25日に確認）",
+              "publisher": "農林水産省",
+              "url": "https://www.maff.go.jp/j/keikaku/syokubunka/ich/",
+              "retrievedOn": "2026-10-25"
+            }
+          ],
+          "questions": [
+            {
+              "id": "common-washoku-001",
+              "kind": "truefalse",
+              "level": 1,
+              "prompt": "「和食；日本人の伝統的な食文化」は、2013年にユネスコの無形文化遺産に登録された。",
+              "choices": [
+                "○",
+                "×"
+              ],
+              "answer": 0,
+              "explanation": "2013年（平成25年）12月4日、ユネスコの政府間委員会で「和食」の登録が決まった。",
+              "terms": [
+                "unesco"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "terms": [
+    {
+      "id": "boeki-toukei",
+      "term": "貿易統計",
+      "definition": "ふつう「貿易統計」というときは、日本から輸出され、日本に輸入された貨物の金額と数量を、品目別・国（地域）別などに示した統計（普通貿易統計）を指す。税関への輸出入の申告などをもとに作られる。",
+      "sources": [
+        {
+          "title": "よくある質問（2026年10月23日に確認）",
+          "publisher": "財務省",
+          "url": "https://www.customs.go.jp/toukei/sankou/howto/faq.htm",
+          "retrievedOn": "2026-10-23"
+        }
+      ]
+    },
+    {
+      "id": "boeki-sokuhou",
+      "term": "速報（貿易統計）",
+      "definition": "貿易統計で最初に公表される数字。そのあとに生じた輸出入情報の修正などを反映して、確報・確々報《かくかくほう》・確定の順に公表し直される。",
+      "sources": [
+        {
+          "title": "よくある質問（2026年10月23日に確認）",
+          "publisher": "財務省",
+          "url": "https://www.customs.go.jp/toukei/sankou/howto/faq.htm",
+          "retrievedOn": "2026-10-23"
+        }
+      ]
+    },
+    {
+      "id": "kakugi-kettei",
+      "term": "閣議・閣議決定",
+      "definition": "閣議は、内閣総理大臣と国務大臣（閣僚）による会議。閣議にかける案件のうち、合議体である内閣の意思を決めるものを「閣議決定」という。",
+      "sources": [
+        {
+          "title": "閣議（2026年10月23日に確認）",
+          "publisher": "首相官邸",
+          "url": "https://www.kantei.go.jp/jp/kakugi/index.html",
+          "retrievedOn": "2026-10-23"
+        },
+        {
+          "title": "内閣制度の概要（2.2 内閣の機能と運営。2026年10月23日に確認）",
+          "publisher": "首相官邸",
+          "url": "https://www.kantei.go.jp/jp/seido/seido_2_2.html",
+          "retrievedOn": "2026-10-23"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "term": "AI",
+      "definition": "人工知能のこと。英語では Artificial intelligence と書く。",
+      "sources": [
+        {
+          "title": "人工知能（典拠データ）",
+          "publisher": "国立国会図書館（Web NDL Authorities）",
+          "url": "https://id.ndl.go.jp/auth/ndlsh/人工知能",
+          "retrievedOn": "2026-10-23"
+        }
+      ]
+    },
+    {
+      "id": "ec",
+      "term": "EC（電子商取引）",
+      "definition": "電子商取引のこと。英語では Electronic commerce と書き、eコマースとも呼ばれる。",
+      "sources": [
+        {
+          "title": "電子商取引（典拠データ）",
+          "publisher": "国立国会図書館（Web NDL Authorities）",
+          "url": "https://id.ndl.go.jp/auth/ndlsh/電子商取引",
+          "retrievedOn": "2026-10-23"
+        },
+        {
+          "title": "令和7年度電子商取引に関する市場調査の結果を取りまとめました",
+          "publisher": "経済産業省",
+          "url": "https://www.meti.go.jp/press/2026/10/20261021001.html",
+          "publishedOn": "2026-10-21",
+          "retrievedOn": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "id": "btob",
+      "term": "BtoB",
+      "definition": "企業間取引のこと。英語では business to business と書き、B2B とも書く。経済産業省の電子商取引の調査では、企業間の電子商取引を BtoB-EC としている。",
+      "sources": [
+        {
+          "title": "BtoB（典拠データ）",
+          "publisher": "国立国会図書館（Web NDL Authorities）",
+          "url": "https://id.ndl.go.jp/auth/ndlsh/BtoB",
+          "retrievedOn": "2026-10-23"
+        },
+        {
+          "title": "令和7年度電子商取引に関する市場調査の結果を取りまとめました",
+          "publisher": "経済産業省",
+          "url": "https://www.meti.go.jp/press/2026/10/20261021001.html",
+          "publishedOn": "2026-10-21",
+          "retrievedOn": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "id": "g7",
+      "term": "G7",
+      "definition": "G7は「Group of Seven」（参加7か国の総称）のこと。外務省の説明（2024年4月）では、フランス、米国、英国、ドイツ、日本、イタリア、カナダの7か国と欧州連合（EU）が参加する枠組みで、議長国の任期は1月〜12月の1年間。",
+      "sources": [
+        {
+          "title": "G7に関する基礎的なQ&A",
+          "publisher": "外務省",
+          "url": "https://www.mofa.go.jp/mofaj/gaiko/summit/ko_2000/faq/index.html",
+          "publishedOn": "2024-04-25",
+          "retrievedOn": "2026-10-23"
+        }
+      ]
+    },
+    {
+      "id": "gakkou-kenshin",
+      "term": "学校の健康診断（学校健診）",
+      "definition": "学校保健安全法にもとづいて、学校が毎学年定期に行う、児童生徒などの健康診断。",
+      "sources": [
+        {
+          "title": "学校保健安全法（第13条。2026年10月23日に確認）",
+          "publisher": "e-Gov 法令検索（デジタル庁）",
+          "url": "https://laws.e-gov.go.jp/law/333AC0000000056",
+          "retrievedOn": "2026-10-23"
+        }
+      ]
+    },
+    {
+      "id": "npb",
+      "term": "NPB",
+      "definition": "日本野球機構のこと（英語名は Nippon Professional Baseball Organization）。",
+      "sources": [
+        {
+          "title": "「SMBC日本シリーズ2026」出場資格者名簿公示",
+          "publisher": "日本野球機構（NPB）",
+          "url": "https://npb.jp/news/detail/20261022_01.html",
+          "publishedOn": "2026-10-22",
+          "retrievedOn": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "id": "js-shikaku",
+      "term": "日本シリーズの出場資格者",
+      "definition": "8月31日の時点でその球団の支配下選手で、その後も登録が続いている選手のうち40人以内。各試合では、このうち26人がベンチに入れる（2026年の出場資格者名簿の公示による）。",
+      "sources": [
+        {
+          "title": "「SMBC日本シリーズ2026」出場資格者名簿公示",
+          "publisher": "日本野球機構（NPB）",
+          "url": "https://npb.jp/news/detail/20261022_01.html",
+          "publishedOn": "2026-10-22",
+          "retrievedOn": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "id": "dentouteki-kougeihin",
+      "term": "伝統的工芸品",
+      "definition": "「伝統的工芸品産業の振興に関する法律」にもとづいて、経済産業大臣が指定する工芸品。主として日常生活で使われること、製造過程の主要部分が手工業的であること、伝統的な技術・技法や原材料で作られることなどが要件。",
+      "sources": [
+        {
+          "title": "「箱根小田原からくり細工」、「京竹工芸」及び「京七宝」を伝統的工芸品として新たに指定しました",
+          "publisher": "経済産業省",
+          "url": "https://www.meti.go.jp/press/2026/10/20261022001.html",
+          "publishedOn": "2026-10-22",
+          "retrievedOn": "2026-10-22"
+        },
+        {
+          "title": "伝統的工芸品産業の振興に関する法律（第2条。2026年10月23日に確認）",
+          "publisher": "e-Gov 法令検索（デジタル庁）",
+          "url": "https://laws.e-gov.go.jp/law/349AC0000000057",
+          "retrievedOn": "2026-10-23"
+        }
+      ]
+    },
+    {
+      "id": "unesco",
+      "term": "ユネスコ（UNESCO）",
+      "definition": "国際連合教育科学文化機関（英語では United Nations Educational, Scientific and Cultural Organization。UNESCO とも書く）のことで、教育・科学・文化の協力と交流を通じて、国際平和と人類の福祉を進める国際連合の専門機関。世界遺産条約は、1972年にユネスコで採択された。",
+      "sources": [
+        {
+          "title": "ユネスコとは（2026年10月23日に確認）",
+          "publisher": "文部科学省（日本ユネスコ国内委員会）",
+          "url": "https://www.mext.go.jp/unesco/003/001.htm",
+          "retrievedOn": "2026-10-23"
+        },
+        {
+          "title": "世界遺産（2026年10月22日に確認）",
+          "publisher": "文化庁",
+          "url": "https://www.bunka.go.jp/seisaku/bunkazai/shokai/sekai_isan/",
+          "retrievedOn": "2026-10-22"
+        }
+      ]
+    },
+    {
+      "id": "cop",
+      "term": "COP（締約国会議）",
+      "definition": "COP は Conference of the Parties の略で、条約を結んだ国（締約国）が集まる会議。国連気候変動枠組条約の締約国会議は、1995年から、原則として毎年開かれている。",
+      "sources": [
+        {
+          "title": "2020年以降の枠組み：パリ協定",
+          "publisher": "外務省",
+          "url": "https://www.mofa.go.jp/mofaj/ic/ch/page1w_000119.html",
+          "publishedOn": "2025-06-04",
+          "retrievedOn": "2026-10-23"
+        },
+        {
+          "title": "Conference of the Parties (COP)（2026年10月23日に確認）",
+          "publisher": "国連気候変動枠組条約（UNFCCC）事務局",
+          "url": "https://unfccc.int/process/bodies/supreme-bodies/conference-of-the-parties-cop",
+          "retrievedOn": "2026-10-23"
+        }
+      ]
+    },
+    {
+      "id": "si",
+      "term": "SI",
+      "definition": "国際単位系の略称。フランス語の Système international d'unités に由来する。",
+      "sources": [
+        {
+          "title": "国際単位系（SI）とは（2026年10月23日に確認）",
+          "publisher": "産業技術総合研究所 計量標準総合センター",
+          "url": "https://unit.aist.go.jp/nmij/library/si-units/",
+          "retrievedOn": "2026-10-23"
+        }
+      ]
+    },
+    {
+      "id": "kion-suijoki",
+      "term": "気温と大雨",
+      "definition": "気温が高いほど、空気が含める水蒸気の量（飽和水蒸気量）は多くなる。そのため、気温が上がると、大雨のときに降る雨の量も増える。文部科学省の発表資料では、気温が上がるときの飽和水蒸気量の増え方を、1度あたり7%としている。",
+      "sources": [
+        {
+          "title": "令和8年8月から9月に各地で発生した記録的大雨に地球温暖化が影響 －イベント・アトリビューションによる結果－（発表資料）",
+          "publisher": "文部科学省",
+          "url": "https://www.mext.go.jp/content/20261023-mxt_kankyou-000052548_01.pdf",
+          "publishedOn": "2026-10-23",
+          "retrievedOn": "2026-10-26"
+        }
+      ]
+    },
+    {
+      "id": "event-attribution",
+      "term": "イベント・アトリビューション",
+      "definition": "ある大雨や高温のような極端な気象に、長い期間の地球温暖化がどれだけ影響したかを、科学的に数値で示す手法。英語の Event Attribution から、EA とも書く。",
+      "sources": [
+        {
+          "title": "令和8年8月から9月に各地で発生した記録的大雨に地球温暖化が影響 －イベント・アトリビューションによる結果－（発表資料）",
+          "publisher": "文部科学省",
+          "url": "https://www.mext.go.jp/content/20261023-mxt_kankyou-000052548_01.pdf",
+          "publishedOn": "2026-10-23",
+          "retrievedOn": "2026-10-26"
+        }
+      ]
+    }
+  ]
+}

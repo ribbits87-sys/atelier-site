@@ -314,6 +314,7 @@ rt { font-size: 0.5em; color: var(--ink-3); font-weight: 400; letter-spacing: 0;
 .facts div:first-child { border-top: none; }
 .facts dt { color: var(--ink-3); font-size: 13.5px; }
 .facts dd { margin: 0; }
+@media (max-width: 560px) { .facts div { grid-template-columns: 1fr; gap: 0; } }
 .log { list-style: none; margin: 0; padding: 0; }
 .log li { display: grid; grid-template-columns: 7.5em 1fr; gap: 12px; padding: 8px 0; border-top: 1px solid var(--line-2); }
 .log li:first-child { border-top: none; }
@@ -330,3 +331,17 @@ rt { font-size: 0.5em; color: var(--ink-3); font-weight: 400; letter-spacing: 0;
 .site-foot a { color: var(--ink-2); }
 .copy { margin-top: 28px; font-size: 12px; color: var(--ink-3); }
 @media (max-width: 760px) { .foot-grid { grid-template-columns: 1fr 1fr; } .foot-brand { grid-column: 1 / -1; } }
+
+/* QR pages for training handouts (/open/…) */
+.open-page h1 { font-size: clamp(26px, 6vw, 34px); line-height: 1.5; margin: 4px 0 18px; }
+.open-names { list-style: none; margin: 16px 0 0; padding: 0; display: grid; gap: 6px; }
+.open-names li { display: grid; grid-template-columns: 9.5em 1fr; gap: 10px; font-size: 14.5px; }
+.open-names .label { color: var(--ink-3); font-size: 13px; }
+.open-action { margin: 28px 0 0; }
+.open-action .btn { flex-direction: column; align-items: center; justify-content: center; gap: 2px; width: 100%; max-width: 360px; min-height: 60px; padding: 12px 28px; background: var(--app); color: #fff; font-size: 17px; }
+.open-action .btn .en { font-size: 12.5px; font-weight: 500; color: #fff; opacity: 0.9; }
+.open-action .btn rt { color: inherit; opacity: 0.85; }
+.open-get { margin-top: 36px; padding-top: 24px; border-top: 1px solid var(--line); }
+.open-get h2 { display: block; font-size: 17px; margin: 0; }
+.open-get h2 .en { display: block; font-size: 13px; font-weight: 500; color: var(--ink-3); }
+@media (max-width: 560px) { .open-names li { grid-template-columns: 1fr; gap: 0; } }

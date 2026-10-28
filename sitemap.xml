@@ -11,6 +11,11 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://atelier.thehaven.jp/en/about/"/>
   </url>
   <url>
+    <loc>https://atelier.thehaven.jp/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://atelier.thehaven.jp/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://atelier.thehaven.jp/en/privacy/"/>
+  </url>
+  <url>
     <loc>https://atelier.thehaven.jp/en/</loc>
     <xhtml:link rel="alternate" hreflang="ja" href="https://atelier.thehaven.jp/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://atelier.thehaven.jp/en/"/>
@@ -19,6 +24,11 @@
     <loc>https://atelier.thehaven.jp/en/about/</loc>
     <xhtml:link rel="alternate" hreflang="ja" href="https://atelier.thehaven.jp/about/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://atelier.thehaven.jp/en/about/"/>
+  </url>
+  <url>
+    <loc>https://atelier.thehaven.jp/en/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://atelier.thehaven.jp/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://atelier.thehaven.jp/en/privacy/"/>
   </url>
   <url>
     <loc>https://atelier.thehaven.jp/genbadrill/</loc>
@@ -6843,5 +6853,14 @@
   </url>
   <url>
     <loc>https://atelier.thehaven.jp/kaigodrill/support/</loc>
+  </url>
+  <url>
+    <loc>https://atelier.thehaven.jp/newsdrill/privacy/</loc>
+  </url>
+  <url>
+    <loc>https://atelier.thehaven.jp/newsdrill/support/</loc>
+  </url>
+  <url>
+    <loc>https://atelier.thehaven.jp/newsdrill/tokushoho/</loc>
   </url>
 </urlset>
