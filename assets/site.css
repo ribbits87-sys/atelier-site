@@ -74,6 +74,8 @@ html:not(:lang(ja)) body { font-family: var(--font-latin); line-height: 1.7; }
 [lang="ja"] { font-family: var(--font-text); }
 [lang="en"], [lang="vi"], [lang="id"], [lang="tl"], [lang="ja-Latn"], .romaji { font-family: var(--font-latin); }
 [lang="my"] { font-family: "Noto Sans Myanmar", "Myanmar MN", "Myanmar Sangam MN", sans-serif; }
+/* Simplified Chinese: the Japanese fonts lack many of its letters (驾, 题), so use the system's Chinese font. */
+[lang="zh-Hans"], [lang="zh-Hans"] :is(h1, h2, h3) { font-family: "PingFang SC", "Hiragino Sans GB", "Noto Sans SC", "Noto Sans CJK SC", "Microsoft YaHei", sans-serif; }
 /* Burmese pages: stacked letters need a Myanmar font throughout, and more line height. */
 html:lang(my) body { font-family: "Noto Sans Myanmar", "Myanmar MN", "Myanmar Sangam MN", var(--font-latin); line-height: 1.95; }
 html:lang(my) :is(h1, .display, .band h2, .app-hero h1) { font-family: "Noto Sans Myanmar", "Myanmar MN", var(--font-latin); font-weight: 700; line-height: 1.6; }
@@ -260,6 +262,12 @@ nav.toc li a .count { margin-left: auto; padding-left: 8px; color: var(--ink-3);
 .legacy .updated { color: var(--ink-3); font-size: 13px; }
 .legacy .page-langs { margin: 26px 0 0; padding: 0; list-style: none; }
 .legacy .page-langs a { font-size: 12.5px; }
+/* A policy page with every language on it, one .lang-part each (Kirikae Drill). */
+.legacy .lang-part + .lang-part { margin-top: 40px; padding-top: 8px; border-top: 2px solid var(--line); }
+.legacy .lang-part .block p { font-size: 15.5px; }
+.legacy .lang-part:is([lang="en"], [lang="vi"]) h1 { font-family: var(--font-display-latin); }
+.site-foot div.disclaimer p { margin: 0 0 0.6em; }
+.site-foot div.disclaimer p:last-child { margin-bottom: 0; }
 .note { margin-top: 14px; font-size: 13px; color: var(--ink-2); background: var(--paper-2); border-radius: 10px; padding: 12px 14px; }
 
 /* ---------- glossary and term pages ---------- */

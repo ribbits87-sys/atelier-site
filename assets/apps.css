@@ -3,9 +3,11 @@
 [data-app="dronedrill"] { --app: #1F6FB2; --app-deep: #164F80; --app-soft: #E5F0FA; }
 [data-app="kaigodrill"] { --app: #C0564C; --app-deep: #8F3A32; --app-soft: #FAEAE7; }
 [data-app="newsdrill"] { --app: #A32D2D; --app-deep: #8A2323; --app-soft: #F3DEDA; }
+[data-app="kirikaedrill"] { --app: #0E7C86; --app-deep: #0A5C63; --app-soft: #E0F1F2; }
 @media (prefers-color-scheme: dark) {
   [data-app="genbadrill"] { --app: #43B183; --app-deep: #8FD6B5; --app-soft: #15241D; }
   [data-app="dronedrill"] { --app: #5AA9E6; --app-deep: #9CCBF2; --app-soft: #16304A; }
   [data-app="kaigodrill"] { --app: #E2887B; --app-deep: #F0A99E; --app-soft: #2B1A17; }
   [data-app="newsdrill"] { --app: #E0796C; --app-deep: #F0A99E; --app-soft: #3A2320; }
+  [data-app="kirikaedrill"] { --app: #4FC1C9; --app-deep: #9EDCE0; --app-soft: #123236; }
 }
