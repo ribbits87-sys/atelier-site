@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "generatedAt": "2026-10-27T01:33:49+09:00",
+  "generatedAt": "2026-10-30T09:29:51+09:00",
   "issues": [
     {
       "id": "2026-10-23-fri",
@@ -1024,6 +1024,525 @@
         "common-vietnam-002",
         "common-vietnam-001",
         "2026-10-27-shakai-01-q1"
+      ]
+    },
+    {
+      "id": "2026-10-30-fri",
+      "number": 3,
+      "kind": "regular",
+      "publishAt": "2026-10-30T06:30:00+09:00",
+      "covers": {
+        "from": "2026-10-27",
+        "to": "2026-10-29"
+      },
+      "pages": [
+        {
+          "number": 1,
+          "section": "sougou",
+          "stories": [
+            {
+              "id": "2026-10-30-sougou-01",
+              "headline": "日独が首脳共同声明",
+              "eventOn": "2026-10-28",
+              "field": "kokusai",
+              "body": "高市早苗内閣総理大臣は2026年10月28日、来日したドイツのフリードリヒ・メルツ首相と総理大臣官邸で会談した。両首脳は日独関係を「プレミアム・パートナー」と表し、日独首脳共同声明と、先端技術協力・経済安全保障協力に関する2つの首脳共同宣言を出した。重要鉱物の供給源の多角化などで協力を進めることでも一致した。",
+              "sources": [
+                {
+                  "title": "日独首脳会談",
+                  "publisher": "外務省",
+                  "url": "https://www.mofa.go.jp/mofaj/erp/erp_2/de/pageit_000001_03282.html",
+                  "publishedOn": "2026-10-28",
+                  "retrievedOn": "2026-10-29"
+                },
+                {
+                  "title": "日独首脳会談（総理の一日）",
+                  "publisher": "首相官邸",
+                  "url": "https://www.kantei.go.jp/jp/105/actions/202610/28germany.html",
+                  "publishedOn": "2026-10-28",
+                  "retrievedOn": "2026-10-29"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "2026-10-30-sougou-01-q1",
+                  "kind": "truefalse",
+                  "level": 1,
+                  "prompt": "2026年10月28日の日独首脳会談で、高市総理大臣とドイツのメルツ首相は、日独関係を「プレミアム・パートナー」と表した。",
+                  "choices": [
+                    "○",
+                    "×"
+                  ],
+                  "answer": 0,
+                  "explanation": "外務省によると、高市総理大臣は会談の冒頭で日独関係を「プレミアム・パートナー」と称し、メルツ首相も、日独は「プレミアム・パートナー」であると述べた。会談は総理大臣官邸で行われた。"
+                },
+                {
+                  "id": "2026-10-30-sougou-01-q2",
+                  "kind": "choice",
+                  "level": 3,
+                  "prompt": "2026年10月28日の日独首脳会談に関する記述として、最も妥当なのはどれか。",
+                  "choices": [
+                    "両首脳は、AIサミットをドイツで開くことで一致した。",
+                    "高市総理大臣は、EUの産業加速化法案への支持を伝えた。",
+                    "両首脳は、先端技術協力に関する首脳共同宣言を発出した。",
+                    "高市総理大臣は、ハノーバー・メッセ2028の開催国を引き受けた。"
+                  ],
+                  "answer": 2,
+                  "explanation": "外務省によると、両首脳は日独首脳共同声明と、先端技術協力・経済安全保障協力に関する2つの首脳共同宣言を発出した。AIサミットは、日本での開催に向けて連携を進めることを確認した。EUの産業加速化法案には、高市総理大臣が強い懸念を伝えた。ハノーバー・メッセ2028は、メルツ首相から日本にパートナー国としての参加の要請があり、高市総理大臣が受ける考えを述べた。",
+                  "sources": [
+                    {
+                      "title": "日独首脳会談",
+                      "publisher": "外務省",
+                      "url": "https://www.mofa.go.jp/mofaj/erp/erp_2/de/pageit_000001_03282.html",
+                      "publishedOn": "2026-10-28",
+                      "retrievedOn": "2026-10-29"
+                    }
+                  ],
+                  "terms": [
+                    "ai"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "section": "keizai",
+          "stories": [
+            {
+              "id": "2026-10-30-keizai-01",
+              "headline": "景気「緩やかに回復」",
+              "eventOn": "2026-10-27",
+              "body": "内閣府は2026年10月27日、10月の月例経済報告を公表した。景気の基調判断は「緩やかに回復しているが、中東情勢の影響を注視する必要がある」で、9月の判断にあった「自然災害」の言葉がなくなった。項目別では、輸出を「このところ持ち直しの動きに足踏みがみられる」とし、9月の「持ち直しの動きがみられる」から改めた。",
+              "sources": [
+                {
+                  "title": "月例経済報告（令和8年10月）",
+                  "publisher": "内閣府",
+                  "url": "https://www5.cao.go.jp/keizai3/getsurei/2026/1027getsurei/main.pdf",
+                  "publishedOn": "2026-10-27",
+                  "retrievedOn": "2026-10-29"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "2026-10-30-keizai-01-q1",
+                  "kind": "choice",
+                  "level": 2,
+                  "prompt": "2026年10月27日、10月の月例経済報告が公表された。月例経済報告をまとめて公表しているのはどこか。",
+                  "choices": [
+                    "日本銀行",
+                    "内閣府",
+                    "財務省",
+                    "総務省"
+                  ],
+                  "answer": 1,
+                  "explanation": "月例経済報告（令和8年10月）は、内閣府が2026年10月27日付で公表した。報告では、景気全体の判断（基調判断）と、個人消費・輸出などの項目ごとの判断を示している。"
+                },
+                {
+                  "id": "2026-10-30-keizai-01-q2",
+                  "kind": "truefalse",
+                  "level": 1,
+                  "prompt": "2026年10月の月例経済報告で、景気は「緩やかに回復している」と判断された。",
+                  "choices": [
+                    "○",
+                    "×"
+                  ],
+                  "answer": 0,
+                  "explanation": "10月の基調判断は「景気は、緩やかに回復しているが、中東情勢の影響を注視する必要がある。」だった。9月の判断にあった「自然災害」の言葉はなくなった。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "section": "kokusai",
+          "stories": [
+            {
+              "id": "2026-10-30-kokusai-01",
+              "headline": "BIG－B進化で一致",
+              "eventOn": "2026-10-27",
+              "body": "高市総理大臣は2026年10月27日、来日したバングラデシュのタレク・ラーマン首相と会談した。両首脳は「ベンガル湾産業成長地帯（BIG－B）」構想を進化させ、「繁栄を分かち合うBIG－B」として進めることで一致した。高市総理大臣は、バングラデシュの海上保安能力を高めるため、巡視船の供与を決めたと述べた。",
+              "sources": [
+                {
+                  "title": "日・バングラデシュ首脳会談",
+                  "publisher": "外務省",
+                  "url": "https://www.mofa.go.jp/mofaj/s_sa/sw/bd/pageit_000001_00006.html",
+                  "publishedOn": "2026-10-27",
+                  "retrievedOn": "2026-10-29"
+                }
+              ],
+              "terms": [
+                "big-b"
+              ],
+              "questions": [
+                {
+                  "id": "2026-10-30-kokusai-01-q1",
+                  "kind": "choice",
+                  "level": 2,
+                  "prompt": "2026年10月27日、高市総理大臣は来日したバングラデシュのラーマン首相と首脳会談を行った。両首脳が進化させて進めることで一致した、両国の協力の構想はどれか。",
+                  "choices": [
+                    "南アジア地域協力連合（SAARC）",
+                    "ベンガル湾産業成長地帯（BIG－B）",
+                    "ベンガル湾多分野技術経済協力イニシアチブ（BIMSTEC）",
+                    "アジア・ゼロエミッション共同体（AZEC）"
+                  ],
+                  "answer": 1,
+                  "explanation": "外務省によると、両首脳は「ベンガル湾産業成長地帯（BIG－B）」構想を進化させ、連結性の強化、災害・地政学リスクへの備えなど新たな4本柱に基づく「繁栄を分かち合うBIG－B」として進めることで一致した。",
+                  "terms": [
+                    "big-b"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "section": "shakai",
+          "stories": [
+            {
+              "id": "2026-10-30-shakai-01",
+              "headline": "熱中症の搬送が減少",
+              "eventOn": "2026-10-28",
+              "body": "消防庁は2026年10月28日、2026年5月から9月の熱中症による救急搬送人員の確定値を公表した。全国で7万7,638人と、2008年の調査開始以降で5番目に多かったが、前の年の同じ期間（10万510人）より2万2,872人少なかった。年齢区分別では、65歳以上の高齢者が全体の59.7%を占めた。",
+              "sources": [
+                {
+                  "title": "令和8年（5月〜9月）の熱中症による救急搬送状況",
+                  "publisher": "消防庁",
+                  "url": "https://www.soumu.go.jp/menu_news/s-news/01shoubo01_02001287.html",
+                  "publishedOn": "2026-10-28",
+                  "retrievedOn": "2026-10-29"
+                },
+                {
+                  "title": "令和8年（5月〜9月）の熱中症による救急搬送状況（報道資料）",
+                  "publisher": "消防庁",
+                  "url": "https://www.soumu.go.jp/main_content/001098034.pdf",
+                  "publishedOn": "2026-10-28",
+                  "retrievedOn": "2026-10-29"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "2026-10-30-shakai-01-q1",
+                  "kind": "truefalse",
+                  "level": 1,
+                  "prompt": "消防庁が2026年10月28日に公表した、2026年5月から9月の熱中症による救急搬送人員は、前の年の同じ期間より増えた。",
+                  "choices": [
+                    "○",
+                    "×"
+                  ],
+                  "answer": 1,
+                  "explanation": "2026年5月から9月の救急搬送人員は7万7,638人で、前の年の同じ期間の10万510人より2万2,872人少なかった。調査を始めた2008年（平成20年）以降では、5番目に多い人数だった。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "section": "kagaku",
+          "stories": [
+            {
+              "id": "2026-10-30-kagaku-01",
+              "headline": "南極観測隊の計画確定",
+              "eventOn": "2026-10-28",
+              "body": "南極地域観測統合推進本部は2026年10月28日、第68次南極地域観測隊（73人）の行動計画を確定した。計画では、観測船「しらせ」が2026年11月11日に横須賀を出港し、本隊はオーストラリアのフリーマントルで乗り込む。昭和基地への接岸は2026年12月25日の予定。",
+              "sources": [
+                {
+                  "title": "第68次南極地域観測行動計画、および第69次南極地域観測隊長・副隊長を決定しました",
+                  "publisher": "文部科学省",
+                  "url": "https://www.mext.go.jp/b_menu/houdou/2023/1418062_00009.htm",
+                  "publishedOn": "2026-10-28",
+                  "retrievedOn": "2026-10-29"
+                },
+                {
+                  "title": "第68次南極地域観測隊行動実施計画（別紙1）",
+                  "publisher": "文部科学省",
+                  "url": "https://www.mext.go.jp/content/20261028-mxt_kaiyou-000052704_14.pdf",
+                  "publishedOn": "2026-10-28",
+                  "retrievedOn": "2026-10-29"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "2026-10-30-kagaku-01-q1",
+                  "kind": "choice",
+                  "level": 1,
+                  "prompt": "2026年10月28日に行動計画が確定した第68次南極地域観測隊で、本隊が乗る観測船はどれか。",
+                  "choices": [
+                    "ちきゅう",
+                    "みらい",
+                    "しらせ",
+                    "かいめい"
+                  ],
+                  "answer": 2,
+                  "explanation": "文部科学省が公表した行動計画では、本隊は観測船「しらせ」に乗る。計画では、しらせは2026年11月11日に横須賀を出港し、本隊は2026年11月26日にオーストラリアのフリーマントルで乗り込む。",
+                  "sources": [
+                    {
+                      "title": "第68次南極地域観測隊行動実施計画（別紙1）",
+                      "publisher": "文部科学省",
+                      "url": "https://www.mext.go.jp/content/20261028-mxt_kaiyou-000052704_14.pdf",
+                      "publishedOn": "2026-10-28",
+                      "retrievedOn": "2026-10-29"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "section": "sports",
+          "stories": [
+            {
+              "id": "2026-10-30-sports-01",
+              "headline": "ソフトバンク連覇",
+              "eventOn": "2026-10-28",
+              "body": "プロ野球のSMBC日本シリーズ2026の第4戦が2026年10月28日、みずほPayPayドーム福岡で行われ、福岡ソフトバンクホークスが横浜DeNAベイスターズに4対2で勝った。ソフトバンクは4連勝で、2年連続13度目の日本一となった。最高｜殊勲《しゅくん》選手賞（MVP）には、ソフトバンクの正木智也選手が選ばれた。",
+              "sources": [
+                {
+                  "title": "SMBC日本シリーズ2026 デイリーリポート・第4戦",
+                  "publisher": "日本野球機構（NPB）",
+                  "url": "https://npb.jp/nippons/2026/dailyreport_1028.html",
+                  "publishedOn": "2026-10-28",
+                  "retrievedOn": "2026-10-29"
+                },
+                {
+                  "title": "SMBC日本シリーズ2026",
+                  "publisher": "日本野球機構（NPB）",
+                  "url": "https://npb.jp/nippons/2026/",
+                  "retrievedOn": "2026-10-29"
+                },
+                {
+                  "title": "SMBC日本シリーズ2026 表彰選手",
+                  "publisher": "日本野球機構（NPB）",
+                  "url": "https://npb.jp/nippons/2026/award.html",
+                  "retrievedOn": "2026-10-29"
+                },
+                {
+                  "title": "SMBC日本シリーズ2026 第4戦 試合結果",
+                  "publisher": "日本野球機構（NPB）",
+                  "url": "https://npb.jp/scores/2026/1028/h-db-04/",
+                  "publishedOn": "2026-10-28",
+                  "retrievedOn": "2026-10-29"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "2026-10-30-sports-01-q1",
+                  "kind": "choice",
+                  "level": 1,
+                  "prompt": "2026年10月28日の第4戦で、SMBC日本シリーズ2026の日本一が決まった。日本一になった球団はどこか。",
+                  "choices": [
+                    "横浜DeNAベイスターズ",
+                    "阪神タイガース",
+                    "福岡ソフトバンクホークス",
+                    "北海道日本ハムファイターズ"
+                  ],
+                  "answer": 2,
+                  "explanation": "第4戦は、みずほPayPayドーム福岡でソフトバンクがDeNAに4対2で勝ち、4勝0敗で日本一を決めた。",
+                  "sources": [
+                    {
+                      "title": "SMBC日本シリーズ2026 第4戦 試合結果",
+                      "publisher": "日本野球機構（NPB）",
+                      "url": "https://npb.jp/scores/2026/1028/h-db-04/",
+                      "publishedOn": "2026-10-28",
+                      "retrievedOn": "2026-10-29"
+                    },
+                    {
+                      "title": "SMBC日本シリーズ2026",
+                      "publisher": "日本野球機構（NPB）",
+                      "url": "https://npb.jp/nippons/2026/",
+                      "retrievedOn": "2026-10-29"
+                    }
+                  ]
+                },
+                {
+                  "id": "2026-10-30-sports-01-q2",
+                  "kind": "truefalse",
+                  "level": 1,
+                  "prompt": "SMBC日本シリーズ2026で、ソフトバンクは3年連続の日本一となった。",
+                  "choices": [
+                    "○",
+                    "×"
+                  ],
+                  "answer": 1,
+                  "explanation": "日本野球機構（NPB）によると、ソフトバンクの日本一は2年連続13度目。最高｜殊勲《しゅくん》選手賞（MVP）には、正木智也選手が選ばれた。",
+                  "sources": [
+                    {
+                      "title": "SMBC日本シリーズ2026 デイリーリポート・第4戦",
+                      "publisher": "日本野球機構（NPB）",
+                      "url": "https://npb.jp/nippons/2026/dailyreport_1028.html",
+                      "publishedOn": "2026-10-28",
+                      "retrievedOn": "2026-10-29"
+                    },
+                    {
+                      "title": "SMBC日本シリーズ2026 表彰選手",
+                      "publisher": "日本野球機構（NPB）",
+                      "url": "https://npb.jp/nippons/2026/award.html",
+                      "retrievedOn": "2026-10-29"
+                    }
+                  ],
+                  "terms": [
+                    "npb"
+                  ]
+                }
+              ],
+              "terms": [
+                "npb"
+              ]
+            }
+          ]
+        }
+      ],
+      "common": [
+        {
+          "number": 1,
+          "section": "joushiki",
+          "stories": [
+            {
+              "id": "2026-10-30-joushiki-01",
+              "headline": "短観",
+              "sources": [
+                {
+                  "title": "「短観（全国企業短期経済観測調査）」の解説（2026年4月版。2026年10月29日に確認）",
+                  "publisher": "日本銀行",
+                  "url": "https://www.boj.or.jp/statistics/outline/exp/tk/data/extk06a.pdf",
+                  "retrievedOn": "2026-10-29"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "common-tankan-001",
+                  "kind": "truefalse",
+                  "level": 2,
+                  "prompt": "2026年10月時点で、日本銀行の「短観」は、毎月行われる統計調査である。",
+                  "choices": [
+                    "○",
+                    "×"
+                  ],
+                  "answer": 1,
+                  "explanation": "短観（全国企業短期経済観測調査）は、統計法に基づいて日本銀行が行う統計調査で、毎年3月・6月・9月・12月の年4回行われる。全国の企業の動向をつかみ、金融政策の運営に役立てることを目的としている。"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-30-joushiki-02",
+              "headline": "国の人口",
+              "sources": [
+                {
+                  "title": "バングラデシュ基礎データ（2026年10月29日に確認）",
+                  "publisher": "外務省",
+                  "url": "https://www.mofa.go.jp/mofaj/area/bangladesh/data.html",
+                  "retrievedOn": "2026-10-29"
+                },
+                {
+                  "title": "ドイツ基礎データ（2026年10月29日に確認）",
+                  "publisher": "外務省",
+                  "url": "https://www.mofa.go.jp/mofaj/area/germany/data.html",
+                  "retrievedOn": "2026-10-29"
+                },
+                {
+                  "title": "人口推計 2026年（令和8年）10月報",
+                  "publisher": "総務省統計局",
+                  "url": "https://www.stat.go.jp/data/jinsui/pdf/202610.pdf",
+                  "publishedOn": "2026-10-20",
+                  "retrievedOn": "2026-10-29"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "common-jinkou-001",
+                  "kind": "order",
+                  "level": 2,
+                  "prompt": "外務省と総務省の資料（2026年10月に確認）で、次の3か国を人口の多い順に並べよ。",
+                  "choices": [
+                    "バングラデシュ",
+                    "日本",
+                    "ドイツ"
+                  ],
+                  "answer": 0,
+                  "explanation": "外務省の基礎データでは、バングラデシュの人口は約1億7,568万人（2025年、世界銀行）、ドイツは約8,482万人（2023年6月、ドイツ連邦統計庁）。総務省統計局の人口推計では、日本の総人口は1億2269万人（2026年10月1日、概算値）。"
+                }
+              ]
+            },
+            {
+              "id": "2026-10-30-joushiki-03",
+              "headline": "熱中症警戒アラート",
+              "sources": [
+                {
+                  "title": "熱中症警戒情報とは（2026年10月29日に確認）",
+                  "publisher": "環境省",
+                  "url": "https://www.wbgt.env.go.jp/about_alert.php",
+                  "retrievedOn": "2026-10-29"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "common-wbgt-001",
+                  "kind": "choice",
+                  "level": 2,
+                  "prompt": "2026年10月時点で、熱中症警戒アラートは、どの指数の予測値をもとに発表されるか。",
+                  "choices": [
+                    "不快指数",
+                    "紫外線（UV）インデックス",
+                    "暑さ指数（WBGT）",
+                    "熱指数（ヒートインデックス）"
+                  ],
+                  "answer": 2,
+                  "explanation": "環境省の熱中症予防情報サイトでは、熱中症警戒アラートは、府県予報区などの中のいずれかの地点で、翌日か当日の日最高暑さ指数（WBGT）が33（予測値）に達する場合に発表するとしている。",
+                  "terms": [
+                    "wbgt"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "2026-10-30-joushiki-04",
+              "headline": "南極条約",
+              "sources": [
+                {
+                  "title": "南極条約・環境保護に関する南極条約議定書",
+                  "publisher": "外務省",
+                  "url": "https://www.mofa.go.jp/mofaj/gaiko/kankyo/jyoyaku/s_pole.html",
+                  "publishedOn": "2026-04-28",
+                  "retrievedOn": "2026-10-29"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "common-nankyoku-001",
+                  "kind": "truefalse",
+                  "level": 2,
+                  "prompt": "日本は、1959年に南極条約を採択した12か国の一つである。",
+                  "choices": [
+                    "○",
+                    "×"
+                  ],
+                  "answer": 0,
+                  "explanation": "外務省によると、南極条約は1959年に日本、米国、英国、フランス、ソ連（当時）など12か国により採択され、1961年に発効した。南極地域の平和的利用や、領土権の主張の凍結などを定めている。日本は｜原署名国《げんしょめいこく》で、1960年8月4日に締結した。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "quiz": [
+        "2026-10-30-sougou-01-q1",
+        "2026-10-30-sougou-01-q2",
+        "2026-10-30-keizai-01-q1",
+        "2026-10-30-keizai-01-q2",
+        "common-tankan-001",
+        "2026-10-30-kokusai-01-q1",
+        "common-jinkou-001",
+        "2026-10-30-shakai-01-q1",
+        "common-wbgt-001",
+        "2026-10-30-kagaku-01-q1",
+        "common-nankyoku-001",
+        "2026-10-30-sports-01-q1",
+        "2026-10-30-sports-01-q2"
       ]
     }
   ],
@@ -2834,6 +3353,40 @@
           "url": "https://www.mext.go.jp/content/20261023-mxt_kankyou-000052548_01.pdf",
           "publishedOn": "2026-10-23",
           "retrievedOn": "2026-10-26"
+        }
+      ]
+    },
+    {
+      "id": "big-b",
+      "term": "BIG－B",
+      "definition": "「ベンガル湾産業成長地帯」のこと。英語では Bay of Bengal Industrial Growth Belt と書く。",
+      "sources": [
+        {
+          "title": "日・バングラデシュ首脳会談",
+          "publisher": "外務省",
+          "url": "https://www.mofa.go.jp/mofaj/s_sa/sw/bd/pageit_000001_00006.html",
+          "publishedOn": "2026-10-27",
+          "retrievedOn": "2026-10-29"
+        },
+        {
+          "title": "Japan-Bangladesh Summit Meeting",
+          "publisher": "外務省",
+          "url": "https://www.mofa.go.jp/s_sa/sw/bd/pageite_000001_00004.html",
+          "publishedOn": "2026-10-27",
+          "retrievedOn": "2026-10-29"
+        }
+      ]
+    },
+    {
+      "id": "wbgt",
+      "term": "暑さ指数（WBGT）",
+      "definition": "熱中症を防ぐための指数で、気温・湿度・日射量などをもとに出す。英語では Wet Bulb Globe Temperature と書く。",
+      "sources": [
+        {
+          "title": "熱中症警戒情報とは（2026年10月29日に確認）",
+          "publisher": "環境省",
+          "url": "https://www.wbgt.env.go.jp/about_alert.php",
+          "retrievedOn": "2026-10-29"
         }
       ]
     }
