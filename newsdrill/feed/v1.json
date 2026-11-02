@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "generatedAt": "2026-10-30T09:29:51+09:00",
+  "generatedAt": "2026-11-02T17:01:12+09:00",
   "issues": [
     {
       "id": "2026-10-23-fri",
@@ -1543,6 +1543,517 @@
         "common-nankyoku-001",
         "2026-10-30-sports-01-q1",
         "2026-10-30-sports-01-q2"
+      ]
+    },
+    {
+      "id": "2026-11-03-tue",
+      "number": 4,
+      "kind": "regular",
+      "publishAt": "2026-11-03T06:30:00+09:00",
+      "covers": {
+        "from": "2026-10-30",
+        "to": "2026-11-02"
+      },
+      "pages": [
+        {
+          "number": 1,
+          "section": "sougou",
+          "stories": [
+            {
+              "id": "2026-11-03-sougou-01",
+              "headline": "日銀が金利据え置き",
+              "eventOn": "2026-10-30",
+              "field": "keizai",
+              "body": "日本銀行は2026年10月30日の金融政策決定会合で、短期の政策金利である無担保コールレート（オーバーナイト物）を1.25%程度で推移するよう促すことを決め、9月に引き上げた水準を据え置いた。また、保有するETFの年間の売却ペースを、｜簿価《ぼか》で3,300億円程度から8,600億円程度に引き上げることを決めた。新しい売却ペースは2027年1月から実施する。",
+              "sources": [
+                {
+                  "title": "当面の金融政策運営について",
+                  "publisher": "日本銀行",
+                  "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k261030a.pdf",
+                  "publishedOn": "2026-10-30",
+                  "retrievedOn": "2026-11-02"
+                },
+                {
+                  "title": "（参考）ETFの売却ペースの見直しに関する決定（2026年10月）",
+                  "publisher": "日本銀行",
+                  "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k261030c.pdf",
+                  "publishedOn": "2026-10-30",
+                  "retrievedOn": "2026-11-02"
+                },
+                {
+                  "title": "（参考）金融市場調節方針の変更（2026年9月金融政策決定会合）",
+                  "publisher": "日本銀行",
+                  "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k260918b.pdf",
+                  "publishedOn": "2026-09-18",
+                  "retrievedOn": "2026-11-02"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "2026-11-03-sougou-01-q1",
+                  "kind": "choice",
+                  "level": 1,
+                  "prompt": "日本銀行は、2026年10月30日の金融政策決定会合で、短期の政策金利（無担保コールレート・オーバーナイト物）を、どの水準で推移するよう促すことを決めたか。",
+                  "choices": [
+                    "1.0%程度",
+                    "1.25%程度",
+                    "1.5%程度",
+                    "1.75%程度"
+                  ],
+                  "answer": 1,
+                  "explanation": "日本銀行は、次の会合までの金融市場調節方針として、無担保コールレート（オーバーナイト物）を1.25%程度で推移するよう促すことを決めた。2026年9月の会合で1.0%程度から1.25%程度に引き上げており、10月はその水準を据え置いた。",
+                  "sources": [
+                    {
+                      "title": "当面の金融政策運営について",
+                      "publisher": "日本銀行",
+                      "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k261030a.pdf",
+                      "publishedOn": "2026-10-30",
+                      "retrievedOn": "2026-11-02"
+                    },
+                    {
+                      "title": "（参考）金融市場調節方針の変更（2026年9月金融政策決定会合）",
+                      "publisher": "日本銀行",
+                      "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k260918b.pdf",
+                      "publishedOn": "2026-09-18",
+                      "retrievedOn": "2026-11-02"
+                    }
+                  ]
+                },
+                {
+                  "id": "2026-11-03-sougou-01-q2",
+                  "kind": "truefalse",
+                  "level": 2,
+                  "prompt": "2026年10月時点で、日本銀行の政策委員会は、総裁・副総裁・審議委員の合わせて9人で構成されている。",
+                  "choices": [
+                    "○",
+                    "×"
+                  ],
+                  "answer": 0,
+                  "explanation": "日本銀行によると、政策委員会は、総裁と副総裁（2人）、審議委員（6人）で構成される。合わせて9人。金融政策は、政策委員会の金融政策決定会合で決める。",
+                  "sources": [
+                    {
+                      "title": "政策委員会（2026年11月2日に確認）",
+                      "publisher": "日本銀行",
+                      "url": "https://www.boj.or.jp/about/organization/policyboard/index.htm",
+                      "retrievedOn": "2026-11-02"
+                    },
+                    {
+                      "title": "当面の金融政策運営について",
+                      "publisher": "日本銀行",
+                      "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k261030a.pdf",
+                      "publishedOn": "2026-10-30",
+                      "retrievedOn": "2026-11-02"
+                    }
+                  ]
+                },
+                {
+                  "id": "2026-11-03-sougou-01-q3",
+                  "kind": "choice",
+                  "level": 3,
+                  "prompt": "2026年10月30日の日本銀行の金融政策決定会合に関する記述として、最も妥当なのはどれか。",
+                  "choices": [
+                    "保有するETFの年間の売却ペースを、｜簿価《ぼか》で8,600億円程度に引き上げることを決めた。",
+                    "保有するETFの年間の売却ペースを、｜簿価《ぼか》で3,300億円程度に引き下げることを決めた。",
+                    "保有するETFの売却を、2027年1月から新たに始めることを決めた。",
+                    "金融市場調節方針を、9人の政策委員の全員一致で決めた。"
+                  ],
+                  "answer": 0,
+                  "explanation": "日本銀行は、ETFの売却について、市場全体の売買代金に占める売却割合が0.1%程度となる規模とし、年間の売却ペースを簿価で3,300億円程度から8,600億円程度に引き上げることを全員一致で決めた。新しいペースは2027年1月から実施する。ETFの売却そのものは2026年1月に始めている。金融市場調節方針は賛成8・反対1で決まった（1人の委員が1.5%程度への引き上げを提案し、反対多数で否決された）。",
+                  "terms": [
+                    "etf"
+                  ],
+                  "sources": [
+                    {
+                      "title": "当面の金融政策運営について",
+                      "publisher": "日本銀行",
+                      "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k261030a.pdf",
+                      "publishedOn": "2026-10-30",
+                      "retrievedOn": "2026-11-02"
+                    },
+                    {
+                      "title": "（参考）ETFの売却ペースの見直しに関する決定（2026年10月）",
+                      "publisher": "日本銀行",
+                      "url": "https://www.boj.or.jp/mopo/mpmdeci/mpr_2026/k261030c.pdf",
+                      "publishedOn": "2026-10-30",
+                      "retrievedOn": "2026-11-02"
+                    }
+                  ]
+                }
+              ],
+              "terms": [
+                "etf"
+              ]
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "section": "keizai",
+          "stories": [
+            {
+              "id": "2026-11-03-keizai-01",
+              "headline": "失業率2.4%に低下",
+              "eventOn": "2026-10-30",
+              "body": "総務省が2026年10月30日に公表した労働力調査によると、2026年9月の完全失業率（季節調整値）は2.4%で、8月より0.1ポイント下がった。就業者数は6896万人で、前の年の同じ月より33万人増えた。厚生労働省が同じ日に公表した9月の有効求人倍率（季節調整値）は1.19倍で、8月より0.01ポイント上がった。",
+              "sources": [
+                {
+                  "title": "労働力調査（基本集計）2026年（令和8年）9月分結果（2026年11月2日に確認）",
+                  "publisher": "総務省統計局",
+                  "url": "https://www.stat.go.jp/data/roudou/sokuhou/tsuki/index.html",
+                  "publishedOn": "2026-10-30",
+                  "retrievedOn": "2026-11-02"
+                },
+                {
+                  "title": "一般職業紹介状況（令和8年9月分）について",
+                  "publisher": "厚生労働省",
+                  "url": "https://www.mhlw.go.jp/stf/newpage_76960.html",
+                  "publishedOn": "2026-10-30",
+                  "retrievedOn": "2026-11-02"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "2026-11-03-keizai-01-q1",
+                  "kind": "truefalse",
+                  "level": 1,
+                  "prompt": "総務省の労働力調査によると、2026年9月の完全失業率（季節調整値）は、8月より上がった。",
+                  "choices": [
+                    "○",
+                    "×"
+                  ],
+                  "answer": 1,
+                  "explanation": "2026年9月の完全失業率（季節調整値）は2.4%で、8月より0.1ポイント下がった。完全失業者数は169万人で、前の年の同じ月より15万人減った。",
+                  "sources": [
+                    {
+                      "title": "労働力調査（基本集計）2026年（令和8年）9月分結果（2026年11月2日に確認）",
+                      "publisher": "総務省統計局",
+                      "url": "https://www.stat.go.jp/data/roudou/sokuhou/tsuki/index.html",
+                      "publishedOn": "2026-10-30",
+                      "retrievedOn": "2026-11-02"
+                    }
+                  ]
+                },
+                {
+                  "id": "2026-11-03-keizai-01-q2",
+                  "kind": "choice",
+                  "level": 2,
+                  "prompt": "2026年11月時点で、厚生労働省が毎月公表している有効求人倍率は、何を何で割った数か。",
+                  "choices": [
+                    "月間有効求人数を、月間有効求職者数で割った数",
+                    "月間有効求職者数を、月間有効求人数で割った数",
+                    "就職件数を、月間有効求職者数で割った数",
+                    "月間有効求人数を、就業者数で割った数"
+                  ],
+                  "answer": 0,
+                  "explanation": "厚生労働省の一般職業紹介状況では、有効求人倍率は、ハローワークでの月間有効求人数を、月間有効求職者数で割って出している。1倍を上回るのは、月間有効求人数が月間有効求職者数より多いとき。2026年9月は1.19倍（季節調整値）だった。",
+                  "sources": [
+                    {
+                      "title": "一般職業紹介状況（令和8年9月分）について",
+                      "publisher": "厚生労働省",
+                      "url": "https://www.mhlw.go.jp/stf/newpage_76960.html",
+                      "publishedOn": "2026-10-30",
+                      "retrievedOn": "2026-11-02"
+                    },
+                    {
+                      "title": "一般職業紹介状況（令和8年9月分）について（報道発表資料）",
+                      "publisher": "厚生労働省",
+                      "url": "https://www.mhlw.go.jp/content/11602000/001763943.pdf",
+                      "publishedOn": "2026-10-30",
+                      "retrievedOn": "2026-11-02"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "section": "kokusai",
+          "stories": [
+            {
+              "id": "2026-11-03-kokusai-01",
+              "headline": "日米豪印が外相会合",
+              "eventOn": "2026-10-31",
+              "body": "茂木敏充外務大臣は、G20外相会合に出席するため訪れた米国のアトランタで、2026年10月31日（現地時間）、オーストラリアとインドの外務大臣、米国の国務長官と日米豪印外相会合を行った。外相会合は5月・7月に続いて1年で3回目。4大臣は「自由で開かれたインド太平洋」の実現に向けて具体的な協力を進めることを確認し、経済的繁栄と経済安全保障に関する共同プレスリリースを出した。",
+              "sources": [
+                {
+                  "title": "日米豪印外相会合",
+                  "publisher": "外務省",
+                  "url": "https://www.mofa.go.jp/mofaj/fp/nsp/pageit_000001_00005.html",
+                  "publishedOn": "2026-10-31",
+                  "retrievedOn": "2026-11-02"
+                },
+                {
+                  "title": "茂木外務大臣のG20外相会合（米国）出席",
+                  "publisher": "外務省",
+                  "url": "https://www.mofa.go.jp/mofaj/press/release/pressit_000001_04370.html",
+                  "publishedOn": "2026-10-27",
+                  "retrievedOn": "2026-11-02"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "2026-11-03-kokusai-01-q1",
+                  "kind": "choice",
+                  "level": 1,
+                  "prompt": "2026年10月31日（現地時間）に日米豪印外相会合が開かれた都市はどこか。",
+                  "choices": [
+                    "ニューヨーク",
+                    "アトランタ",
+                    "ワシントンD.C.",
+                    "シカゴ"
+                  ],
+                  "answer": 1,
+                  "explanation": "外務省によると、茂木外務大臣は、G20外相会合に出席するため米国のアトランタを訪れていて、その機会に、オーストラリアとインドの外務大臣、米国の国務長官と日米豪印外相会合を行った。会合は約40分間だった。",
+                  "terms": [
+                    "g20"
+                  ]
+                },
+                {
+                  "id": "2026-11-03-kokusai-01-q2",
+                  "kind": "truefalse",
+                  "level": 2,
+                  "prompt": "2026年10月31日（現地時間）の日米豪印外相会合は、1年で3回目の外相会合だった。",
+                  "choices": [
+                    "○",
+                    "×"
+                  ],
+                  "answer": 0,
+                  "explanation": "外務省によると、茂木外務大臣は、5月と7月に続いて、1年で3回目の外相会合が開かれたことを歓迎した。"
+                }
+              ],
+              "terms": [
+                "quad",
+                "g20"
+              ]
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "section": "shakai",
+          "stories": [
+            {
+              "id": "2026-11-03-shakai-01",
+              "headline": "国民医療費が増加",
+              "eventOn": "2026-10-30",
+              "body": "厚生労働省は2026年10月30日、2024年度の国民医療費が48兆8,100億円だったと公表した。前の年度より7,185億円（1.5%）増えた。人口一人当たりでは39万4,300円で、年齢でみると、65歳以上が80万9,800円、65歳未満が22万2,300円だった。",
+              "sources": [
+                {
+                  "title": "「令和6(2024)年度 国民医療費」を公表します",
+                  "publisher": "厚生労働省",
+                  "url": "https://www.mhlw.go.jp/toukei/saikin/hw/k-iryohi/24/dl/R06houdou.pdf",
+                  "publishedOn": "2026-10-30",
+                  "retrievedOn": "2026-11-02"
+                },
+                {
+                  "title": "令和6(2024)年度 国民医療費の概況 結果の概要",
+                  "publisher": "厚生労働省",
+                  "url": "https://www.mhlw.go.jp/toukei/saikin/hw/k-iryohi/24/dl/R06kekka.pdf",
+                  "publishedOn": "2026-10-30",
+                  "retrievedOn": "2026-11-02"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "2026-11-03-shakai-01-q1",
+                  "kind": "choice",
+                  "level": 1,
+                  "prompt": "厚生労働省が2026年10月30日に公表した、2024年度の国民医療費はおよそいくらか。",
+                  "choices": [
+                    "約29兆円",
+                    "約39兆円",
+                    "約49兆円",
+                    "約59兆円"
+                  ],
+                  "answer": 2,
+                  "explanation": "2024年度の国民医療費は48兆8,100億円で、前の年度より7,185億円（1.5%）増えた。人口一人当たりでは39万4,300円だった。",
+                  "sources": [
+                    {
+                      "title": "「令和6(2024)年度 国民医療費」を公表します",
+                      "publisher": "厚生労働省",
+                      "url": "https://www.mhlw.go.jp/toukei/saikin/hw/k-iryohi/24/dl/R06houdou.pdf",
+                      "publishedOn": "2026-10-30",
+                      "retrievedOn": "2026-11-02"
+                    }
+                  ]
+                },
+                {
+                  "id": "2026-11-03-shakai-01-q2",
+                  "kind": "truefalse",
+                  "level": 2,
+                  "prompt": "厚生労働省が2026年10月に公表した2024年度の国民医療費には、健康診断や予防接種の費用も含まれる。",
+                  "choices": [
+                    "○",
+                    "×"
+                  ],
+                  "answer": 1,
+                  "explanation": "国民医療費は、その年度に医療機関などで、保険診療の対象になりうる病気やけがの治療にかかった費用の推計。保険診療の対象にならない費用や、正常な妊娠・出産、健康診断、予防接種など、病気やけがの治療以外の費用は含まない。",
+                  "sources": [
+                    {
+                      "title": "「令和6(2024)年度 国民医療費」を公表します",
+                      "publisher": "厚生労働省",
+                      "url": "https://www.mhlw.go.jp/toukei/saikin/hw/k-iryohi/24/dl/R06houdou.pdf",
+                      "publishedOn": "2026-10-30",
+                      "retrievedOn": "2026-11-02"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "common": [
+        {
+          "number": 1,
+          "section": "joushiki",
+          "stories": [
+            {
+              "id": "2026-11-03-joushiki-01",
+              "headline": "日本銀行の総裁",
+              "sources": [
+                {
+                  "title": "日本銀行法（平成9年法律第89号。2026年11月2日に確認）",
+                  "publisher": "e-Gov 法令検索（デジタル庁）",
+                  "url": "https://laws.e-gov.go.jp/law/409AC0000000089",
+                  "retrievedOn": "2026-11-02"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "common-nichigin-001",
+                  "kind": "choice",
+                  "level": 2,
+                  "prompt": "2026年11月時点の日本銀行法で、日本銀行の総裁を任命すると定められているのはどれか。",
+                  "choices": [
+                    "内閣総理大臣",
+                    "内閣",
+                    "国会",
+                    "財務大臣"
+                  ],
+                  "answer": 1,
+                  "explanation": "日本銀行法第23条で、総裁と副総裁は、両議院の同意を得て、内閣が任命すると定めている。任命するのは、内閣総理大臣ではなく内閣。"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-03-joushiki-02",
+              "headline": "ハローワーク",
+              "sources": [
+                {
+                  "title": "一般職業紹介状況（令和8年9月分）について",
+                  "publisher": "厚生労働省",
+                  "url": "https://www.mhlw.go.jp/stf/newpage_76960.html",
+                  "publishedOn": "2026-10-30",
+                  "retrievedOn": "2026-11-02"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "common-hellowork-001",
+                  "kind": "choice",
+                  "level": 2,
+                  "prompt": "2026年11月時点で、「ハローワーク」は、どの機関の呼び名か。",
+                  "choices": [
+                    "労働基準監督署",
+                    "年金事務所",
+                    "公共職業安定所",
+                    "職業能力開発促進センター"
+                  ],
+                  "answer": 2,
+                  "explanation": "厚生労働省は、公共職業安定所（ハローワーク）での求人・求職・就職の状況をまとめ、有効求人倍率などを毎月公表している。"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-03-joushiki-03",
+              "headline": "G20",
+              "sources": [
+                {
+                  "title": "茂木外務大臣のG20外相会合（米国）出席",
+                  "publisher": "外務省",
+                  "url": "https://www.mofa.go.jp/mofaj/press/release/pressit_000001_04370.html",
+                  "publishedOn": "2026-10-27",
+                  "retrievedOn": "2026-11-02"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "common-g20-001",
+                  "kind": "choice",
+                  "level": 2,
+                  "prompt": "2026年10月時点で、G20のメンバーに入っていない国はどれか。",
+                  "choices": [
+                    "インドネシア",
+                    "韓国",
+                    "トルコ",
+                    "タイ"
+                  ],
+                  "answer": 3,
+                  "terms": [
+                    "g20"
+                  ],
+                  "explanation": "外務省の資料（2026年10月27日）では、G20のメンバーは、日本、米国、アルゼンチン、豪州、ブラジル、カナダ、中国、フランス、ドイツ、インド、インドネシア、イタリア、韓国、メキシコ、ロシア、サウジアラビア、南アフリカ、トルコ、英国、アフリカ連合（AU）、欧州連合（EU）。タイは入っていない。"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-03-joushiki-04",
+              "headline": "G7とG20",
+              "sources": [
+                {
+                  "title": "G7に関する基礎的なQ&A",
+                  "publisher": "外務省",
+                  "url": "https://www.mofa.go.jp/mofaj/gaiko/summit/ko_2000/faq/index.html",
+                  "publishedOn": "2024-04-25",
+                  "retrievedOn": "2026-11-02"
+                },
+                {
+                  "title": "G20（金融世界経済に関する首脳会合）",
+                  "publisher": "外務省",
+                  "url": "https://www.mofa.go.jp/mofaj/gaiko/g20/index.html",
+                  "publishedOn": "2026-04-10",
+                  "retrievedOn": "2026-11-02"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "common-g7g20-001",
+                  "kind": "compare",
+                  "level": 2,
+                  "prompt": "外務省の資料で、首脳会合が先に始まったのはどちらか。",
+                  "choices": [
+                    "G7（サミット）",
+                    "G20（金融世界経済に関する首脳会合）"
+                  ],
+                  "answer": 0,
+                  "terms": [
+                    "g7",
+                    "g20"
+                  ],
+                  "explanation": "外務省によると、G7の第1回サミットは、1975年11月にフランスのパリ郊外にあるランブイエ城で、フランス・米国・英国・ドイツ・日本・イタリアの6か国によって開かれた（カナダは1976年から参加）。外務省のG20のページでは、首脳会合の一覧は2008年から始まっている。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "quiz": [
+        "2026-11-03-sougou-01-q1",
+        "2026-11-03-sougou-01-q2",
+        "2026-11-03-sougou-01-q3",
+        "common-nichigin-001",
+        "2026-11-03-keizai-01-q1",
+        "2026-11-03-keizai-01-q2",
+        "common-hellowork-001",
+        "common-g7g20-001",
+        "common-g20-001",
+        "2026-11-03-kokusai-01-q1",
+        "2026-11-03-kokusai-01-q2",
+        "2026-11-03-shakai-01-q1",
+        "2026-11-03-shakai-01-q2"
       ]
     }
   ],
@@ -3387,6 +3898,47 @@
           "publisher": "環境省",
           "url": "https://www.wbgt.env.go.jp/about_alert.php",
           "retrievedOn": "2026-10-29"
+        }
+      ]
+    },
+    {
+      "id": "etf",
+      "term": "ETF",
+      "definition": "投資信託の一つ。TOPIX（東証株価指数）などの株価指数や金価格などの指標に連動するもの（インデックス連動型）と、連動する指標がないもの（アクティブ運用型）がある。",
+      "sources": [
+        {
+          "title": "ETFの概要 特徴（2026年11月2日に確認）",
+          "publisher": "日本取引所グループ",
+          "url": "https://www.jpx.co.jp/equities/products/etfs/etf-outline/index.html",
+          "retrievedOn": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "g20",
+      "term": "G20",
+      "definition": "日本・中国・インド・ブラジルなど19か国と、EU（欧州連合）・AU（アフリカ連合）が参加する枠組み。首脳会合のほか、外相会合などの閣僚会合も開かれる。",
+      "sources": [
+        {
+          "title": "茂木外務大臣のG20外相会合（米国）出席",
+          "publisher": "外務省",
+          "url": "https://www.mofa.go.jp/mofaj/press/release/pressit_000001_04370.html",
+          "publishedOn": "2026-10-27",
+          "retrievedOn": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "quad",
+      "term": "日米豪印（Quad）",
+      "definition": "日本・米国・オーストラリア・インドの4か国の枠組み。英語では Quad と書く。",
+      "sources": [
+        {
+          "title": "日米豪印外相会合",
+          "publisher": "外務省",
+          "url": "https://www.mofa.go.jp/mofaj/fp/nsp/pageit_000001_00005.html",
+          "publishedOn": "2026-10-31",
+          "retrievedOn": "2026-11-02"
         }
       ]
     }
