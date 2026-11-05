@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "generatedAt": "2026-11-02T17:01:12+09:00",
+  "generatedAt": "2026-11-06T00:49:09+09:00",
   "issues": [
     {
       "id": "2026-10-23-fri",
@@ -2055,6 +2055,522 @@
         "2026-11-03-shakai-01-q1",
         "2026-11-03-shakai-01-q2"
       ]
+    },
+    {
+      "id": "2026-11-06-fri",
+      "number": 5,
+      "kind": "regular",
+      "publishAt": "2026-11-06T06:30:00+09:00",
+      "covers": {
+        "from": "2026-11-03",
+        "to": "2026-11-05"
+      },
+      "pages": [
+        {
+          "number": 1,
+          "section": "sougou",
+          "stories": [
+            {
+              "id": "2026-11-06-sougou-01",
+              "headline": "APEC閣僚会議に外相",
+              "eventOn": "2026-11-03",
+              "field": "kokusai",
+              "body": "2026年11月3日、中国の主催でAPEC閣僚会議がオンライン形式で開かれ、｜茂木《もてぎ》敏充外務大臣が出席した。茂木大臣は、世界経済の先行きが不確かな中で、ルールに基づく自由で公正な国際経済秩序を強めることが大切だと述べた。参加した閣僚の多くからは、AIやデジタルを成長の原動力として生かし、経済の発展を目指すべきだとの発言があった。",
+              "sources": [
+                {
+                  "title": "茂木外務大臣のAPEC閣僚会議への出席（概要）",
+                  "publisher": "外務省",
+                  "url": "https://www.mofa.go.jp/mofaj/press/release/pressit_000001_04410.html",
+                  "publishedOn": "2026-11-04",
+                  "retrievedOn": "2026-11-05"
+                },
+                {
+                  "title": "Foreign Minister MOTEGI’s Attendance at the APEC Ministerial Meeting 2026（茂木外務大臣の読みの確認）",
+                  "publisher": "外務省",
+                  "url": "https://www.mofa.go.jp/press/release/pressite_000001_02811.html",
+                  "retrievedOn": "2026-11-05"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "2026-11-06-sougou-01-q1",
+                  "kind": "choice",
+                  "level": 1,
+                  "prompt": "2026年11月3日に開かれたAPEC閣僚会議を主催した国はどれか。",
+                  "choices": [
+                    "韓国",
+                    "中国",
+                    "米国",
+                    "ペルー"
+                  ],
+                  "answer": 1,
+                  "explanation": "外務省によると、2026年11月3日のAPEC閣僚会議は中国の主催で開かれ、日本からは｜茂木《もてぎ》敏充外務大臣が出席した。",
+                  "sources": [
+                    {
+                      "title": "茂木外務大臣のAPEC閣僚会議への出席（概要）",
+                      "publisher": "外務省",
+                      "url": "https://www.mofa.go.jp/mofaj/press/release/pressit_000001_04410.html",
+                      "publishedOn": "2026-11-04",
+                      "retrievedOn": "2026-11-05"
+                    },
+                    {
+                      "title": "Foreign Minister MOTEGI’s Attendance at the APEC Ministerial Meeting 2026（茂木外務大臣の読みの確認）",
+                      "publisher": "外務省",
+                      "url": "https://www.mofa.go.jp/press/release/pressite_000001_02811.html",
+                      "retrievedOn": "2026-11-05"
+                    }
+                  ],
+                  "terms": [
+                    "apec"
+                  ]
+                },
+                {
+                  "id": "2026-11-06-sougou-01-q2",
+                  "kind": "truefalse",
+                  "level": 1,
+                  "prompt": "2026年11月3日のAPEC閣僚会議は、参加した国・地域の閣僚が中国に集まり、対面で開かれた。",
+                  "choices": [
+                    "○",
+                    "×"
+                  ],
+                  "answer": 1,
+                  "explanation": "会議はオンライン形式で開かれた。外務省の発表では、午後9時（現地時間午後8時）から約4時間行われた。",
+                  "sources": [
+                    {
+                      "title": "茂木外務大臣のAPEC閣僚会議への出席（概要）",
+                      "publisher": "外務省",
+                      "url": "https://www.mofa.go.jp/mofaj/press/release/pressit_000001_04410.html",
+                      "publishedOn": "2026-11-04",
+                      "retrievedOn": "2026-11-05"
+                    }
+                  ],
+                  "terms": [
+                    "apec"
+                  ]
+                },
+                {
+                  "id": "2026-11-06-sougou-01-q3",
+                  "kind": "choice",
+                  "level": 3,
+                  "prompt": "APEC（アジア太平洋経済協力）に関する2026年11月時点の記述として、最も妥当なのはどれか。",
+                  "choices": [
+                    "APECに参加している国・地域（エコノミー）の数は、27である。",
+                    "APECには、ロシアは参加しておらず、アジアの国・地域だけが参加している。",
+                    "2025年のAPECの議長は、日本だった。",
+                    "香港は「ホンコン・チャイナ」、台湾は「チャイニーズ・タイペイ」の名称で参加している。"
+                  ],
+                  "answer": 3,
+                  "explanation": "外務省によると、APECの参加国・地域は21のエコノミーで、ロシアのほか、米国・カナダ・メキシコ・チリ・ペルーなども参加している。香港は「ホンコン・チャイナ」、台湾は「チャイニーズ・タイペイ」の名称で参加している。2025年の議長は韓国だった。",
+                  "sources": [
+                    {
+                      "title": "茂木外務大臣のAPEC閣僚会議への出席（概要）",
+                      "publisher": "外務省",
+                      "url": "https://www.mofa.go.jp/mofaj/press/release/pressit_000001_04410.html",
+                      "publishedOn": "2026-11-04",
+                      "retrievedOn": "2026-11-05"
+                    }
+                  ],
+                  "terms": [
+                    "apec"
+                  ]
+                }
+              ],
+              "terms": [
+                "apec",
+                "ai"
+              ]
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "section": "shakai",
+          "stories": [
+            {
+              "id": "2026-11-06-shakai-01",
+              "headline": "秋の叙勲3,861人",
+              "eventOn": "2026-11-03",
+              "body": "2026年11月3日付で、秋の叙勲が発令された。｜旭日章《きょくじつしょう》と｜瑞宝章《ずいほうしょう》を合わせた受章者は3,861人（旭日章895人、瑞宝章2,966人）で、このうち女性は400人だった。このほか、秋の外国人叙勲の受章者は99人だった。",
+              "sources": [
+                {
+                  "title": "令和8年秋の叙勲等の受章者数及び受章者名簿（令和8年11月3日付け発令）",
+                  "publisher": "内閣府",
+                  "url": "https://www8.cao.go.jp/shokun/hatsurei/r08aki.html",
+                  "retrievedOn": "2026-11-05"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "2026-11-06-shakai-01-q1",
+                  "kind": "truefalse",
+                  "level": 2,
+                  "prompt": "2026年11月時点で、春秋の叙勲は毎年2回行われ、春の叙勲は5月3日付けで授与される。",
+                  "choices": [
+                    "○",
+                    "×"
+                  ],
+                  "answer": 1,
+                  "explanation": "内閣府によると、春秋叙勲は毎年2回で、春は4月29日付け、秋は11月3日付けで授与される。2026年の秋の叙勲も、11月3日付けで発令された。",
+                  "sources": [
+                    {
+                      "title": "勲章・褒章制度の概要（2026年11月5日に確認）",
+                      "publisher": "内閣府",
+                      "url": "https://www8.cao.go.jp/shokun/seidogaiyo.html",
+                      "retrievedOn": "2026-11-05"
+                    },
+                    {
+                      "title": "令和8年秋の叙勲等の受章者数及び受章者名簿（令和8年11月3日付け発令）",
+                      "publisher": "内閣府",
+                      "url": "https://www8.cao.go.jp/shokun/hatsurei/r08aki.html",
+                      "retrievedOn": "2026-11-05"
+                    }
+                  ]
+                },
+                {
+                  "id": "2026-11-06-shakai-01-q2",
+                  "kind": "choice",
+                  "level": 1,
+                  "prompt": "2026年11月3日付で発令された秋の叙勲で、｜旭日章《きょくじつしょう》と｜瑞宝章《ずいほうしょう》を合わせた受章者の数に最も近いのはどれか。",
+                  "choices": [
+                    "約1,500人",
+                    "約4,000人",
+                    "約1万人",
+                    "約3万人"
+                  ],
+                  "answer": 1,
+                  "explanation": "内閣府によると、旭日章と瑞宝章を合わせた受章者は3,861人（約4,000人）だった。",
+                  "sources": [
+                    {
+                      "title": "令和8年秋の叙勲等の受章者数及び受章者名簿（令和8年11月3日付け発令）",
+                      "publisher": "内閣府",
+                      "url": "https://www8.cao.go.jp/shokun/hatsurei/r08aki.html",
+                      "retrievedOn": "2026-11-05"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "section": "kagaku",
+          "stories": [
+            {
+              "id": "2026-11-06-kagaku-01",
+              "headline": "処理水の分析結果を公表",
+              "eventOn": "2026-11-04",
+              "body": "国際原子力機関（IAEA）は2026年11月4日、東京電力福島第一原子力発電所のALPS処理水について、2025年12月の追加的モニタリングの分析結果の報告書を公表した。試料は、海水で薄めたあと、海に放出する前の処理水だった。報告書は、各参加分析機関の結果が、計画どおり放出された場合の人と環境への放射線の影響は無視できるほどだとした2023年7月のIAEA包括報告書の結論と合っていると記した。",
+              "sources": [
+                {
+                  "title": "ALPS処理水の海洋放出に関する国際原子力機関の枠組みの下での追加的モニタリングの分析結果に関する報告書の公表",
+                  "publisher": "外務省",
+                  "url": "https://www.mofa.go.jp/mofaj/press/release/pressit_000001_04422.html",
+                  "publishedOn": "2026-11-05",
+                  "retrievedOn": "2026-11-05"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "2026-11-06-kagaku-01-q1",
+                  "kind": "truefalse",
+                  "level": 1,
+                  "prompt": "2026年11月4日に国際原子力機関（IAEA）が公表した、ALPS処理水の追加的モニタリングの分析結果の報告書は、各分析機関の結果が、2023年7月のIAEA包括報告書の結論と整合していると記した。",
+                  "choices": [
+                    "○",
+                    "×"
+                  ],
+                  "answer": 0,
+                  "explanation": "外務省によると、報告書は、各参加分析機関の結果が、計画どおり海に放出された場合の人と環境への放射線の影響は無視できるほどだとした、2023年7月のIAEA包括報告書の結論と整合していると記している。",
+                  "sources": [
+                    {
+                      "title": "ALPS処理水の海洋放出に関する国際原子力機関の枠組みの下での追加的モニタリングの分析結果に関する報告書の公表",
+                      "publisher": "外務省",
+                      "url": "https://www.mofa.go.jp/mofaj/press/release/pressit_000001_04422.html",
+                      "publishedOn": "2026-11-05",
+                      "retrievedOn": "2026-11-05"
+                    }
+                  ],
+                  "terms": [
+                    "iaea"
+                  ]
+                },
+                {
+                  "id": "2026-11-06-kagaku-01-q2",
+                  "kind": "choice",
+                  "level": 2,
+                  "prompt": "外務省は、ALPS処理水を「○○以外の放射性物質の濃度が安全に関する規制基準値を確実に満たすように浄化した水」と説明している。○○に入るのはどれか。",
+                  "choices": [
+                    "セシウム",
+                    "ストロンチウム",
+                    "トリチウム",
+                    "ヨウ素"
+                  ],
+                  "answer": 2,
+                  "explanation": "ALPS処理水は、多核種除去設備（ALPS）などで、トリチウム以外の放射性物質の濃度が規制基準値を確実に満たすように浄化した水。海に放出するときは、トリチウムも規制基準値を十分に満たすよう、海水で大幅に薄める（外務省）。",
+                  "sources": [
+                    {
+                      "title": "ALPS処理水の海洋放出に関する国際原子力機関の枠組みの下での追加的モニタリングの分析結果に関する報告書の公表",
+                      "publisher": "外務省",
+                      "url": "https://www.mofa.go.jp/mofaj/press/release/pressit_000001_04422.html",
+                      "publishedOn": "2026-11-05",
+                      "retrievedOn": "2026-11-05"
+                    }
+                  ],
+                  "terms": [
+                    "alps-shorisui"
+                  ]
+                }
+              ],
+              "terms": [
+                "iaea",
+                "alps-shorisui"
+              ]
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "section": "sports",
+          "stories": [
+            {
+              "id": "2026-11-06-sports-01",
+              "headline": "早大が大会新で優勝",
+              "eventOn": "2026-11-01",
+              "body": "第58回全日本大学駅伝対校選手権大会が2026年11月1日に行われ、早稲田大学が5時間3分31秒の大会新記録で、16年ぶり6回目の優勝を果たした。2位は｜國學院《こくがくいん》大學で5時間7分5秒、3位は創価大学だった。早稲田大学は、2026年10月12日の出雲全日本大学選抜駅伝競走でも優勝している。",
+              "sources": [
+                {
+                  "title": "第58回全日本大学駅伝対校選手権大会 成績",
+                  "publisher": "日本学生陸上競技連合",
+                  "url": "https://www.iuau.jp/ev2026/58meki/58meki_result.pdf",
+                  "publishedOn": "2026-11-01",
+                  "retrievedOn": "2026-11-05"
+                },
+                {
+                  "title": "第38回出雲全日本大学選抜駅伝競走 成績",
+                  "publisher": "日本学生陸上競技連合",
+                  "url": "https://www.iuau.jp/ev2026/msenbatu/38izumo_result.pdf",
+                  "retrievedOn": "2026-11-05"
+                },
+                {
+                  "title": "About Kokugakuin University（國學院大學の読みの確認。2026年11月5日に確認）",
+                  "publisher": "國學院大學",
+                  "url": "https://www.kokugakuin.ac.jp/en/about",
+                  "retrievedOn": "2026-11-05"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "2026-11-06-sports-01-q1",
+                  "kind": "choice",
+                  "level": 1,
+                  "prompt": "2026年11月1日の第58回全日本大学駅伝対校選手権大会で、大会新記録で優勝した大学はどれか。",
+                  "choices": [
+                    "早稲田大学",
+                    "駒澤大学",
+                    "青山学院大学",
+                    "國學院大學"
+                  ],
+                  "answer": 0,
+                  "explanation": "日本学生陸上競技連合の成績によると、早稲田大学が5時間3分31秒の大会新記録で、16年ぶり6回目の優勝を果たした。2位は｜國學院《こくがくいん》大學、3位は創価大学だった。",
+                  "sources": [
+                    {
+                      "title": "第58回全日本大学駅伝対校選手権大会 成績",
+                      "publisher": "日本学生陸上競技連合",
+                      "url": "https://www.iuau.jp/ev2026/58meki/58meki_result.pdf",
+                      "publishedOn": "2026-11-01",
+                      "retrievedOn": "2026-11-05"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "common": [
+        {
+          "number": 1,
+          "section": "joushiki",
+          "stories": [
+            {
+              "id": "2026-11-06-joushiki-01",
+              "headline": "米国の中間選挙と下院",
+              "sources": [
+                {
+                  "title": "Congressional elections and midterm elections（2026年11月5日に確認）",
+                  "publisher": "USAGov（米国政府）",
+                  "url": "https://www.usa.gov/midterm-elections",
+                  "retrievedOn": "2026-11-05"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "common-beikoku-gikai-001",
+                  "kind": "truefalse",
+                  "level": 1,
+                  "prompt": "2026年11月時点で、米国の中間選挙では、連邦議会の下院の全435議席が選挙の対象となる。",
+                  "choices": [
+                    "○",
+                    "×"
+                  ],
+                  "answer": 0,
+                  "explanation": "米国政府の案内（USAGov）によると、下院の435議席は、中間選挙と大統領選挙の年に、すべて選挙される。下院議員の任期は2年。"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-06-joushiki-02",
+              "headline": "勲章と褒章",
+              "sources": [
+                {
+                  "title": "勲章の種類及び授与対象（2026年11月5日に確認）",
+                  "publisher": "内閣府",
+                  "url": "https://www8.cao.go.jp/shokun/shurui-juyotaisho-kunsho.html",
+                  "retrievedOn": "2026-11-05"
+                },
+                {
+                  "title": "褒章の種類及び授与対象（2026年11月5日に確認）",
+                  "publisher": "内閣府",
+                  "url": "https://www8.cao.go.jp/shokun/shurui-juyotaisho-hosho.html",
+                  "retrievedOn": "2026-11-05"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "common-kunsho-001",
+                  "kind": "multi",
+                  "level": 2,
+                  "prompt": "2026年11月時点で、内閣府の区分で「勲章」に当たるものを、すべて選べ。",
+                  "choices": [
+                    "｜旭日章《きょくじつしょう》",
+                    "｜瑞宝章《ずいほうしょう》",
+                    "｜紫綬褒章《しじゅほうしょう》",
+                    "文化勲章",
+                    "｜藍綬褒章《らんじゅほうしょう》"
+                  ],
+                  "answer": 0,
+                  "answers": [
+                    0,
+                    1,
+                    3
+                  ],
+                  "explanation": "内閣府の区分では、旭日章・瑞宝章・文化勲章は勲章で、紫綬褒章・藍綬褒章は褒章。勲章には、このほか｜大勲位菊花章《だいくんいきっかしょう》・｜桐花大綬章《とうかだいじゅしょう》・宝冠章がある。褒章は｜綬《じゅ》の色で、紅・緑・黄・紫・藍・紺の6つに分かれる。"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-06-joushiki-03",
+              "headline": "米国の上院議員の任期",
+              "sources": [
+                {
+                  "title": "Congressional elections and midterm elections（2026年11月5日に確認）",
+                  "publisher": "USAGov（米国政府）",
+                  "url": "https://www.usa.gov/midterm-elections",
+                  "retrievedOn": "2026-11-05"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "common-beikoku-gikai-002",
+                  "kind": "truefalse",
+                  "level": 2,
+                  "prompt": "2026年11月時点で、米国の連邦議会の上院議員の任期は、4年である。",
+                  "choices": [
+                    "○",
+                    "×"
+                  ],
+                  "answer": 1,
+                  "explanation": "USAGov によると、上院議員の任期は6年。2年ごとの中間選挙と大統領選挙の年に、上院の約3分の1ずつが選挙される。"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-06-joushiki-04",
+              "headline": "IAEAの本部",
+              "sources": [
+                {
+                  "title": "国際原子力機関（IAEA）の概要（2026年11月5日に確認）",
+                  "publisher": "外務省",
+                  "url": "https://www.mofa.go.jp/mofaj/gaiko/atom/iaea/iaea_g.html",
+                  "retrievedOn": "2026-11-05"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "common-iaea-001",
+                  "kind": "choice",
+                  "level": 2,
+                  "prompt": "国際原子力機関（IAEA）の本部がある都市はどれか。",
+                  "choices": [
+                    "ジュネーブ",
+                    "ニューヨーク",
+                    "ウィーン",
+                    "パリ"
+                  ],
+                  "answer": 2,
+                  "explanation": "外務省によると、IAEAの総会の通常会期は、毎年9月に本部のあるウィーンで開かれる。IAEAは1957年7月に発足し、2024年11月時点の加盟国は180か国。"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-06-joushiki-05",
+              "headline": "大学駅伝の順番",
+              "sources": [
+                {
+                  "title": "第38回出雲全日本大学選抜駅伝競走 成績",
+                  "publisher": "日本学生陸上競技連合",
+                  "url": "https://www.iuau.jp/ev2026/msenbatu/38izumo_result.pdf",
+                  "retrievedOn": "2026-11-05"
+                },
+                {
+                  "title": "第58回全日本大学駅伝対校選手権大会 成績",
+                  "publisher": "日本学生陸上競技連合",
+                  "url": "https://www.iuau.jp/ev2026/58meki/58meki_result.pdf",
+                  "publishedOn": "2026-11-01",
+                  "retrievedOn": "2026-11-05"
+                },
+                {
+                  "title": "第103回東京箱根間往復大学駅伝競走（2026年11月5日に確認）",
+                  "publisher": "関東学生陸上競技連盟",
+                  "url": "https://www.kgrr.org/competition/?id=148",
+                  "retrievedOn": "2026-11-05"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "common-ekiden-001",
+                  "kind": "order",
+                  "level": 2,
+                  "prompt": "2026年10月〜2027年1月の次の3つの大学駅伝を、開催日の早い順に並べよ。",
+                  "choices": [
+                    "出雲全日本大学選抜駅伝競走",
+                    "全日本大学駅伝対校選手権大会",
+                    "東京箱根間往復大学駅伝競走"
+                  ],
+                  "answer": 0,
+                  "explanation": "出雲全日本大学選抜駅伝競走は2026年10月12日、全日本大学駅伝対校選手権大会は11月1日に開かれた。東京箱根間往復大学駅伝競走は、2027年1月2日・3日の開催が関東学生陸上競技連盟のページに示されている。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "quiz": [
+        "2026-11-06-sougou-01-q1",
+        "2026-11-06-sougou-01-q2",
+        "2026-11-06-sougou-01-q3",
+        "common-beikoku-gikai-001",
+        "common-kunsho-001",
+        "2026-11-06-shakai-01-q1",
+        "2026-11-06-shakai-01-q2",
+        "common-beikoku-gikai-002",
+        "2026-11-06-kagaku-01-q1",
+        "2026-11-06-kagaku-01-q2",
+        "common-iaea-001",
+        "common-ekiden-001",
+        "2026-11-06-sports-01-q1"
+      ]
     }
   ],
   "common": [
@@ -3939,6 +4455,46 @@
           "url": "https://www.mofa.go.jp/mofaj/fp/nsp/pageit_000001_00005.html",
           "publishedOn": "2026-10-31",
           "retrievedOn": "2026-11-02"
+        }
+      ]
+    },
+    {
+      "id": "apec",
+      "term": "APEC",
+      "definition": "アジア太平洋経済協力のこと。英語では Asia Pacific Economic Cooperation と書く。",
+      "sources": [
+        {
+          "title": "APEC（アジア太平洋経済協力、Asia Pacific Economic Cooperation）（2026年11月5日に確認）",
+          "publisher": "外務省",
+          "url": "https://www.mofa.go.jp/mofaj/gaiko/apec/index.html",
+          "retrievedOn": "2026-11-05"
+        }
+      ]
+    },
+    {
+      "id": "iaea",
+      "term": "IAEA",
+      "definition": "国際原子力機関のこと。英語では International Atomic Energy Agency と書く。原子力の平和的な利用を進める国際機関で、1957年7月に発足した。",
+      "sources": [
+        {
+          "title": "国際原子力機関（IAEA）の概要（2026年11月5日に確認）",
+          "publisher": "外務省",
+          "url": "https://www.mofa.go.jp/mofaj/gaiko/atom/iaea/iaea_g.html",
+          "retrievedOn": "2026-11-05"
+        }
+      ]
+    },
+    {
+      "id": "alps-shorisui",
+      "term": "ALPS処理水",
+      "definition": "東京電力福島第一原子力発電所の建屋内にある放射性物質を含む水を、多核種除去設備（ALPS）などで、トリチウム以外の放射性物質の濃度が規制基準値を確実に満たすように浄化した水。ALPSは、英語では Advanced Liquid Processing System と書く。",
+      "sources": [
+        {
+          "title": "ALPS処理水の海洋放出に関する国際原子力機関の枠組みの下での追加的モニタリングの分析結果に関する報告書の公表",
+          "publisher": "外務省",
+          "url": "https://www.mofa.go.jp/mofaj/press/release/pressit_000001_04422.html",
+          "publishedOn": "2026-11-05",
+          "retrievedOn": "2026-11-05"
         }
       ]
     }
