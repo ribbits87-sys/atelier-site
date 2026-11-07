@@ -6855,15 +6855,6 @@
     <loc>https://atelier.thehaven.jp/kaigodrill/support/</loc>
   </url>
   <url>
-    <loc>https://atelier.thehaven.jp/newsdrill/privacy/</loc>
-  </url>
-  <url>
-    <loc>https://atelier.thehaven.jp/newsdrill/support/</loc>
-  </url>
-  <url>
-    <loc>https://atelier.thehaven.jp/newsdrill/tokushoho/</loc>
-  </url>
-  <url>
     <loc>https://atelier.thehaven.jp/kirikaedrill/</loc>
   </url>
   <url>
@@ -6874,5 +6865,17 @@
   </url>
   <url>
     <loc>https://atelier.thehaven.jp/kirikaedrill/tokushoho/</loc>
+  </url>
+  <url>
+    <loc>https://atelier.thehaven.jp/newsdrill/</loc>
+  </url>
+  <url>
+    <loc>https://atelier.thehaven.jp/newsdrill/privacy/</loc>
+  </url>
+  <url>
+    <loc>https://atelier.thehaven.jp/newsdrill/support/</loc>
+  </url>
+  <url>
+    <loc>https://atelier.thehaven.jp/newsdrill/tokushoho/</loc>
   </url>
 </urlset>
