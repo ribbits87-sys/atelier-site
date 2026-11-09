@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "generatedAt": "2026-11-06T00:49:09+09:00",
+  "generatedAt": "2026-11-09T20:27:22+09:00",
   "issues": [
     {
       "id": "2026-10-23-fri",
@@ -2571,6 +2571,548 @@
         "common-ekiden-001",
         "2026-11-06-sports-01-q1"
       ]
+    },
+    {
+      "id": "2026-11-10-tue",
+      "number": 6,
+      "kind": "regular",
+      "publishAt": "2026-11-10T06:30:00+09:00",
+      "covers": {
+        "from": "2026-11-06",
+        "to": "2026-11-09"
+      },
+      "pages": [
+        {
+          "number": 1,
+          "section": "sougou",
+          "stories": [
+            {
+              "id": "2026-11-10-sougou-01",
+              "headline": "決算検査報告を内閣へ",
+              "eventOn": "2026-11-05",
+              "field": "seiji",
+              "body": "会計検査院は2026年11月5日、令和7年度（2025年度）の決算検査報告を内閣に送付した。報告に載せた事項などは合わせて250件で、指摘金額は計1445億7308万円だった。このうち、法律・政令・予算に違反し、または不当と認めた「不当事項」は211件、111億8636万円だった。",
+              "sources": [
+                {
+                  "title": "令和7年度決算検査報告の概要（1 検査の概要）",
+                  "publisher": "会計検査院",
+                  "url": "https://www.jbaudit.go.jp/report/new/summary07/pdf/fy07_01_gaiyou.pdf",
+                  "retrievedOn": "2026-11-09"
+                },
+                {
+                  "title": "令和7年度決算検査報告（最新）（2026年11月9日に確認）",
+                  "publisher": "会計検査院",
+                  "url": "https://www.jbaudit.go.jp/report/new/index.html",
+                  "retrievedOn": "2026-11-09"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "2026-11-10-sougou-01-q1",
+                  "kind": "choice",
+                  "level": 1,
+                  "prompt": "2026年11月5日に、令和7年度の決算検査報告を内閣に送付した機関はどれか。",
+                  "choices": [
+                    "財務省",
+                    "会計検査院",
+                    "人事院",
+                    "国税庁"
+                  ],
+                  "answer": 1,
+                  "explanation": "会計検査院は、日本国憲法第90条により、国の収入支出の決算を検査する機関。2026年11月5日に令和7年度決算検査報告を内閣に送付し、院長が内閣総理大臣に手渡して概要を説明した。",
+                  "sources": [
+                    {
+                      "title": "令和7年度決算検査報告（最新）（2026年11月9日に確認）",
+                      "publisher": "会計検査院",
+                      "url": "https://www.jbaudit.go.jp/report/new/index.html",
+                      "retrievedOn": "2026-11-09"
+                    },
+                    {
+                      "title": "会計検査院とは（2026年11月9日に確認）",
+                      "publisher": "会計検査院",
+                      "url": "https://www.jbaudit.go.jp/jbaudit/position.html",
+                      "retrievedOn": "2026-11-09"
+                    }
+                  ]
+                },
+                {
+                  "id": "2026-11-10-sougou-01-q2",
+                  "kind": "choice",
+                  "level": 2,
+                  "prompt": "会計検査院が2026年11月5日に内閣に送付した令和7年度決算検査報告で、指摘金額の合計に最も近いのはどれか。",
+                  "choices": [
+                    "約14億円",
+                    "約140億円",
+                    "約1,400億円",
+                    "約1兆4,000億円"
+                  ],
+                  "answer": 2,
+                  "explanation": "令和7年度決算検査報告に載せた事項などは250件で、指摘金額は計1445億7308万円（約1,400億円）だった。指摘金額は、税や社会保険料の徴収不足額、工事や物品の調達での過大な支出額などを合わせたもの。",
+                  "sources": [
+                    {
+                      "title": "令和7年度決算検査報告の概要（1 検査の概要）",
+                      "publisher": "会計検査院",
+                      "url": "https://www.jbaudit.go.jp/report/new/summary07/pdf/fy07_01_gaiyou.pdf",
+                      "retrievedOn": "2026-11-09"
+                    }
+                  ],
+                  "terms": [
+                    "shiteki-kingaku"
+                  ]
+                },
+                {
+                  "id": "2026-11-10-sougou-01-q3",
+                  "kind": "choice",
+                  "level": 3,
+                  "prompt": "会計検査院に関する2026年11月時点の記述として、最も妥当なのはどれか。",
+                  "choices": [
+                    "会計検査院は、内閣府に置かれ、内閣総理大臣の指揮を受けて検査を行う。",
+                    "会計検査院は、国会や裁判所に属さず、内閣に対して独立の地位を持つ。",
+                    "会計検査院が検査するのは国の収入支出の決算で、国が補助金を出している地方公共団体の会計は検査の対象にならない。",
+                    "国の収入支出の決算は、会計検査院が2年に1度、まとめて検査する。"
+                  ],
+                  "answer": 1,
+                  "explanation": "会計検査院は、国会や裁判所に属さず、内閣に対して独立の地位を持つ憲法上の機関。日本国憲法第90条は、国の収入支出の決算を、すべて毎年、会計検査院が検査すると定める。国が出資している法人や、国が補助金などを出している地方公共団体の会計も検査している。",
+                  "sources": [
+                    {
+                      "title": "会計検査院とは（2026年11月9日に確認）",
+                      "publisher": "会計検査院",
+                      "url": "https://www.jbaudit.go.jp/jbaudit/position.html",
+                      "retrievedOn": "2026-11-09"
+                    }
+                  ]
+                }
+              ],
+              "terms": [
+                "shiteki-kingaku"
+              ]
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "section": "seiji",
+          "stories": [
+            {
+              "id": "2026-11-10-seiji-01",
+              "headline": "海賊対処を1年継続",
+              "eventOn": "2026-11-06",
+              "body": "政府は2026年11月6日の閣議で、ソマリア沖・アデン湾での自衛隊の海賊対処行動を1年間続けることを決めた。行動を命じる期間は、2026年11月20日から2027年11月19日までとなる。同じ日に、中東地域で日本関係船舶の安全を確保するための取組と、シナイ半島での国際平和協力業務についても決定があり、自衛隊の活動の期限がそれぞれ1年間延びた。",
+              "sources": [
+                {
+                  "title": "内閣官房長官記者会見（令和8年11月6日（金）午前）",
+                  "publisher": "首相官邸",
+                  "url": "https://www.kantei.go.jp/jp/tyoukanpress/202611/6_a.html",
+                  "publishedOn": "2026-11-06",
+                  "retrievedOn": "2026-11-09"
+                },
+                {
+                  "title": "海賊対処行動の継続について",
+                  "publisher": "防衛省",
+                  "url": "https://www.mod.go.jp/j/press/news/2026/11/06b.html",
+                  "publishedOn": "2026-11-06",
+                  "retrievedOn": "2026-11-09"
+                },
+                {
+                  "title": "令和8年11月6日（金）定例閣議案件",
+                  "publisher": "首相官邸",
+                  "url": "https://www.kantei.go.jp/jp/kakugi/2026/kakugi-2026110601.html",
+                  "publishedOn": "2026-11-06",
+                  "retrievedOn": "2026-11-09"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "2026-11-10-seiji-01-q1",
+                  "kind": "truefalse",
+                  "level": 1,
+                  "prompt": "2026年11月6日、政府は、ソマリア沖・アデン湾での自衛隊の海賊対処行動を、期限の2026年11月19日で終えることを閣議で決めた。",
+                  "choices": [
+                    "○",
+                    "×"
+                  ],
+                  "answer": 1,
+                  "explanation": "政府は2026年11月6日の閣議で、海賊対処行動を1年間続けることを決めた。防衛省によると、行動を命じる期間は2026年11月20日から2027年11月19日まで。海賊を生む根本の原因がまだ解決していないことなどを理由に挙げている。",
+                  "sources": [
+                    {
+                      "title": "海賊対処行動の継続について",
+                      "publisher": "防衛省",
+                      "url": "https://www.mod.go.jp/j/press/news/2026/11/06b.html",
+                      "publishedOn": "2026-11-06",
+                      "retrievedOn": "2026-11-09"
+                    },
+                    {
+                      "title": "内閣官房長官記者会見（令和8年11月6日（金）午前）",
+                      "publisher": "首相官邸",
+                      "url": "https://www.kantei.go.jp/jp/tyoukanpress/202611/6_a.html",
+                      "publishedOn": "2026-11-06",
+                      "retrievedOn": "2026-11-09"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "section": "keizai",
+          "stories": [
+            {
+              "id": "2026-11-10-keizai-01",
+              "headline": "景気の一致指数が上昇",
+              "eventOn": "2026-11-09",
+              "body": "内閣府は2026年11月9日、2026年9月分の景気動向指数（速報）を公表した。景気の現状をつかむのに使うCIの一致指数（2020年=100）は119.5で、前の月より0.7ポイント上がり、2か月ぶりの上昇となった。一致指数の基調判断は「改善を示している」で、前の月から据え置かれた。",
+              "sources": [
+                {
+                  "title": "景気動向指数（令和8(2026)年9月分速報）結果の概要",
+                  "publisher": "内閣府経済社会総合研究所",
+                  "url": "https://www.esri.cao.go.jp/jp/stat/di/202609psummary.pdf",
+                  "publishedOn": "2026-11-09",
+                  "retrievedOn": "2026-11-09"
+                },
+                {
+                  "title": "景気動向指数の利用の手引（2026年11月9日に確認）",
+                  "publisher": "内閣府経済社会総合研究所",
+                  "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
+                  "retrievedOn": "2026-11-09"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "2026-11-10-keizai-01-q1",
+                  "kind": "choice",
+                  "level": 1,
+                  "prompt": "2026年11月9日に、2026年9月分の景気動向指数（速報）を公表した機関はどれか。",
+                  "choices": [
+                    "日本銀行",
+                    "財務省",
+                    "総務省",
+                    "内閣府"
+                  ],
+                  "answer": 3,
+                  "explanation": "景気動向指数は、内閣府の経済社会総合研究所が毎月公表している。",
+                  "sources": [
+                    {
+                      "title": "景気動向指数（令和8(2026)年9月分速報）結果の概要",
+                      "publisher": "内閣府経済社会総合研究所",
+                      "url": "https://www.esri.cao.go.jp/jp/stat/di/202609psummary.pdf",
+                      "publishedOn": "2026-11-09",
+                      "retrievedOn": "2026-11-09"
+                    }
+                  ],
+                  "terms": [
+                    "keiki-doukou-shisuu"
+                  ]
+                },
+                {
+                  "id": "2026-11-10-keizai-01-q2",
+                  "kind": "choice",
+                  "level": 1,
+                  "prompt": "内閣府が2026年11月9日に公表した2026年9月分の景気動向指数（速報）で、一致指数の基調判断は「○○を示している」とされた。○○に入るのはどれか。",
+                  "choices": [
+                    "足踏み",
+                    "悪化",
+                    "改善",
+                    "下げ止まり"
+                  ],
+                  "answer": 2,
+                  "explanation": "2026年9月分（速報）の基調判断は「景気動向指数（CI一致指数）は、改善を示している」で、前の月から据え置かれた。基調判断には、改善・足踏み・局面変化・悪化・下げ止まりの区分があり、指数の動きを決まった基準に当てはめて決める。",
+                  "sources": [
+                    {
+                      "title": "景気動向指数（令和8(2026)年9月分速報）結果の概要",
+                      "publisher": "内閣府経済社会総合研究所",
+                      "url": "https://www.esri.cao.go.jp/jp/stat/di/202609psummary.pdf",
+                      "publishedOn": "2026-11-09",
+                      "retrievedOn": "2026-11-09"
+                    }
+                  ],
+                  "terms": [
+                    "keiki-doukou-shisuu"
+                  ]
+                }
+              ],
+              "terms": [
+                "keiki-doukou-shisuu"
+              ]
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "section": "shakai",
+          "stories": [
+            {
+              "id": "2026-11-10-shakai-01",
+              "headline": "原子力防災訓練に総理",
+              "eventOn": "2026-11-07",
+              "body": "内閣総理大臣は2026年11月7日、総理大臣官邸で令和8年度原子力総合防災訓練に参加した。訓練として、緊急の記者会見と、原子力災害対策本部・非常災害対策本部の合同会議を行った。内閣府によると、原子力総合防災訓練は原子力災害対策特別措置法に基づいて行う訓練で、令和8年度は北海道にある北海道電力の泊発電所が対象になっている。",
+              "sources": [
+                {
+                  "title": "原子力総合防災訓練（総理の一日）",
+                  "publisher": "首相官邸",
+                  "url": "https://www.kantei.go.jp/jp/105/actions/202611/07kunren.html",
+                  "publishedOn": "2026-11-07",
+                  "retrievedOn": "2026-11-09"
+                },
+                {
+                  "title": "原子力防災訓練（原子力総合防災訓練、その他訓練、訓練ガイダンス等）（2026年11月9日に確認）",
+                  "publisher": "内閣府",
+                  "url": "https://www8.cao.go.jp/genshiryoku_bousai/kunren/kunren.html",
+                  "retrievedOn": "2026-11-09"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "2026-11-10-shakai-01-q1",
+                  "kind": "choice",
+                  "level": 1,
+                  "prompt": "2026年11月7日、高市首相が総理大臣官邸で参加した訓練はどれか。",
+                  "choices": [
+                    "国民保護共同訓練",
+                    "大規模地震時医療活動訓練",
+                    "総合防災訓練",
+                    "原子力総合防災訓練"
+                  ],
+                  "answer": 3,
+                  "explanation": "首相官邸によると、高市首相は2026年11月7日、官邸で令和8年度原子力総合防災訓練に参加し、訓練として、緊急の記者会見と、政府の対策本部の合同会議を行った。",
+                  "sources": [
+                    {
+                      "title": "原子力総合防災訓練（総理の一日）",
+                      "publisher": "首相官邸",
+                      "url": "https://www.kantei.go.jp/jp/105/actions/202611/07kunren.html",
+                      "publishedOn": "2026-11-07",
+                      "retrievedOn": "2026-11-09"
+                    }
+                  ]
+                },
+                {
+                  "id": "2026-11-10-shakai-01-q2",
+                  "kind": "choice",
+                  "level": 1,
+                  "prompt": "国が行う「原子力総合防災訓練」は、どの法律に基づいて実施される訓練か。",
+                  "choices": [
+                    "消防法",
+                    "原子力災害対策特別措置法",
+                    "国民保護法",
+                    "原子力基本法"
+                  ],
+                  "answer": 1,
+                  "explanation": "内閣府によると、原子力総合防災訓練は、原子力災害対策特別措置法に基づいて実施される。道府県が行う原子力防災訓練は、災害対策基本法などに基づく。令和8年度の原子力総合防災訓練は、北海道電力の泊発電所（北海道）が対象になっている。",
+                  "sources": [
+                    {
+                      "title": "原子力防災訓練（原子力総合防災訓練、その他訓練、訓練ガイダンス等）（2026年11月9日に確認）",
+                      "publisher": "内閣府",
+                      "url": "https://www8.cao.go.jp/genshiryoku_bousai/kunren/kunren.html",
+                      "retrievedOn": "2026-11-09"
+                    },
+                    {
+                      "title": "原子力災害対策特別措置法（第13条 防災訓練に関する国の計画）",
+                      "publisher": "e-Gov 法令検索（デジタル庁）",
+                      "url": "https://laws.e-gov.go.jp/law/411AC0000000156",
+                      "retrievedOn": "2026-11-09"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "section": "bunka",
+          "stories": [
+            {
+              "id": "2026-11-10-bunka-01",
+              "headline": "文化勲章に8人",
+              "eventOn": "2026-11-03",
+              "body": "令和8年度（2026年度）の文化勲章が、2026年11月3日に発令された。受章者は、建築家の伊東豊雄氏、作曲家の｜都倉《とくら》俊一氏、ゲームプロデューサーの宮本茂氏など8人で、いずれも文化功労者である。8人の専門分野は、照明デザイン、建築、生物科学、フランス文学、有機合成化学、大衆音楽、免疫学、ゲームだった。",
+              "sources": [
+                {
+                  "title": "令和8年度 文化勲章受章者",
+                  "publisher": "文部科学省",
+                  "url": "https://www.mext.go.jp/b_menu/houdou/2026/1422026_00001.htm",
+                  "publishedOn": "2026-11-03",
+                  "retrievedOn": "2026-11-09"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "2026-11-10-bunka-01-q1",
+                  "kind": "choice",
+                  "level": 2,
+                  "prompt": "2026年11月3日に発令された文化勲章の受章者8人のうち、ゲームプロデューサーはだれか。",
+                  "choices": [
+                    "伊東豊雄",
+                    "都倉俊一",
+                    "石井幹子",
+                    "宮本茂"
+                  ],
+                  "answer": 3,
+                  "explanation": "文部科学省によると、令和8年度の文化勲章の受章者は8人。宮本茂氏はゲームプロデューサーで、専門分野は「メディア芸術（ゲーム）」。伊東豊雄氏は建築家、｜都倉《とくら》俊一氏は作曲家、石井｜幹子《もとこ》氏は照明デザイナー。",
+                  "sources": [
+                    {
+                      "title": "令和8年度 文化勲章受章者",
+                      "publisher": "文部科学省",
+                      "url": "https://www.mext.go.jp/b_menu/houdou/2026/1422026_00001.htm",
+                      "publishedOn": "2026-11-03",
+                      "retrievedOn": "2026-11-09"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "common": [
+        {
+          "number": 1,
+          "section": "joushiki",
+          "stories": [
+            {
+              "id": "2026-11-10-joushiki-01",
+              "headline": "予備費と国会",
+              "sources": [
+                {
+                  "title": "日本国憲法（第87条）",
+                  "publisher": "e-Gov 法令検索（デジタル庁）",
+                  "url": "https://laws.e-gov.go.jp/law/321CONSTITUTION",
+                  "retrievedOn": "2026-11-09"
+                },
+                {
+                  "title": "令和8年11月6日（金）定例閣議案件",
+                  "publisher": "首相官邸",
+                  "url": "https://www.kantei.go.jp/jp/kakugi/2026/kakugi-2026110601.html",
+                  "publishedOn": "2026-11-06",
+                  "retrievedOn": "2026-11-09"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "common-yobihi-001",
+                  "kind": "truefalse",
+                  "level": 2,
+                  "prompt": "日本国憲法では、内閣は、予備費の支出について、事後に国会の承諾を得なければならないと定められている。",
+                  "choices": [
+                    "○",
+                    "×"
+                  ],
+                  "answer": 0,
+                  "explanation": "日本国憲法第87条は、予見し難い予算の不足に充てるため、国会の議決に基づいて予備費を設け、内閣の責任で支出できると定める。予備費の支出については、内閣は事後に国会の承諾を得なければならない。2026年11月6日の閣議でも、令和8年度一般会計の予備費の使用が決定された。"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-10-joushiki-02",
+              "headline": "CIとDI",
+              "sources": [
+                {
+                  "title": "景気動向指数の利用の手引（2026年11月9日に確認）",
+                  "publisher": "内閣府経済社会総合研究所",
+                  "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
+                  "retrievedOn": "2026-11-09"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "common-keiki-001",
+                  "kind": "compare",
+                  "level": 2,
+                  "prompt": "内閣府の景気動向指数のうち、景気の変動の大きさやテンポ（量感）を測ることを主な目的とするのはどちらか。",
+                  "choices": [
+                    "CI（コンポジット・インデックス。指標の動きを合成した指数）",
+                    "DI（ディフュージョン・インデックス。改善している指標の割合）"
+                  ],
+                  "answer": 0,
+                  "explanation": "内閣府の「景気動向指数の利用の手引」（2026年11月9日に確認）によると、CIは、指標の動きを合成して、景気の変動の大きさやテンポ（量感）を測る。DIは、改善している指標の割合から、景気が各経済部門に広がっている度合い（波及度）を測る。2008年4月分からは、CIを中心に公表している。",
+                  "terms": [
+                    "keiki-doukou-shisuu"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "2026-11-10-joushiki-03",
+              "headline": "世界津波の日",
+              "sources": [
+                {
+                  "title": "世界津波の日（2026年11月9日に確認）",
+                  "publisher": "外務省",
+                  "url": "https://www.mofa.go.jp/mofaj/ic/gic/page25_000294.html",
+                  "retrievedOn": "2026-11-09"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "common-tsunami-001",
+                  "kind": "truefalse",
+                  "level": 1,
+                  "prompt": "国連総会の決議で定められた「世界津波の日」は、3月11日である。",
+                  "choices": [
+                    "○",
+                    "×"
+                  ],
+                  "answer": 1,
+                  "explanation": "「世界津波の日」は11月5日。2015年12月22日の国連総会で、日本をはじめ142か国が提案した決議が採択された。1854年（安政元年）11月5日に和歌山県で起きた大津波のとき、村人が｜稲《いな》むらに火をつけて知らせ、人々を避難させた「稲むらの火」の逸話に由来する。日本の法律でも、11月5日は「津波防災の日」。"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-10-joushiki-04",
+              "headline": "G7サミットの開催地",
+              "sources": [
+                {
+                  "title": "G7/G8 首脳会議・外相会議（2026年11月9日に確認）",
+                  "publisher": "外務省",
+                  "url": "https://www.mofa.go.jp/mofaj/gaiko/summit/index.html",
+                  "retrievedOn": "2026-11-09"
+                },
+                {
+                  "title": "2026 G7サミット（2026年11月9日に確認）",
+                  "publisher": "外務省",
+                  "url": "https://www.mofa.go.jp/mofaj/ecm/ec/pagew_000001_02321.html",
+                  "retrievedOn": "2026-11-09"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "common-g7-summit-001",
+                  "kind": "order",
+                  "level": 3,
+                  "prompt": "2023年から2026年までに開かれた、次の4つの開催地でのG7サミット（首脳会議）を、開かれた年の早い順に並べよ。",
+                  "choices": [
+                    "広島（日本）",
+                    "プーリア（イタリア）",
+                    "カナナスキス（カナダ）",
+                    "エビアン（フランス）"
+                  ],
+                  "answer": 0,
+                  "explanation": "外務省によると、G7サミットは、2023年に広島（日本）、2024年にプーリア（イタリア）、2025年にカナナスキス（カナダ）、2026年にエビアン（フランス）で開かれた。エビアン・サミットは2026年6月15〜17日。",
+                  "terms": [
+                    "g7"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "quiz": [
+        "2026-11-10-sougou-01-q1",
+        "2026-11-10-sougou-01-q2",
+        "2026-11-10-sougou-01-q3",
+        "common-yobihi-001",
+        "2026-11-10-seiji-01-q1",
+        "common-g7-summit-001",
+        "2026-11-10-keizai-01-q1",
+        "2026-11-10-keizai-01-q2",
+        "common-keiki-001",
+        "2026-11-10-shakai-01-q1",
+        "2026-11-10-shakai-01-q2",
+        "common-tsunami-001",
+        "2026-11-10-bunka-01-q1"
+      ]
     }
   ],
   "common": [
@@ -4433,7 +4975,7 @@
     {
       "id": "g20",
       "term": "G20",
-      "definition": "日本・中国・インド・ブラジルなど19か国と、EU（欧州連合）・AU（アフリカ連合）が参加する枠組み。首脳会合のほか、外相会合などの閣僚会合も開かれる。",
+      "definition": "日本・中国・インド・ブラジルなど19か国と、EU（欧州連合）・AU（アフリカ連合）が参加する枠組み。首脳会合のほか、外相会合などの閣僚会合も開かれる。外務省は、首脳会合を「金融世界経済に関する首脳会合」（英語では Summit on Financial Markets and the World Economy）としている。",
       "sources": [
         {
           "title": "茂木外務大臣のG20外相会合（米国）出席",
@@ -4441,6 +4983,18 @@
           "url": "https://www.mofa.go.jp/mofaj/press/release/pressit_000001_04370.html",
           "publishedOn": "2026-10-27",
           "retrievedOn": "2026-11-02"
+        },
+        {
+          "title": "G20（金融世界経済に関する首脳会合）（2026年11月9日に確認）",
+          "publisher": "外務省",
+          "url": "https://www.mofa.go.jp/mofaj/gaiko/g20/index.html",
+          "retrievedOn": "2026-11-09"
+        },
+        {
+          "title": "G20 (Summit on Financial Markets and the World Economy)（2026年11月9日に確認）",
+          "publisher": "外務省",
+          "url": "https://www.mofa.go.jp/policy/economy/g20_summit/index.html",
+          "retrievedOn": "2026-11-09"
         }
       ]
     },
@@ -4495,6 +5049,32 @@
           "url": "https://www.mofa.go.jp/mofaj/press/release/pressit_000001_04422.html",
           "publishedOn": "2026-11-05",
           "retrievedOn": "2026-11-05"
+        }
+      ]
+    },
+    {
+      "id": "shiteki-kingaku",
+      "term": "指摘金額（会計検査院）",
+      "definition": "会計検査院の検査報告で、税や社会保険料の徴収不足額、工事や物品の調達などでの過大な支出額、補助金の過大な交付額、有効に使われていない資産の額などを合わせた金額。会計検査院は、指摘した事項の説明に「無駄遣い」という言い方を使っていない。",
+      "sources": [
+        {
+          "title": "令和7年度決算検査報告の概要（1 検査の概要）",
+          "publisher": "会計検査院",
+          "url": "https://www.jbaudit.go.jp/report/new/summary07/pdf/fy07_01_gaiyou.pdf",
+          "retrievedOn": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "keiki-doukou-shisuu",
+      "term": "景気動向指数（CI・DI）",
+      "definition": "生産や雇用など、景気に敏感な指標の動きをまとめて、景気の現状の把握と将来の予測に役立てる指標。内閣府が毎月公表する。CI はコンポジット・インデックス、DI はディフュージョン・インデックスのこと。",
+      "sources": [
+        {
+          "title": "景気動向指数の利用の手引（2026年11月9日に確認）",
+          "publisher": "内閣府経済社会総合研究所",
+          "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
+          "retrievedOn": "2026-11-09"
         }
       ]
     }
