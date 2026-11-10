@@ -14,7 +14,7 @@ Haven Atelier（屋号 Haven）は、学ぶ人のことばで、試験と仕事�
   - [Tiếng Việt](https://atelier.thehaven.jp/genbadrill/vi/) · [Bahasa Indonesia](https://atelier.thehaven.jp/genbadrill/id/) · [Tagalog](https://atelier.thehaven.jp/genbadrill/tl/)
   - 用語集（Glossary）: https://atelier.thehaven.jp/genbadrill/terms/
   - App Store: https://apps.apple.com/app/apple-store/id6812208077?pt=129460558&mt=8&ct=web-llms-ja
-- [ドローンドリル（Drone Drill）](https://atelier.thehaven.jp/dronedrill/): ドローン国家資格（無人航空機操縦士 一等・二等）の学科試験対策アプリ。一等の計算問題は途中式まで解説します。配信中: iPhone (App Store)。アプリの言語: 日本語。この内容のアプリの版: 1.0.2（2026-11-05）
+- [ドローンドリル（Drone Drill）](https://atelier.thehaven.jp/dronedrill/): ドローン国家資格（無人航空機操縦士 一等・二等）の学科試験対策アプリ。一等の計算問題は途中式まで解説します。配信中: iPhone (App Store)。アプリの言語: 日本語。この内容のアプリの版: 1.0.3（2026-11-10）
   - English: Study app for Japan’s national drone pilot licence (first and second class) written exam. In Japanese.
   - App Store: https://apps.apple.com/jp/app/apple-store/id6823422777?pt=129460558&mt=8&ct=web-llms-ja
 - [カイゴドリル（Kaigo Drill）](https://atelier.thehaven.jp/kaigodrill/): 介護特定技能評価試験（技能）の学習アプリ。問題を母語で解きながら、現場の日本語もふりがな付きで覚えられます。配信中: iPhone (App Store)。アプリの言語: Bahasa Indonesia, မြန်မာဘာသာ, English, 日本語。この内容のアプリの版: 1.4.1（2026-11-07）
