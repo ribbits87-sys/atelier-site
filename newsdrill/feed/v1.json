@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "generatedAt": "2026-11-09T20:27:22+09:00",
+  "generatedAt": "2026-11-12T23:04:46+09:00",
   "issues": [
     {
       "id": "2026-10-23-fri",
@@ -428,7 +428,7 @@
                     {
                       "title": "伝統的工芸品産業の振興に関する法律（第2条。2026年10月23日に確認）",
                       "publisher": "e-Gov 法令検索（デジタル庁）",
-                      "url": "https://laws.e-gov.go.jp/law/349AC0000000057",
+                      "url": "https://laws.e-gov.go.jp/law/349AC1000000057",
                       "retrievedOn": "2026-10-23"
                     }
                   ]
@@ -3113,6 +3113,584 @@
         "common-tsunami-001",
         "2026-11-10-bunka-01-q1"
       ]
+    },
+    {
+      "id": "2026-11-13-fri",
+      "number": 7,
+      "kind": "regular",
+      "publishAt": "2026-11-13T06:30:00+09:00",
+      "covers": {
+        "from": "2026-11-10",
+        "to": "2026-11-12"
+      },
+      "pages": [
+        {
+          "number": 1,
+          "section": "sougou",
+          "stories": [
+            {
+              "id": "2026-11-13-sougou-01",
+              "headline": "日越が共同ビジョン声明",
+              "eventOn": "2026-11-09",
+              "field": "kokusai",
+              "body": "高市総理大臣は2026年11月9日、迎賓館赤坂離宮で、ベトナムのトー・ラム共産党書記長兼国家主席と首脳会談を行った。両首脳は「日越共同ビジョン声明」を出し、重要鉱物の協力を進めることを確認した。ベトナムへの初めてのOSAによる資機材の供与を、早く実現させることでも一致した。",
+              "sources": [
+                {
+                  "title": "日・ベトナム首脳会談",
+                  "publisher": "外務省",
+                  "url": "https://www.mofa.go.jp/mofaj/s_sa/sea1/vn/pageit_000001_00016.html",
+                  "publishedOn": "2026-11-09",
+                  "retrievedOn": "2026-11-12"
+                },
+                {
+                  "title": "日・ベトナム首脳会談（２）",
+                  "publisher": "首相官邸",
+                  "url": "https://www.kantei.go.jp/jp/105/actions/202611/09vietnam2.html",
+                  "publishedOn": "2026-11-09",
+                  "retrievedOn": "2026-11-12"
+                }
+              ],
+              "terms": [
+                "osa"
+              ],
+              "questions": [
+                {
+                  "id": "2026-11-13-sougou-01-q1",
+                  "kind": "choice",
+                  "level": 1,
+                  "prompt": "高市総理大臣が2026年11月9日に迎賓館赤坂離宮で首脳会談を行ったトー・ラム共産党書記長兼国家主席は、どの国の首脳か。",
+                  "choices": [
+                    "ラオス",
+                    "カンボジア",
+                    "ベトナム",
+                    "インドネシア"
+                  ],
+                  "answer": 2,
+                  "explanation": "高市総理大臣は2026年11月9日、訪日したベトナムのトー・ラム共産党書記長兼国家主席と首脳会談を行った。両首脳は会談に合わせて「日越共同ビジョン声明」を出した。"
+                },
+                {
+                  "id": "2026-11-13-sougou-01-q2",
+                  "kind": "choice",
+                  "level": 2,
+                  "prompt": "2026年11月9日の日・ベトナム首脳会談で、両首脳は、ベトナムに対して初めてとなる「○○」による、国連平和維持活動の分野の資機材の供与を、早く実現させることで一致した。○○に入るのはどれか。",
+                  "choices": [
+                    "政府安全保障能力強化支援（OSA）",
+                    "政府開発援助（ODA）",
+                    "経済連携協定（EPA）",
+                    "円借款"
+                  ],
+                  "answer": 0,
+                  "explanation": "両首脳は、ベトナムに対して初めてとなる政府安全保障能力強化支援（OSA）による、国連平和維持活動の分野の資機材の供与を、早く実現させることで一致した。OSAは、同志国の軍などに資機材の供与などを行う、無償の資金協力の枠組み。",
+                  "sources": [
+                    {
+                      "title": "日・ベトナム首脳会談",
+                      "publisher": "外務省",
+                      "url": "https://www.mofa.go.jp/mofaj/s_sa/sea1/vn/pageit_000001_00016.html",
+                      "publishedOn": "2026-11-09",
+                      "retrievedOn": "2026-11-12"
+                    },
+                    {
+                      "title": "政府安全保障能力強化支援（OSA：Official Security Assistance）（2026年11月12日に確認）",
+                      "publisher": "外務省",
+                      "url": "https://www.mofa.go.jp/mofaj/fp/ipc/page4_005828.html",
+                      "retrievedOn": "2026-11-12"
+                    }
+                  ],
+                  "terms": [
+                    "osa"
+                  ]
+                },
+                {
+                  "id": "2026-11-13-sougou-01-q3",
+                  "kind": "choice",
+                  "level": 3,
+                  "prompt": "2026年11月9日の日・ベトナム首脳会談とその背景に関する記述として、最も妥当なのはどれか。",
+                  "choices": [
+                    "ラム書記長兼国家主席は、国賓として日本を訪れた。ベトナムは、東南アジア諸国連合（ASEAN）の加盟国である。",
+                    "両首脳は、重要鉱物の協力を進めることを確認した。この会談で、両国の関係は初めて「包括的戦略的パートナーシップ」になった。",
+                    "両首脳は、ベトナムの増える電力需要に対応するため、日本企業が参画する石炭火力発電の計画を早く実現させることで一致した。",
+                    "両首脳は、ベトナムが議長を務める2027年のAPECの成功に向けて協力することで一致した。APECは、アジア太平洋経済協力のことである。",
+                    "高市総理大臣は2026年5月にベトナムを訪れていた。この会談で両首脳は、経済安全保障を協力の優先分野から外すことで一致した。"
+                  ],
+                  "answer": 3,
+                  "explanation": "外務省によると、両首脳は、ベトナムが議長を務める2027年のAPEC（アジア太平洋経済協力）の成功に向けて協力することで一致した。ラム書記長兼国家主席は、国賓ではなく公式実務訪問賓客として訪日した。両国の「包括的戦略的パートナーシップ」は、会談の前からあった。早い実現を目指すのは、液化天然ガス（LNG）・ガス火力発電の計画。経済安全保障は、協力の優先分野として進展を歓迎した。",
+                  "sources": [
+                    {
+                      "title": "日・ベトナム首脳会談",
+                      "publisher": "外務省",
+                      "url": "https://www.mofa.go.jp/mofaj/s_sa/sea1/vn/pageit_000001_00016.html",
+                      "publishedOn": "2026-11-09",
+                      "retrievedOn": "2026-11-12"
+                    },
+                    {
+                      "title": "ラム・ベトナム共産党書記長兼国家主席夫妻の訪日",
+                      "publisher": "外務省",
+                      "url": "https://www.mofa.go.jp/mofaj/s_sa/sea1/vn/pageit_000001_00015.html",
+                      "publishedOn": "2026-10-23",
+                      "retrievedOn": "2026-11-12"
+                    },
+                    {
+                      "title": "APEC（アジア太平洋経済協力、Asia Pacific Economic Cooperation）（2026年11月5日に確認）",
+                      "publisher": "外務省",
+                      "url": "https://www.mofa.go.jp/mofaj/gaiko/apec/index.html",
+                      "retrievedOn": "2026-11-05"
+                    },
+                    {
+                      "title": "ASEAN（東南アジア諸国連合）（2026年11月12日に確認）",
+                      "publisher": "外務省",
+                      "url": "https://www.mofa.go.jp/mofaj/area/asean/index.html",
+                      "retrievedOn": "2026-11-12"
+                    }
+                  ],
+                  "terms": [
+                    "apec"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "section": "keizai",
+          "stories": [
+            {
+              "id": "2026-11-13-keizai-01",
+              "headline": "景気の現状判断が低下",
+              "eventOn": "2026-11-10",
+              "body": "内閣府は2026年11月10日、10月の景気ウォッチャー調査の結果を公表した。景気の現状判断DI（季節調整値）は46.1で、前の月より0.9ポイント下がった。先行き判断DI（季節調整値）も46.5で、前の月より0.9ポイント下がった。",
+              "sources": [
+                {
+                  "title": "景気ウォッチャー調査 令和8年10月調査結果",
+                  "publisher": "内閣府",
+                  "url": "https://www5.cao.go.jp/keizai3/2026/1110watcher/watcher1.pdf",
+                  "publishedOn": "2026-11-10",
+                  "retrievedOn": "2026-11-12"
+                }
+              ],
+              "terms": [
+                "keiki-watcher"
+              ],
+              "questions": [
+                {
+                  "id": "2026-11-13-keizai-01-q1",
+                  "kind": "truefalse",
+                  "level": 1,
+                  "prompt": "内閣府が2026年11月10日に公表した10月の景気ウォッチャー調査で、景気の現状判断DI（季節調整値）は、前の月より上がった。",
+                  "choices": [
+                    "○",
+                    "×"
+                  ],
+                  "answer": 1,
+                  "explanation": "10月の現状判断DI（季節調整値）は46.1で、前の月より0.9ポイント下がった。先行き判断DI（季節調整値）も46.5で、0.9ポイント下がった。"
+                },
+                {
+                  "id": "2026-11-13-keizai-01-q2",
+                  "kind": "choice",
+                  "level": 2,
+                  "prompt": "内閣府の景気ウォッチャー調査は、どのような人に景気の判断を聞く調査か。",
+                  "choices": [
+                    "日本銀行の政策委員会の委員",
+                    "無作為に選んだ二人以上の世帯",
+                    "各都道府県の知事",
+                    "景気の動きを観察できる仕事に就いている人"
+                  ],
+                  "answer": 3,
+                  "explanation": "景気ウォッチャー調査は、地域の景気に関係の深い動きを観察できる立場にある人々に、景気の現状と先行きの判断を聞く。家計・企業・雇用の動きが表れやすい業種の職種から選んだ2,050人が対象で、内閣府が毎月行う。",
+                  "terms": [
+                    "keiki-watcher"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "2026-11-13-keizai-02",
+              "headline": "企業物価、7.1%上昇",
+              "eventOn": "2026-11-12",
+              "body": "日本銀行は2026年11月12日、10月の企業物価指数（速報）を公表した。国内企業物価指数は136.8（2020年平均＝100）で、前の年の同じ月と比べて7.1%上がり、前の月と比べても0.7%上がった。輸入物価指数（円ベース）は、前の年の同じ月と比べて24.8%上がった。",
+              "sources": [
+                {
+                  "title": "企業物価指数（2026年10月速報）",
+                  "publisher": "日本銀行",
+                  "url": "https://www.boj.or.jp/statistics/pi/cgpi_release/cgpi2610.pdf",
+                  "publishedOn": "2026-11-12",
+                  "retrievedOn": "2026-11-12"
+                },
+                {
+                  "title": "企業物価指数（2020年基準）の解説（2026年11月12日に確認）",
+                  "publisher": "日本銀行",
+                  "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+                  "retrievedOn": "2026-11-12"
+                }
+              ],
+              "terms": [
+                "kigyou-bukka"
+              ],
+              "questions": [
+                {
+                  "id": "2026-11-13-keizai-02-q1",
+                  "kind": "choice",
+                  "level": 1,
+                  "prompt": "2026年11月12日に公表された10月の国内企業物価指数（速報）は、前の年の同じ月と比べてどうなったか。",
+                  "choices": [
+                    "約7%下がった",
+                    "約1%下がった",
+                    "約1%上がった",
+                    "約7%上がった"
+                  ],
+                  "answer": 3,
+                  "explanation": "10月の国内企業物価指数（速報）は、前の年の同じ月と比べて7.1%上がった。前の月と比べると0.7%の上昇だった。",
+                  "sources": [
+                    {
+                      "title": "企業物価指数（2026年10月速報）",
+                      "publisher": "日本銀行",
+                      "url": "https://www.boj.or.jp/statistics/pi/cgpi_release/cgpi2610.pdf",
+                      "publishedOn": "2026-11-12",
+                      "retrievedOn": "2026-11-12"
+                    }
+                  ]
+                },
+                {
+                  "id": "2026-11-13-keizai-02-q2",
+                  "kind": "choice",
+                  "level": 3,
+                  "prompt": "物価の統計に関する2026年11月時点の記述として、最も妥当なのはどれか。",
+                  "choices": [
+                    "企業物価指数は、総務省が毎月公表している。2026年10月の国内企業物価指数（速報）は、前の年の同じ月より上がった。",
+                    "企業物価指数は、企業の間で取引される財を対象とする。2026年10月の輸入物価指数（円ベース、速報）は、前の年の同じ月より上がった。",
+                    "消費者物価指数は、世帯が買う財とサービスの価格の動きを表す。小売物価統計調査の価格をもとに、日本銀行が毎月作成している。",
+                    "企業物価指数は、2025年の平均を100とする指数である。2026年10月の国内企業物価指数（速報）は、前の月より上がった。",
+                    "輸出物価指数は、輸出品を対象とする。2026年10月の輸出物価指数（円ベース、速報）は、前の年の同じ月より下がった。"
+                  ],
+                  "answer": 1,
+                  "explanation": "企業物価指数は、企業の間で取引される財を対象に、日本銀行が毎月公表している指数で、2020年の平均を100とする。2026年10月（速報）は、国内企業物価指数が前の年の同じ月より7.1%、輸出物価指数（円ベース）が16.7%、輸入物価指数（円ベース）が24.8%、それぞれ上がった。消費者物価指数は、総務省統計局が毎月作成している。",
+                  "sources": [
+                    {
+                      "title": "企業物価指数（2026年10月速報）",
+                      "publisher": "日本銀行",
+                      "url": "https://www.boj.or.jp/statistics/pi/cgpi_release/cgpi2610.pdf",
+                      "publishedOn": "2026-11-12",
+                      "retrievedOn": "2026-11-12"
+                    },
+                    {
+                      "title": "企業物価指数（2020年基準）の解説（2026年11月12日に確認）",
+                      "publisher": "日本銀行",
+                      "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+                      "retrievedOn": "2026-11-12"
+                    },
+                    {
+                      "title": "消費者物価指数（CPI）（2026年11月12日に確認）",
+                      "publisher": "総務省統計局",
+                      "url": "https://www.stat.go.jp/data/cpi/index.html",
+                      "retrievedOn": "2026-11-12"
+                    }
+                  ],
+                  "terms": [
+                    "kigyou-bukka"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "section": "kokusai",
+          "stories": [
+            {
+              "id": "2026-11-13-kokusai-01",
+              "headline": "パリでG7外相会合",
+              "eventOn": "2026-11-10",
+              "body": "G7外相会合が2026年11月9日と10日、議長国フランスのパリで開かれ、日本から茂木外務大臣が出席した。会合では、インド太平洋などの地域情勢、AI、中東の安定、ウクライナ支援が話し合われた。各国の外相は、力や威圧による一方的な現状変更の試みに強く反対することを、改めて表明した。",
+              "sources": [
+                {
+                  "title": "茂木外務大臣のG7外相会合出席",
+                  "publisher": "外務省",
+                  "url": "https://www.mofa.go.jp/mofaj/press/release/pressit_000001_04435.html",
+                  "publishedOn": "2026-11-06",
+                  "retrievedOn": "2026-11-12"
+                },
+                {
+                  "title": "G7外相会合（セッション1：危機・国際的課題）",
+                  "publisher": "外務省",
+                  "url": "https://www.mofa.go.jp/mofaj/fp/pc/pageit_000001_00028.html",
+                  "publishedOn": "2026-11-09",
+                  "retrievedOn": "2026-11-12"
+                },
+                {
+                  "title": "G7外相会合（セッション2：AI）",
+                  "publisher": "外務省",
+                  "url": "https://www.mofa.go.jp/mofaj/fp/pc/pageit_000001_00029.html",
+                  "publishedOn": "2026-11-09",
+                  "retrievedOn": "2026-11-12"
+                },
+                {
+                  "title": "G7外相会合（セッション3：中東の安定）",
+                  "publisher": "外務省",
+                  "url": "https://www.mofa.go.jp/mofaj/fp/pc/pageit_000001_00030.html",
+                  "publishedOn": "2026-11-10",
+                  "retrievedOn": "2026-11-12"
+                },
+                {
+                  "title": "G7外相会合（セッション4：ウクライナ支援）",
+                  "publisher": "外務省",
+                  "url": "https://www.mofa.go.jp/mofaj/fp/pc/pageit_000001_00031.html",
+                  "publishedOn": "2026-11-10",
+                  "retrievedOn": "2026-11-12"
+                }
+              ],
+              "terms": [
+                "g7",
+                "ai"
+              ],
+              "questions": [
+                {
+                  "id": "2026-11-13-kokusai-01-q1",
+                  "kind": "truefalse",
+                  "level": 1,
+                  "prompt": "2026年11月9日と10日のG7外相会合は、2026年のG7議長国であるフランスのパリで開かれた。",
+                  "choices": [
+                    "○",
+                    "×"
+                  ],
+                  "answer": 0,
+                  "explanation": "2026年のG7議長国はフランス。G7外相会合は11月9日と10日にパリで開かれ、日本から茂木外務大臣が出席した。地域情勢、AI、中東の安定、ウクライナ支援が話し合われた。"
+                },
+                {
+                  "id": "2026-11-13-kokusai-01-q2",
+                  "kind": "choice",
+                  "level": 2,
+                  "prompt": "外務省の発表で、G7外相会合に、G7の7か国の外相とともに参加するとされているのはどれか。",
+                  "choices": [
+                    "国際連合の事務総長",
+                    "EU（欧州連合）の上級代表",
+                    "NATO（北大西洋条約機構）の事務総長",
+                    "ASEAN（東南アジア諸国連合）の事務総長"
+                  ],
+                  "answer": 1,
+                  "explanation": "外務省によると、G7外相会合には、日本、カナダ、フランス、米国、英国、ドイツ、イタリアの外相と、EU（欧州連合）の上級代表が参加する。2026年11月の会合では、セッションによって、招待国やウクライナの外相も加わった。",
+                  "sources": [
+                    {
+                      "title": "茂木外務大臣のG7外相会合出席",
+                      "publisher": "外務省",
+                      "url": "https://www.mofa.go.jp/mofaj/press/release/pressit_000001_04435.html",
+                      "publishedOn": "2026-11-06",
+                      "retrievedOn": "2026-11-12"
+                    },
+                    {
+                      "title": "G7外相会合（セッション2：AI）",
+                      "publisher": "外務省",
+                      "url": "https://www.mofa.go.jp/mofaj/fp/pc/pageit_000001_00029.html",
+                      "publishedOn": "2026-11-09",
+                      "retrievedOn": "2026-11-12"
+                    },
+                    {
+                      "title": "G7外相会合（セッション4：ウクライナ支援）",
+                      "publisher": "外務省",
+                      "url": "https://www.mofa.go.jp/mofaj/fp/pc/pageit_000001_00031.html",
+                      "publishedOn": "2026-11-10",
+                      "retrievedOn": "2026-11-12"
+                    }
+                  ],
+                  "terms": [
+                    "g7"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "section": "shakai",
+          "stories": [
+            {
+              "id": "2026-11-13-shakai-01",
+              "headline": "消費支出、実質6.8%減",
+              "eventOn": "2026-11-10",
+              "body": "総務省は2026年11月10日、9月分の家計調査の結果を公表した。二人以上の世帯の消費支出は1世帯当たり28万9536円で、物価の動きの影響を除いた実質で、前の年の同じ月と比べて6.8%減った。名目では4.5%の減少だった。",
+              "sources": [
+                {
+                  "title": "家計調査報告 －2026年（令和8年）9月分－（2026年11月12日に9月分で確認）",
+                  "publisher": "総務省統計局",
+                  "url": "https://www.stat.go.jp/data/kakei/sokuhou/tsuki/pdf/fies_mr.pdf",
+                  "publishedOn": "2026-11-10",
+                  "retrievedOn": "2026-11-12"
+                }
+              ],
+              "terms": [
+                "meimoku-jisshitsu"
+              ],
+              "questions": [
+                {
+                  "id": "2026-11-13-shakai-01-q1",
+                  "kind": "truefalse",
+                  "level": 1,
+                  "prompt": "総務省が2026年11月10日に公表した家計調査で、9月の二人以上の世帯の消費支出は、実質で前の年の同じ月より減った。",
+                  "choices": [
+                    "○",
+                    "×"
+                  ],
+                  "answer": 0,
+                  "explanation": "9月の二人以上の世帯の消費支出は、1世帯当たり28万9536円。前の年の同じ月と比べて、実質で6.8%、名目で4.5%減った。家計調査は、総務省統計局が毎月行っている。",
+                  "terms": [
+                    "meimoku-jisshitsu"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "common": [
+        {
+          "number": 1,
+          "section": "joushiki",
+          "stories": [
+            {
+              "id": "2026-11-13-joushiki-01",
+              "headline": "ASEANの加盟国の数",
+              "sources": [
+                {
+                  "title": "ASEAN（東南アジア諸国連合）（2026年11月12日に確認）",
+                  "publisher": "外務省",
+                  "url": "https://www.mofa.go.jp/mofaj/area/asean/index.html",
+                  "retrievedOn": "2026-11-12"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "common-asean-001",
+                  "kind": "choice",
+                  "level": 2,
+                  "prompt": "外務省によると、2026年11月時点で、東南アジア諸国連合（ASEAN）の加盟国はいくつか。",
+                  "choices": [
+                    "5か国",
+                    "10か国",
+                    "11か国",
+                    "15か国"
+                  ],
+                  "answer": 2,
+                  "explanation": "外務省の説明（2026年11月12日に確認）では、ASEANは1967年の「バンコク宣言」で設立された。はじめはインドネシア、マレーシア、フィリピン、シンガポール、タイの5か国で、その後ブルネイ、ベトナム、ラオス、ミャンマー、カンボジア、東ティモールが加わり、11か国になった。",
+                  "terms": [
+                    "asean"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "2026-11-13-joushiki-02",
+              "headline": "条約を結ぶのは",
+              "sources": [
+                {
+                  "title": "日本国憲法（第73条）",
+                  "publisher": "e-Gov 法令検索（デジタル庁）",
+                  "url": "https://laws.e-gov.go.jp/law/321CONSTITUTION",
+                  "retrievedOn": "2026-11-12"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "common-jouyaku-001",
+                  "kind": "choice",
+                  "level": 1,
+                  "prompt": "日本国憲法で、条約を締結するとされているのはどれか。",
+                  "choices": [
+                    "内閣",
+                    "国会",
+                    "天皇",
+                    "最高裁判所"
+                  ],
+                  "answer": 0,
+                  "explanation": "日本国憲法第73条は、内閣の事務の一つに、条約を締結することを挙げる。ただし、事前に、時宜によっては事後に、国会の承認を経ることが必要と定める。"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-13-joushiki-03",
+              "headline": "恩赦を決めるのは",
+              "sources": [
+                {
+                  "title": "日本国憲法（第7条・第73条）",
+                  "publisher": "e-Gov 法令検索（デジタル庁）",
+                  "url": "https://laws.e-gov.go.jp/law/321CONSTITUTION",
+                  "retrievedOn": "2026-11-12"
+                },
+                {
+                  "title": "令和8年11月10日（火）定例閣議案件",
+                  "publisher": "首相官邸",
+                  "url": "https://www.kantei.go.jp/jp/kakugi/2026/kakugi-2026111001.html",
+                  "publishedOn": "2026-11-10",
+                  "retrievedOn": "2026-11-12"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "common-onsha-001",
+                  "kind": "truefalse",
+                  "level": 2,
+                  "prompt": "日本国憲法では、｜大赦《たいしゃ》や｜特赦《とくしゃ》などの｜恩赦《おんしゃ》は、国会が決定し、天皇が認証すると定められている。",
+                  "choices": [
+                    "○",
+                    "×"
+                  ],
+                  "answer": 1,
+                  "explanation": "決定するのは内閣。日本国憲法第73条は、内閣が行うこととして、大赦、特赦、減刑、刑の執行の免除及び復権を決定することを挙げる。第7条は、これらを認証することを、天皇の国事に関する行為とする。2026年11月10日の閣議でも、恩赦についての決定があった。"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-13-joushiki-04",
+              "headline": "衆議院の優越",
+              "sources": [
+                {
+                  "title": "日本国憲法（第60条・第61条・第67条・第96条）",
+                  "publisher": "e-Gov 法令検索（デジタル庁）",
+                  "url": "https://laws.e-gov.go.jp/law/321CONSTITUTION",
+                  "retrievedOn": "2026-11-12"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "common-shuugiin-yuuetsu-001",
+                  "kind": "multi",
+                  "level": 2,
+                  "prompt": "日本国憲法で、衆議院と参議院の議決が異なったときに、衆議院の議決が国会の議決になることがあるものを、すべて選べ。",
+                  "choices": [
+                    "予算の議決",
+                    "憲法改正の発議",
+                    "条約の締結に必要な国会の承認",
+                    "内閣総理大臣の指名"
+                  ],
+                  "answer": 0,
+                  "answers": [
+                    0,
+                    2,
+                    3
+                  ],
+                  "explanation": "予算（第60条）、条約の締結に必要な国会の承認（第61条）、内閣総理大臣の指名（第67条）では、両議院の議決が異なり、両院協議会を開いても意見が一致しないときなどに、衆議院の議決が国会の議決になる。憲法改正の発議（第96条）は、各議院の総議員の3分の2以上の賛成が必要で、衆議院の優越はない。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "quiz": [
+        "2026-11-13-sougou-01-q1",
+        "2026-11-13-sougou-01-q2",
+        "2026-11-13-sougou-01-q3",
+        "2026-11-13-kokusai-01-q1",
+        "2026-11-13-kokusai-01-q2",
+        "common-asean-001",
+        "2026-11-13-keizai-01-q1",
+        "2026-11-13-keizai-01-q2",
+        "common-onsha-001",
+        "2026-11-13-keizai-02-q1",
+        "2026-11-13-keizai-02-q2",
+        "2026-11-13-shakai-01-q1",
+        "common-jouyaku-001",
+        "common-shuugiin-yuuetsu-001"
+      ]
     }
   ],
   "common": [
@@ -4840,7 +5418,7 @@
         {
           "title": "伝統的工芸品産業の振興に関する法律（第2条。2026年10月23日に確認）",
           "publisher": "e-Gov 法令検索（デジタル庁）",
-          "url": "https://laws.e-gov.go.jp/law/349AC0000000057",
+          "url": "https://laws.e-gov.go.jp/law/349AC1000000057",
           "retrievedOn": "2026-10-23"
         }
       ]
@@ -5075,6 +5653,72 @@
           "publisher": "内閣府経済社会総合研究所",
           "url": "https://www.esri.cao.go.jp/jp/stat/di/di3.html",
           "retrievedOn": "2026-11-09"
+        }
+      ]
+    },
+    {
+      "id": "meimoku-jisshitsu",
+      "term": "名目と実質",
+      "definition": "名目値は、実際に市場で取り引きされている価格をもとにした値。実質値は、ある年からの物価の上がり下がりの分を取り除いた値。名目値は物価の変動の影響を受けるので、経済成長率は実質値で見ることが多い。",
+      "sources": [
+        {
+          "title": "名目値と実質値の違いは？（2026年11月10日に確認）",
+          "publisher": "内閣府 経済社会総合研究所",
+          "url": "https://www.esri.cao.go.jp/jp/sna/otoiawase/faq/qa1.html",
+          "retrievedOn": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": "osa",
+      "term": "OSA（政府安全保障能力強化支援）",
+      "definition": "同志国の安全保障上の必要に応えて、軍などに資機材の供与やインフラの整備などを行う、無償の資金協力の枠組み。開発途上国の経済社会開発を目的とする政府開発援助（ODA）とは別のもの。英語では Official Security Assistance と書く。",
+      "sources": [
+        {
+          "title": "政府安全保障能力強化支援（OSA：Official Security Assistance）（2026年11月12日に確認）",
+          "publisher": "外務省",
+          "url": "https://www.mofa.go.jp/mofaj/fp/ipc/page4_005828.html",
+          "retrievedOn": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "asean",
+      "term": "ASEAN",
+      "definition": "東南アジア諸国連合のこと。1967年の「バンコク宣言」で設立された、東南アジアの国々の地域協力の枠組み。英語では Association of Southeast Asian Nations と書く。",
+      "sources": [
+        {
+          "title": "ASEAN（東南アジア諸国連合）（2026年11月12日に確認）",
+          "publisher": "外務省",
+          "url": "https://www.mofa.go.jp/mofaj/area/asean/index.html",
+          "retrievedOn": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "keiki-watcher",
+      "term": "景気ウォッチャー調査・現状判断DI",
+      "definition": "内閣府が毎月行う調査。地域の景気に関係の深い動きを観察できる立場にある人々に、景気の現状と先行きを5段階で聞く。答えに「良くなっている」1点から「悪くなっている」0点までの点数を付け、答えの割合（%）に掛けて合計した値がDI。全員が「変わらない」と答えると50になる。",
+      "sources": [
+        {
+          "title": "景気ウォッチャー調査 令和8年10月調査結果",
+          "publisher": "内閣府",
+          "url": "https://www5.cao.go.jp/keizai3/2026/1110watcher/watcher1.pdf",
+          "publishedOn": "2026-11-10",
+          "retrievedOn": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "kigyou-bukka",
+      "term": "企業物価指数",
+      "definition": "企業の間で取引される財の価格の動きを表す指数。日本銀行が作成し、2020年の平均を100とする。国内で生産した国内向けの財を対象とする国内企業物価指数と、輸出物価指数、輸入物価指数がある。",
+      "sources": [
+        {
+          "title": "企業物価指数（2020年基準）の解説（2026年11月12日に確認）",
+          "publisher": "日本銀行",
+          "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
+          "retrievedOn": "2026-11-12"
         }
       ]
     }
