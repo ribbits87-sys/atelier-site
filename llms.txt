@@ -9,22 +9,26 @@ Haven Atelier（屋号 Haven）は、学ぶ人のことばで、試験と仕事�
 
 ## アプリ（Apps）
 
-- [ゲンバドリル（Genba Drill）](https://atelier.thehaven.jp/genbadrill/): 建設分野 特定技能1号評価試験（学科・実技）の学習アプリ。ふりがな付きの日本語で出題し、解説は4つの言語でも読めます。配信中: iPhone (App Store)。アプリの言語: 日本語, English, Tiếng Việt, Bahasa Indonesia, Tagalog。この内容のアプリの版: 1.4.1（2026-11-07）
+- [ゲンバドリル（Genba Drill）](https://atelier.thehaven.jp/genbadrill/): 建設分野 特定技能1号評価試験（学科・実技）の学習アプリ。ふりがな付きの日本語で出題し、解説は4つの言語でも読めます。配信中: iPhone (App Store)。アプリの言語: 日本語, English, Tiếng Việt, Bahasa Indonesia, Tagalog。この内容のアプリの版: 1.5.0（2026-11-13）
   - English: [Genba Drill](https://atelier.thehaven.jp/genbadrill/en/): Study app for the written and practical tests of Japan’s construction Specified Skilled Worker (i) exam. Questions in Japanese with furigana; explanations in four languages.
   - [Tiếng Việt](https://atelier.thehaven.jp/genbadrill/vi/) · [Bahasa Indonesia](https://atelier.thehaven.jp/genbadrill/id/) · [Tagalog](https://atelier.thehaven.jp/genbadrill/tl/)
   - 用語集（Glossary）: https://atelier.thehaven.jp/genbadrill/terms/
+  - 学科・実技の練習問題と試験の情報: https://atelier.thehaven.jp/genbadrill/practice/
   - App Store: https://apps.apple.com/app/apple-store/id6812208077?pt=129460558&mt=8&ct=web-llms-ja
-- [ドローンドリル（Drone Drill）](https://atelier.thehaven.jp/dronedrill/): ドローン国家資格（無人航空機操縦士 一等・二等）の学科試験対策アプリ。一等の計算問題は途中式まで解説します。配信中: iPhone (App Store)。アプリの言語: 日本語。この内容のアプリの版: 1.0.3（2026-11-10）
+- [ドローンドリル（Drone Drill）](https://atelier.thehaven.jp/dronedrill/): ドローン国家資格（無人航空機操縦士 一等・二等）の学科試験対策アプリ。一等の計算問題は途中式まで解説します。配信中: iPhone (App Store)。アプリの言語: 日本語。この内容のアプリの版: 1.0.4（2026-11-13）
   - English: Study app for Japan’s national drone pilot licence (first and second class) written exam. In Japanese.
+  - 学科試験の練習問題と試験の内容: https://atelier.thehaven.jp/dronedrill/practice/
   - App Store: https://apps.apple.com/jp/app/apple-store/id6823422777?pt=129460558&mt=8&ct=web-llms-ja
 - [カイゴドリル（Kaigo Drill）](https://atelier.thehaven.jp/kaigodrill/): 介護特定技能評価試験（技能）の学習アプリ。問題を母語で解きながら、現場の日本語もふりがな付きで覚えられます。配信中: iPhone (App Store)。アプリの言語: Bahasa Indonesia, မြန်မာဘာသာ, नेपाली, English, 日本語。この内容のアプリの版: 1.5.0（2026-11-09）
   - English: [Kaigo Drill](https://atelier.thehaven.jp/kaigodrill/en/): Study app for the Long-Term Care Specified Skilled Worker skill evaluation test. Questions in your own language, with the Japanese used on the job alongside.
   - [Bahasa Indonesia](https://atelier.thehaven.jp/kaigodrill/id/) · [မြန်မာဘာသာ](https://atelier.thehaven.jp/kaigodrill/my/)
   - 用語集（Glossary）: https://atelier.thehaven.jp/kaigodrill/terms/
+  - 介護特定技能評価試験の練習問題と試験の情報: https://atelier.thehaven.jp/kaigodrill/practice/
   - App Store: https://apps.apple.com/app/apple-store/id6825134239?pt=129460558&mt=8&ct=web-llms-ja
 - [キリカエドリル（Kirikae Drill）](https://atelier.thehaven.jp/kirikaedrill/): 外国の運転免許を日本の免許に切り替える（外免切替）ときの、知識確認の対策アプリ。配信中: iPhone (App Store)。アプリの言語: 日本語, English, Tiếng Việt, 简体中文。この内容のアプリの版: 1.0.1（2026-11-05）
   - English: [Kirikae Drill](https://atelier.thehaven.jp/kirikaedrill/en/): A study app for the knowledge test when converting a foreign driver’s license to a Japanese one (gaimen kirikae)
   - [Tiếng Việt](https://atelier.thehaven.jp/kirikaedrill/vi/) · [简体中文](https://atelier.thehaven.jp/kirikaedrill/zh-hans/)
+  - 知識確認の練習問題と試験の情報: https://atelier.thehaven.jp/kirikaedrill/practice/
   - App Store: https://apps.apple.com/jp/app/apple-store/id6827897731?pt=129460558&mt=8&ct=web-llms-ja
 - [ニュースドリル（News Drill）](https://atelier.thehaven.jp/newsdrill/): 公務員試験の時事に向けた基礎力を付けるクイズアプリ。火曜と金曜の朝に新しい号が届きます。配信中: iPhone (App Store)。アプリの言語: 日本語。この内容のアプリの版: 1.0（2026-11-07）
   - English: A quiz app for building the current-affairs foundation for Japan’s civil service exams, with a new issue every Tuesday and Friday morning. In Japanese.

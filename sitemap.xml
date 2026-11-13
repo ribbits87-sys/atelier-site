@@ -5431,6 +5431,9 @@
     <xhtml:link rel="alternate" hreflang="tl" href="https://atelier.thehaven.jp/genbadrill/tl/terms/eiseikigusetsubikoji/"/>
   </url>
   <url>
+    <loc>https://atelier.thehaven.jp/genbadrill/practice/</loc>
+  </url>
+  <url>
     <loc>https://atelier.thehaven.jp/genbadrill/privacy/</loc>
   </url>
   <url>
@@ -5438,6 +5441,9 @@
   </url>
   <url>
     <loc>https://atelier.thehaven.jp/dronedrill/</loc>
+  </url>
+  <url>
+    <loc>https://atelier.thehaven.jp/dronedrill/practice/</loc>
   </url>
   <url>
     <loc>https://atelier.thehaven.jp/dronedrill/privacy/</loc>
@@ -6849,6 +6855,9 @@
     <xhtml:link rel="alternate" hreflang="my" href="https://atelier.thehaven.jp/kaigodrill/my/terms/eiseigakutekitearai/"/>
   </url>
   <url>
+    <loc>https://atelier.thehaven.jp/kaigodrill/practice/</loc>
+  </url>
+  <url>
     <loc>https://atelier.thehaven.jp/kaigodrill/privacy/</loc>
   </url>
   <url>
@@ -6881,6 +6890,9 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://atelier.thehaven.jp/kirikaedrill/en/"/>
     <xhtml:link rel="alternate" hreflang="vi" href="https://atelier.thehaven.jp/kirikaedrill/vi/"/>
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://atelier.thehaven.jp/kirikaedrill/zh-hans/"/>
+  </url>
+  <url>
+    <loc>https://atelier.thehaven.jp/kirikaedrill/practice/</loc>
   </url>
   <url>
     <loc>https://atelier.thehaven.jp/kirikaedrill/privacy/</loc>
