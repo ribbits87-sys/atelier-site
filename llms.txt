@@ -28,6 +28,7 @@ Haven Atelier（屋号 Haven）は、学ぶ人のことばで、試験と仕事�
   - App Store: https://apps.apple.com/jp/app/apple-store/id6827897731?pt=129460558&mt=8&ct=web-llms-ja
 - [ニュースドリル（News Drill）](https://atelier.thehaven.jp/newsdrill/): 公務員試験の時事に向けた基礎力を付けるクイズアプリ。火曜と金曜の朝に新しい号が届きます。配信中: iPhone (App Store)。アプリの言語: 日本語。この内容のアプリの版: 1.0（2026-11-07）
   - English: A quiz app for building the current-affairs foundation for Japan’s civil service exams, with a new issue every Tuesday and Friday morning. In Japanese.
+  - 時事問題の見本と公務員試験の時事: https://atelier.thehaven.jp/newsdrill/practice/
   - App Store: https://apps.apple.com/jp/app/apple-store/id6825801837?pt=129460558&mt=8&ct=web-llms-ja
 
 ## 運営者（About）
