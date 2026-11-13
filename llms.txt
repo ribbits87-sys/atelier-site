@@ -25,7 +25,7 @@ Haven Atelier（屋号 Haven）は、学ぶ人のことばで、試験と仕事�
   - 用語集（Glossary）: https://atelier.thehaven.jp/kaigodrill/terms/
   - 介護特定技能評価試験の練習問題と試験の情報: https://atelier.thehaven.jp/kaigodrill/practice/
   - App Store: https://apps.apple.com/app/apple-store/id6825134239?pt=129460558&mt=8&ct=web-llms-ja
-- [キリカエドリル（Kirikae Drill）](https://atelier.thehaven.jp/kirikaedrill/): 外国の運転免許を日本の免許に切り替える（外免切替）ときの、知識確認の対策アプリ。配信中: iPhone (App Store)。アプリの言語: 日本語, English, Tiếng Việt, 简体中文。この内容のアプリの版: 1.0.1（2026-11-05）
+- [キリカエドリル（Kirikae Drill）](https://atelier.thehaven.jp/kirikaedrill/): 外国の運転免許を日本の免許に切り替える（外免切替）ときの、知識確認の対策アプリ。配信中: iPhone (App Store)。アプリの言語: 日本語, English, Tiếng Việt, 简体中文。この内容のアプリの版: 1.0.2（2026-11-13）
   - English: [Kirikae Drill](https://atelier.thehaven.jp/kirikaedrill/en/): A study app for the knowledge test when converting a foreign driver’s license to a Japanese one (gaimen kirikae)
   - [Tiếng Việt](https://atelier.thehaven.jp/kirikaedrill/vi/) · [简体中文](https://atelier.thehaven.jp/kirikaedrill/zh-hans/)
   - 知識確認の練習問題と試験の情報: https://atelier.thehaven.jp/kirikaedrill/practice/
