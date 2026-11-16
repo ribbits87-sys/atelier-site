@@ -15,7 +15,7 @@ Haven Atelier（屋号 Haven）は、学ぶ人のことばで、試験と仕事�
   - 用語集（Glossary）: https://atelier.thehaven.jp/genbadrill/terms/
   - 学科・実技の練習問題と試験の情報: https://atelier.thehaven.jp/genbadrill/practice/
   - App Store: https://apps.apple.com/app/apple-store/id6812208077?pt=129460558&mt=8&ct=web-llms-ja
-- [ドローンドリル（Drone Drill）](https://atelier.thehaven.jp/dronedrill/): ドローン国家資格（無人航空機操縦士 一等・二等）の学科試験対策アプリ。一等の計算問題は途中式まで解説します。配信中: iPhone (App Store)。アプリの言語: 日本語。この内容のアプリの版: 1.0.4（2026-11-13）
+- [ドローンドリル（Drone Drill）](https://atelier.thehaven.jp/dronedrill/): ドローン国家資格（無人航空機操縦士 一等・二等）の学科試験対策アプリ。一等の計算問題は途中式まで解説します。配信中: iPhone (App Store)。アプリの言語: 日本語。この内容のアプリの版: 1.0.5（2026-11-14）
   - English: Study app for Japan’s national drone pilot licence (first and second class) written exam. In Japanese.
   - 学科試験の練習問題と試験の内容: https://atelier.thehaven.jp/dronedrill/practice/
   - App Store: https://apps.apple.com/jp/app/apple-store/id6823422777?pt=129460558&mt=8&ct=web-llms-ja
