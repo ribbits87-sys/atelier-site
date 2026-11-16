@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "generatedAt": "2026-11-13T00:35:11+09:00",
+  "generatedAt": "2026-11-16T15:35:25+09:00",
   "issues": [
     {
       "id": "2026-10-23-fri",
@@ -3690,6 +3690,492 @@
         "2026-11-13-shakai-01-q1",
         "common-jouyaku-001",
         "common-shuugiin-yuuetsu-001"
+      ]
+    },
+    {
+      "id": "2026-11-17-tue",
+      "number": 8,
+      "kind": "regular",
+      "publishAt": "2026-11-17T06:30:00+09:00",
+      "covers": {
+        "from": "2026-11-13",
+        "to": "2026-11-16"
+      },
+      "common": [
+        {
+          "number": 1,
+          "section": "joushiki",
+          "stories": [
+            {
+              "id": "2026-11-17-joushiki-01",
+              "headline": "純輸出とは",
+              "sources": [
+                {
+                  "title": "2026年7～9月期四半期別GDP速報（1次速報値）",
+                  "publisher": "内閣府経済社会総合研究所",
+                  "url": "https://www.esri.cao.go.jp/jp/sna/data/data_list/sokuhou/files/2026/qe263/pdf/gaiyou2631.pdf",
+                  "publishedOn": "2026-11-16",
+                  "retrievedOn": "2026-11-16"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "common-junyushutsu-001",
+                  "kind": "choice",
+                  "level": 1,
+                  "prompt": "内閣府の四半期別GDP速報で、「財貨・サービスの純輸出」とは何を指すか。",
+                  "choices": [
+                    "輸出から輸入を引いたもの",
+                    "輸出と輸入を足したもの",
+                    "輸入から輸出を引いたもの",
+                    "輸出を輸入で割ったもの"
+                  ],
+                  "answer": 0,
+                  "explanation": "内閣府の四半期別GDP速報（2026年11月16日公表）は、財貨・サービスの純輸出を「輸出−輸入」と説明している。GDPの成長率は、国内需要（内需）と純輸出の寄与度に分けて示される。"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-17-joushiki-02",
+              "headline": "指定都市の人口",
+              "sources": [
+                {
+                  "title": "地方自治法（第252条の19）",
+                  "publisher": "e-Gov 法令検索（デジタル庁）",
+                  "url": "https://laws.e-gov.go.jp/law/322AC0000000067",
+                  "retrievedOn": "2026-11-16"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "common-shiteitoshi-001",
+                  "kind": "choice",
+                  "level": 1,
+                  "prompt": "2026年11月時点の地方自治法で、指定都市は、政令で指定する人口何万以上の市とされているか。",
+                  "choices": [
+                    "20万以上",
+                    "30万以上",
+                    "50万以上",
+                    "100万以上"
+                  ],
+                  "answer": 2,
+                  "explanation": "地方自治法第252条の19は、政令で指定する人口50万以上の市を「指定都市」とし、都道府県が処理する事務の一部を処理できると定める。"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-17-joushiki-03",
+              "headline": "国連の専門機関",
+              "sources": [
+                {
+                  "title": "UN System（2026年11月16日に確認）",
+                  "publisher": "国際連合",
+                  "url": "https://www.un.org/en/about-us/un-system",
+                  "retrievedOn": "2026-11-16"
+                },
+                {
+                  "title": "専門機関および関連機関（2026年11月16日に確認）",
+                  "publisher": "国際連合広報センター",
+                  "url": "https://www.unic.or.jp/info/un/unsystem/specialized_agencies/",
+                  "retrievedOn": "2026-11-16"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "common-un-senmonkikan-001",
+                  "kind": "multi",
+                  "level": 2,
+                  "prompt": "国際連合の説明（2026年11月16日に確認）で、国連の「専門機関」とされているものを、すべて選べ。",
+                  "choices": [
+                    "国際労働機関（ILO）",
+                    "国連児童基金（UNICEF）",
+                    "世界保健機関（WHO）",
+                    "国際原子力機関（IAEA）",
+                    "国連教育科学文化機関（UNESCO）"
+                  ],
+                  "answer": 0,
+                  "answers": [
+                    0,
+                    2,
+                    4
+                  ],
+                  "explanation": "国際連合の説明（2026年11月16日に確認）では、ILO、WHO、UNESCOは専門機関とされている。UNICEFは「基金と計画」、IAEAは「関連機関」に分けられている。"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-17-joushiki-04",
+              "headline": "長と議員を選ぶのは",
+              "sources": [
+                {
+                  "title": "日本国憲法（第67条・第93条）",
+                  "publisher": "e-Gov 法令検索（デジタル庁）",
+                  "url": "https://laws.e-gov.go.jp/law/321CONSTITUTION",
+                  "retrievedOn": "2026-11-16"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "common-chihou-chokusetsu-001",
+                  "kind": "truefalse",
+                  "level": 1,
+                  "prompt": "日本国憲法では、地方公共団体の長は、その地方公共団体の議会が、議員の中から指名すると定められている。",
+                  "choices": [
+                    "○",
+                    "×"
+                  ],
+                  "answer": 1,
+                  "explanation": "日本国憲法第93条は、地方公共団体の長と議会の議員は、その地方公共団体の住民が直接選挙すると定める。国会議員の中から国会の議決で指名するのは、内閣総理大臣である（第67条）。"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-17-joushiki-05",
+              "headline": "知事と市町村長の被選挙権",
+              "sources": [
+                {
+                  "title": "公職選挙法（第10条）",
+                  "publisher": "e-Gov 法令検索（デジタル庁）",
+                  "url": "https://laws.e-gov.go.jp/law/325AC1000000100",
+                  "retrievedOn": "2026-11-16"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "common-hisenkyoken-001",
+                  "kind": "compare",
+                  "level": 2,
+                  "prompt": "2026年11月時点の公職選挙法で、被選挙権を持つ年齢（立候補できる年齢）が高いのはどちらか。",
+                  "choices": [
+                    "都道府県知事",
+                    "市町村長"
+                  ],
+                  "answer": 0,
+                  "explanation": "公職選挙法第10条は、都道府県知事の被選挙権を年齢満30年以上、市町村長の被選挙権を年齢満25年以上の者に認めている。"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-17-joushiki-06",
+              "headline": "長の解職の請求",
+              "sources": [
+                {
+                  "title": "地方自治法（第76条・第81条・第83条）",
+                  "publisher": "e-Gov 法令検索（デジタル庁）",
+                  "url": "https://laws.e-gov.go.jp/law/322AC0000000067",
+                  "retrievedOn": "2026-11-16"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "common-kaishoku-001",
+                  "kind": "choice",
+                  "level": 2,
+                  "prompt": "2026年11月時点の地方自治法で、住民が必要な数の署名を集めて、長（知事や市町村長）の解職を請求したとき、長がその職を失うのはどの場合か。",
+                  "choices": [
+                    "議会で、出席した議員の3分の2以上が賛成したとき",
+                    "総務大臣が、解職を認めたとき",
+                    "選挙人の投票で、過半数の同意があったとき",
+                    "選挙管理委員会が、全員一致で議決したとき"
+                  ],
+                  "answer": 2,
+                  "explanation": "地方自治法は、長の解職の請求があったとき、選挙管理委員会がこれを選挙人の投票に付すと定める（第81条が第76条第3項を準用）。第83条は、この投票で過半数の同意があったとき、長はその職を失うと定める。"
+                }
+              ]
+            },
+            {
+              "id": "2026-11-17-joushiki-07",
+              "headline": "地方自治のしくみ",
+              "sources": [
+                {
+                  "title": "日本国憲法（第94条・第95条）",
+                  "publisher": "e-Gov 法令検索（デジタル庁）",
+                  "url": "https://laws.e-gov.go.jp/law/321CONSTITUTION",
+                  "retrievedOn": "2026-11-16"
+                },
+                {
+                  "title": "地方自治法（第14条・第93条・第96条・第162条・第167条・第178条）",
+                  "publisher": "e-Gov 法令検索（デジタル庁）",
+                  "url": "https://laws.e-gov.go.jp/law/322AC0000000067",
+                  "retrievedOn": "2026-11-16"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "common-chihoujichi-shikumi-001",
+                  "kind": "choice",
+                  "level": 3,
+                  "prompt": "2026年11月時点の日本国憲法と地方自治法で、地方自治のしくみに関する記述として、最も妥当なのはどれか。",
+                  "choices": [
+                    "地方公共団体は、法律の範囲内で条例を制定できる。地方自治法では、条例に罰則を設けることはできないとされている。",
+                    "一つの地方公共団体だけに適用される特別法は、その地方公共団体の議会の同意があれば、国会が制定できる。",
+                    "副知事は、知事を補佐する。地方自治法では、副知事は、住民の直接選挙で選ばれるとされている。",
+                    "地方公共団体の議会の議員の任期は、地方自治法で6年とされている。条例は、議会の議決で制定される。",
+                    "議会は、長の不信任の議決ができる。この議決の通知を受けた長は、10日以内に議会を解散することができる。"
+                  ],
+                  "answer": 4,
+                  "explanation": "地方自治法第178条は、議会が長の不信任の議決をしたとき、長は通知を受けた日から10日以内に議会を解散できると定める。条例には罰則を設けられる（第14条）。特別法には、住民の投票で過半数の同意が要る（憲法第95条）。副知事は、長が議会の同意を得て選任する（第162条）。議員の任期は4年（第93条）。"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "quiz": [
+        "2026-11-17-sougou-01-q1",
+        "common-junyushutsu-001",
+        "2026-11-17-sougou-01-q2",
+        "2026-11-17-seiji-01-q1",
+        "2026-11-17-seiji-01-q2",
+        "common-shiteitoshi-001",
+        "2026-11-17-kokusai-01-q1",
+        "2026-11-17-kokusai-01-q2",
+        "common-un-senmonkikan-001",
+        "common-kaishoku-001",
+        "common-hisenkyoken-001",
+        "common-chihou-chokusetsu-001",
+        "common-chihoujichi-shikumi-001",
+        "2026-11-17-sougou-01-q3"
+      ],
+      "pages": [
+        {
+          "number": 1,
+          "section": "sougou",
+          "stories": [
+            {
+              "id": "2026-11-17-sougou-01",
+              "headline": "GDP、年率0.1%減",
+              "eventOn": "2026-11-16",
+              "field": "keizai",
+              "body": "内閣府は2026年11月16日、2026年7〜9月期のGDP（国内総生産）の1次速報を公表した。実質GDPの成長率は、前の期と比べてマイナス0.0%、年率に直すとマイナス0.1%だった。名目GDPの成長率は、前の期と比べて0.4%、年率で1.6%のプラスだった。",
+              "sources": [
+                {
+                  "title": "2026年7～9月期四半期別GDP速報（1次速報値）",
+                  "publisher": "内閣府経済社会総合研究所",
+                  "url": "https://www.esri.cao.go.jp/jp/sna/data/data_list/sokuhou/files/2026/qe263/pdf/gaiyou2631.pdf",
+                  "publishedOn": "2026-11-16",
+                  "retrievedOn": "2026-11-16"
+                }
+              ],
+              "terms": [
+                "gdp",
+                "meimoku-jisshitsu"
+              ],
+              "questions": [
+                {
+                  "id": "2026-11-17-sougou-01-q1",
+                  "kind": "truefalse",
+                  "level": 1,
+                  "prompt": "内閣府が2026年11月16日に公表した2026年7〜9月期のGDP（国内総生産）の1次速報で、実質GDPの成長率は、年率でプラスだった。",
+                  "choices": [
+                    "○",
+                    "×"
+                  ],
+                  "answer": 1,
+                  "explanation": "実質GDPの成長率（季節調整済み、前期比）は、マイナス0.0%、年率に直すとマイナス0.1%だった。内閣府の資料では、マイナスを示す「▲」の印が付いている。",
+                  "terms": [
+                    "gdp"
+                  ]
+                },
+                {
+                  "id": "2026-11-17-sougou-01-q2",
+                  "kind": "compare",
+                  "level": 2,
+                  "prompt": "内閣府が2026年11月16日に公表した2026年7〜9月期のGDPの1次速報で、実質GDPの成長率への寄与度がプラスだったのはどちらか。",
+                  "choices": [
+                    "国内需要（内需）",
+                    "財貨・サービスの純輸出（外需）"
+                  ],
+                  "answer": 0,
+                  "explanation": "実質GDPの成長率への寄与度は、国内需要（内需）がプラス0.6ポイント、財貨・サービスの純輸出がマイナス0.6ポイントだった。寄与度は、どの需要がGDPをどれだけ増加させたかを示す。"
+                },
+                {
+                  "id": "2026-11-17-sougou-01-q3",
+                  "kind": "choice",
+                  "level": 3,
+                  "prompt": "内閣府が2026年11月16日に公表した2026年7〜9月期のGDPの1次速報とその背景に関する記述として、最も妥当なのはどれか。",
+                  "choices": [
+                    "名目GDPは、前の期と比べて0.4%減った。名目値は、実際に市場で取り引きされている価格をもとにした値である。",
+                    "実質の民間最終消費支出は、前の期と比べて0.3%減った。実質値は、物価の上がり下がりの分を取り除いた値である。",
+                    "実質の民間企業設備は、前の期と比べて1.6%減った。GDPは、国内総生産のことで、英語では Gross Domestic Product と書く。",
+                    "実質の公的固定資本形成は、前の期と比べて1.1%増えた。寄与度は、どの需要がGDPをどれだけ増加させたかを示す。",
+                    "実質の民間住宅は、前の期と比べて1.1%増えた。四半期別GDP速報は、内閣府が年に8回公表している。"
+                  ],
+                  "answer": 1,
+                  "explanation": "実質の民間最終消費支出は、前の期と比べて0.3%減った。名目GDPは0.4%増えた。実質の民間企業設備は1.6%増えた。実質の公的固定資本形成と実質の民間住宅は、どちらも1.1%減った。どの選択肢も、2つめの文は正しい。",
+                  "sources": [
+                    {
+                      "title": "2026年7～9月期四半期別GDP速報（1次速報値）",
+                      "publisher": "内閣府経済社会総合研究所",
+                      "url": "https://www.esri.cao.go.jp/jp/sna/data/data_list/sokuhou/files/2026/qe263/pdf/gaiyou2631.pdf",
+                      "publishedOn": "2026-11-16",
+                      "retrievedOn": "2026-11-16"
+                    },
+                    {
+                      "title": "名目値と実質値の違いは？（2026年11月10日に確認）",
+                      "publisher": "内閣府 経済社会総合研究所",
+                      "url": "https://www.esri.cao.go.jp/jp/sna/otoiawase/faq/qa1.html",
+                      "retrievedOn": "2026-11-10"
+                    },
+                    {
+                      "title": "国民経済計算とは（2026年11月9日に確認）",
+                      "publisher": "内閣府 経済社会総合研究所",
+                      "url": "https://www.esri.cao.go.jp/jp/sna/contents/sna.html",
+                      "retrievedOn": "2026-11-09"
+                    }
+                  ],
+                  "terms": [
+                    "gdp",
+                    "meimoku-jisshitsu"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "section": "seiji",
+          "stories": [
+            {
+              "id": "2026-11-17-seiji-01",
+              "headline": "統一地方選の期日決まる",
+              "eventOn": "2026-11-11",
+              "body": "2027年春の統一地方選挙の期日を定める特例法が、2026年11月11日の参議院本会議で、全会一致で可決され、成立した。原則として、都道府県と指定都市の議会の議員と長の選挙は2027年4月11日、そのほかの市、町村、特別区の選挙は4月25日に行う。政府は11月13日の閣議で、この法律の公布を決めた。",
+              "sources": [
+                {
+                  "title": "議案情報 第222回国会 地方公共団体の議会の議員及び長の選挙期日等の臨時特例に関する法律案（令和8年11月11日現在）",
+                  "publisher": "参議院",
+                  "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/222/meisai/m222080222016.htm",
+                  "retrievedOn": "2026-11-16"
+                },
+                {
+                  "title": "地方公共団体の議会の議員及び長の選挙期日等の臨時特例に関する法律案（閣法第16号）要旨",
+                  "publisher": "参議院",
+                  "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/222/pdf/580222160.pdf",
+                  "retrievedOn": "2026-11-16"
+                },
+                {
+                  "title": "地方公共団体の議会の議員及び長の選挙期日等の臨時特例に関する法律案（第222回国会 閣第16号）",
+                  "publisher": "参議院",
+                  "url": "https://www.sangiin.go.jp/japanese/joho1/kousei/gian/222/pdf/t0802220162220.pdf",
+                  "retrievedOn": "2026-11-16"
+                },
+                {
+                  "title": "令和8年11月13日（金）定例閣議案件",
+                  "publisher": "首相官邸",
+                  "url": "https://www.kantei.go.jp/jp/kakugi/2026/kakugi-2026111301.html",
+                  "publishedOn": "2026-11-13",
+                  "retrievedOn": "2026-11-16"
+                }
+              ],
+              "questions": [
+                {
+                  "id": "2026-11-17-seiji-01-q1",
+                  "kind": "choice",
+                  "level": 1,
+                  "prompt": "2026年11月11日に成立した特例法で、2027年春の統一地方選挙のうち、都道府県と指定都市の議会の議員と長の選挙の期日とされたのはいつか。",
+                  "choices": [
+                    "2027年3月28日",
+                    "2027年4月11日",
+                    "2027年5月9日",
+                    "2027年6月13日"
+                  ],
+                  "answer": 1,
+                  "explanation": "特例法は、2027年3月から5月までの間に任期が満了する地方公共団体の議会の議員と長の選挙の期日を、原則として、法律で決めた日にそろえる。都道府県と指定都市の選挙は、2027年4月11日とされた。法律は、2026年11月11日の参議院本会議で、全会一致で可決された。"
+                },
+                {
+                  "id": "2026-11-17-seiji-01-q2",
+                  "kind": "truefalse",
+                  "level": 2,
+                  "prompt": "2026年11月11日に成立した、2027年春の統一地方選挙の期日を定める特例法では、指定都市以外の市、町村、特別区の選挙は、都道府県の選挙より後の日に行うとされた。",
+                  "choices": [
+                    "○",
+                    "×"
+                  ],
+                  "answer": 0,
+                  "explanation": "都道府県と指定都市の選挙は2027年4月11日、指定都市以外の市、町村、特別区の選挙は、その2週間後の4月25日とされた。参議院の資料では、期日を統一するのは、地方選挙への国民の関心を高め、選挙を円滑かつ効率的に行うためとしている。"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "section": "kokusai",
+          "stories": [
+            {
+              "id": "2026-11-17-kokusai-01",
+              "headline": "ITU局長に尾上氏再選",
+              "eventOn": "2026-11-13",
+              "body": "カタールのドーハでの国際電気通信連合（ITU）の全権委員会議で、現地時間の2026年11月13日、電気通信標準化局長の選挙が行われた。日本から立候補した｜尾上《おのえ》｜誠蔵《せいぞう》氏が再選された。尾上氏は、2023年に電気通信標準化局長に就いた。",
+              "sources": [
+                {
+                  "title": "尾上国際電気通信連合（ITU）電気通信標準化局長の再選",
+                  "publisher": "外務省",
+                  "url": "https://www.mofa.go.jp/mofaj/press/release/press1_001661.html",
+                  "publishedOn": "2026-11-14",
+                  "retrievedOn": "2026-11-16"
+                },
+                {
+                  "title": "国際電気通信連合（ITU）（2026年11月16日に確認）",
+                  "publisher": "外務省",
+                  "url": "https://www.mofa.go.jp/mofaj/gaiko/page22_000757.html",
+                  "retrievedOn": "2026-11-16"
+                }
+              ],
+              "terms": [
+                "itu"
+              ],
+              "questions": [
+                {
+                  "id": "2026-11-17-kokusai-01-q1",
+                  "kind": "choice",
+                  "level": 1,
+                  "prompt": "現地時間の2026年11月13日、カタールのドーハでの全権委員会議で行われた局長の選挙で、日本から立候補した｜尾上《おのえ》｜誠蔵《せいぞう》氏が再選された国際機関はどれか。",
+                  "choices": [
+                    "万国郵便連合（UPU）",
+                    "世界知的所有権機関（WIPO）",
+                    "国際民間航空機関（ICAO）",
+                    "国際電気通信連合（ITU）"
+                  ],
+                  "answer": 3,
+                  "explanation": "外務省によると、現地時間の2026年11月13日、国際電気通信連合（ITU）の全権委員会議で電気通信標準化局長の選挙が行われ、尾上誠蔵氏が再選された。全権委員会議は、ITUの最高機関で、4年ごとに開かれる。",
+                  "sources": [
+                    {
+                      "title": "尾上国際電気通信連合（ITU）電気通信標準化局長の再選",
+                      "publisher": "外務省",
+                      "url": "https://www.mofa.go.jp/mofaj/press/release/press1_001661.html",
+                      "publishedOn": "2026-11-14",
+                      "retrievedOn": "2026-11-16"
+                    },
+                    {
+                      "title": "国際電気通信連合（ITU）（2026年11月16日に確認）",
+                      "publisher": "外務省",
+                      "url": "https://www.mofa.go.jp/mofaj/gaiko/page22_000757.html",
+                      "retrievedOn": "2026-11-16"
+                    }
+                  ]
+                },
+                {
+                  "id": "2026-11-17-kokusai-01-q2",
+                  "kind": "truefalse",
+                  "level": 2,
+                  "prompt": "外務省の説明（2026年11月16日に確認）では、国際電気通信連合（ITU）は、国際的な周波数の分配や電気通信の標準化などを主な任務とする、国連の専門機関である。",
+                  "choices": [
+                    "○",
+                    "×"
+                  ],
+                  "answer": 0,
+                  "explanation": "外務省は、ITUを、国際的な周波数の分配、電気通信の標準化、途上国に対する電気通信の開発支援を主要任務とする国連専門機関と説明している。2026年11月13日には、その電気通信標準化局長に、日本の｜尾上《おのえ》｜誠蔵《せいぞう》氏が再選された。",
+                  "terms": [
+                    "itu"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
       ]
     }
   ],
@@ -14895,6 +15381,25 @@
           "publisher": "日本銀行",
           "url": "https://www.boj.or.jp/statistics/outline/exp/pi/cgpi_2020/excgpi20a.pdf",
           "retrievedOn": "2026-11-12"
+        }
+      ]
+    },
+    {
+      "id": "itu",
+      "term": "ITU",
+      "definition": "国際電気通信連合のこと。英語では International Telecommunication Union と書く。電気通信（有線通信と無線通信）の利用についての国際的な秩序づくりに貢献する、国連の専門機関。",
+      "sources": [
+        {
+          "title": "国際電気通信連合（ITU）（2026年11月16日に確認）",
+          "publisher": "外務省",
+          "url": "https://www.mofa.go.jp/mofaj/gaiko/page22_000757.html",
+          "retrievedOn": "2026-11-16"
+        },
+        {
+          "title": "UN System（2026年11月16日に確認）",
+          "publisher": "国際連合",
+          "url": "https://www.un.org/en/about-us/un-system",
+          "retrievedOn": "2026-11-16"
         }
       ]
     }
