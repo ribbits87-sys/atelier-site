@@ -13843,6 +13843,31 @@
   </url>
   <url>
     <loc>https://atelier.thehaven.jp/kaigodrill/practice/</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://atelier.thehaven.jp/kaigodrill/practice/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://atelier.thehaven.jp/kaigodrill/en/practice/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://atelier.thehaven.jp/kaigodrill/id/practice/"/>
+    <xhtml:link rel="alternate" hreflang="my" href="https://atelier.thehaven.jp/kaigodrill/my/practice/"/>
+  </url>
+  <url>
+    <loc>https://atelier.thehaven.jp/kaigodrill/en/practice/</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://atelier.thehaven.jp/kaigodrill/practice/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://atelier.thehaven.jp/kaigodrill/en/practice/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://atelier.thehaven.jp/kaigodrill/id/practice/"/>
+    <xhtml:link rel="alternate" hreflang="my" href="https://atelier.thehaven.jp/kaigodrill/my/practice/"/>
+  </url>
+  <url>
+    <loc>https://atelier.thehaven.jp/kaigodrill/id/practice/</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://atelier.thehaven.jp/kaigodrill/practice/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://atelier.thehaven.jp/kaigodrill/en/practice/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://atelier.thehaven.jp/kaigodrill/id/practice/"/>
+    <xhtml:link rel="alternate" hreflang="my" href="https://atelier.thehaven.jp/kaigodrill/my/practice/"/>
+  </url>
+  <url>
+    <loc>https://atelier.thehaven.jp/kaigodrill/my/practice/</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://atelier.thehaven.jp/kaigodrill/practice/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://atelier.thehaven.jp/kaigodrill/en/practice/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://atelier.thehaven.jp/kaigodrill/id/practice/"/>
+    <xhtml:link rel="alternate" hreflang="my" href="https://atelier.thehaven.jp/kaigodrill/my/practice/"/>
   </url>
   <url>
     <loc>https://atelier.thehaven.jp/kaigodrill/privacy/</loc>
