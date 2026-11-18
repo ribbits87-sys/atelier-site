@@ -5432,6 +5432,21 @@
   </url>
   <url>
     <loc>https://atelier.thehaven.jp/genbadrill/practice/</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://atelier.thehaven.jp/genbadrill/practice/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://atelier.thehaven.jp/genbadrill/en/practice/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://atelier.thehaven.jp/genbadrill/vi/practice/"/>
+  </url>
+  <url>
+    <loc>https://atelier.thehaven.jp/genbadrill/en/practice/</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://atelier.thehaven.jp/genbadrill/practice/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://atelier.thehaven.jp/genbadrill/en/practice/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://atelier.thehaven.jp/genbadrill/vi/practice/"/>
+  </url>
+  <url>
+    <loc>https://atelier.thehaven.jp/genbadrill/vi/practice/</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://atelier.thehaven.jp/genbadrill/practice/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://atelier.thehaven.jp/genbadrill/en/practice/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://atelier.thehaven.jp/genbadrill/vi/practice/"/>
   </url>
   <url>
     <loc>https://atelier.thehaven.jp/genbadrill/privacy/</loc>
