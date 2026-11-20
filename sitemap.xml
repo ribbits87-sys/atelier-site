@@ -13905,6 +13905,31 @@
   </url>
   <url>
     <loc>https://atelier.thehaven.jp/kirikaedrill/practice/</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://atelier.thehaven.jp/kirikaedrill/practice/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://atelier.thehaven.jp/kirikaedrill/en/practice/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://atelier.thehaven.jp/kirikaedrill/vi/practice/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://atelier.thehaven.jp/kirikaedrill/zh-hans/practice/"/>
+  </url>
+  <url>
+    <loc>https://atelier.thehaven.jp/kirikaedrill/en/practice/</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://atelier.thehaven.jp/kirikaedrill/practice/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://atelier.thehaven.jp/kirikaedrill/en/practice/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://atelier.thehaven.jp/kirikaedrill/vi/practice/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://atelier.thehaven.jp/kirikaedrill/zh-hans/practice/"/>
+  </url>
+  <url>
+    <loc>https://atelier.thehaven.jp/kirikaedrill/vi/practice/</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://atelier.thehaven.jp/kirikaedrill/practice/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://atelier.thehaven.jp/kirikaedrill/en/practice/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://atelier.thehaven.jp/kirikaedrill/vi/practice/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://atelier.thehaven.jp/kirikaedrill/zh-hans/practice/"/>
+  </url>
+  <url>
+    <loc>https://atelier.thehaven.jp/kirikaedrill/zh-hans/practice/</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://atelier.thehaven.jp/kirikaedrill/practice/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://atelier.thehaven.jp/kirikaedrill/en/practice/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://atelier.thehaven.jp/kirikaedrill/vi/practice/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://atelier.thehaven.jp/kirikaedrill/zh-hans/practice/"/>
   </url>
   <url>
     <loc>https://atelier.thehaven.jp/kirikaedrill/privacy/</loc>
