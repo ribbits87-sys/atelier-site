@@ -9,7 +9,7 @@ Haven Atelier（屋号 Haven）は、学ぶ人のことばで、試験と仕事�
 
 ## アプリ（Apps）
 
-- [ゲンバドリル（Genba Drill）](https://atelier.thehaven.jp/genbadrill/): 建設分野 特定技能1号評価試験（学科・実技）の学習アプリ。ふりがな付きの日本語で出題し、解説は4つの言語でも読めます。配信中: iPhone (App Store)。アプリの言語: 日本語, English, Tiếng Việt, Bahasa Indonesia, Tagalog。この内容のアプリの版: 1.5.0（2026-11-13）
+- [ゲンバドリル（Genba Drill）](https://atelier.thehaven.jp/genbadrill/): 建設分野 特定技能1号評価試験（学科・実技）の学習アプリ。ふりがな付きの日本語で出題し、解説は4つの言語でも読めます。配信中: iPhone (App Store)。アプリの言語: 日本語, English, Tiếng Việt, Bahasa Indonesia, Tagalog。この内容のアプリの版: 1.6.0（2026-11-24）
   - English: [Genba Drill](https://atelier.thehaven.jp/genbadrill/en/): Study app for the written and practical tests of Japan’s construction Specified Skilled Worker (i) exam. Questions in Japanese with furigana; explanations in four languages.
   - [Tiếng Việt](https://atelier.thehaven.jp/genbadrill/vi/) · [Bahasa Indonesia](https://atelier.thehaven.jp/genbadrill/id/) · [Tagalog](https://atelier.thehaven.jp/genbadrill/tl/)
   - 用語集（Glossary）: https://atelier.thehaven.jp/genbadrill/terms/

@@ -5435,18 +5435,40 @@
     <xhtml:link rel="alternate" hreflang="ja" href="https://atelier.thehaven.jp/genbadrill/practice/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://atelier.thehaven.jp/genbadrill/en/practice/"/>
     <xhtml:link rel="alternate" hreflang="vi" href="https://atelier.thehaven.jp/genbadrill/vi/practice/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://atelier.thehaven.jp/genbadrill/id/practice/"/>
+    <xhtml:link rel="alternate" hreflang="tl" href="https://atelier.thehaven.jp/genbadrill/tl/practice/"/>
   </url>
   <url>
     <loc>https://atelier.thehaven.jp/genbadrill/en/practice/</loc>
     <xhtml:link rel="alternate" hreflang="ja" href="https://atelier.thehaven.jp/genbadrill/practice/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://atelier.thehaven.jp/genbadrill/en/practice/"/>
     <xhtml:link rel="alternate" hreflang="vi" href="https://atelier.thehaven.jp/genbadrill/vi/practice/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://atelier.thehaven.jp/genbadrill/id/practice/"/>
+    <xhtml:link rel="alternate" hreflang="tl" href="https://atelier.thehaven.jp/genbadrill/tl/practice/"/>
   </url>
   <url>
     <loc>https://atelier.thehaven.jp/genbadrill/vi/practice/</loc>
     <xhtml:link rel="alternate" hreflang="ja" href="https://atelier.thehaven.jp/genbadrill/practice/"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://atelier.thehaven.jp/genbadrill/en/practice/"/>
     <xhtml:link rel="alternate" hreflang="vi" href="https://atelier.thehaven.jp/genbadrill/vi/practice/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://atelier.thehaven.jp/genbadrill/id/practice/"/>
+    <xhtml:link rel="alternate" hreflang="tl" href="https://atelier.thehaven.jp/genbadrill/tl/practice/"/>
+  </url>
+  <url>
+    <loc>https://atelier.thehaven.jp/genbadrill/id/practice/</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://atelier.thehaven.jp/genbadrill/practice/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://atelier.thehaven.jp/genbadrill/en/practice/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://atelier.thehaven.jp/genbadrill/vi/practice/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://atelier.thehaven.jp/genbadrill/id/practice/"/>
+    <xhtml:link rel="alternate" hreflang="tl" href="https://atelier.thehaven.jp/genbadrill/tl/practice/"/>
+  </url>
+  <url>
+    <loc>https://atelier.thehaven.jp/genbadrill/tl/practice/</loc>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://atelier.thehaven.jp/genbadrill/practice/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://atelier.thehaven.jp/genbadrill/en/practice/"/>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://atelier.thehaven.jp/genbadrill/vi/practice/"/>
+    <xhtml:link rel="alternate" hreflang="id" href="https://atelier.thehaven.jp/genbadrill/id/practice/"/>
+    <xhtml:link rel="alternate" hreflang="tl" href="https://atelier.thehaven.jp/genbadrill/tl/practice/"/>
   </url>
   <url>
     <loc>https://atelier.thehaven.jp/genbadrill/privacy/</loc>
